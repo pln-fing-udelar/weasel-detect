@@ -1,0 +1,3413 @@
+Loading training sentences from: train_sentences.pickle
+Using held out corpus from the training corpus. Held out size: 0.1
+Adjusting parameters (this may take a while!)...
+***************************************************************************
+Test 1 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 4950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 54
+  False positives: 39
+   True negatives: 914
+  False negatives: 104
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.58064516129
+           Recall: 0.341772151899
+        F-Measure: 0.430278884462
+---------------------------------------------------------------------------
+***************************************************************************
+Test 2 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 4980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 69
+  False positives: 42
+   True negatives: 911
+  False negatives: 89
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.621621621622
+           Recall: 0.436708860759
+        F-Measure: 0.513011152416
+---------------------------------------------------------------------------
+***************************************************************************
+Test 3 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 4990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 72
+  False positives: 43
+   True negatives: 910
+  False negatives: 86
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.626086956522
+           Recall: 0.455696202532
+        F-Measure: 0.527472527473
+---------------------------------------------------------------------------
+***************************************************************************
+Test 4 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 5000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 80
+  False positives: 71
+   True negatives: 882
+  False negatives: 78
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.529801324503
+           Recall: 0.506329113924
+        F-Measure: 0.517799352751
+---------------------------------------------------------------------------
+***************************************************************************
+Test 5 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 3950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 57
+  False positives: 41
+   True negatives: 912
+  False negatives: 101
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.581632653061
+           Recall: 0.360759493671
+        F-Measure: 0.4453125
+---------------------------------------------------------------------------
+***************************************************************************
+Test 6 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 3980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 68
+  False positives: 47
+   True negatives: 906
+  False negatives: 90
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.591304347826
+           Recall: 0.430379746835
+        F-Measure: 0.498168498168
+---------------------------------------------------------------------------
+***************************************************************************
+Test 7 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 3990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 72
+  False positives: 50
+   True negatives: 903
+  False negatives: 86
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.590163934426
+           Recall: 0.455696202532
+        F-Measure: 0.514285714286
+---------------------------------------------------------------------------
+***************************************************************************
+Test 8 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 4000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 85
+  False positives: 79
+   True negatives: 874
+  False negatives: 73
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.518292682927
+           Recall: 0.537974683544
+        F-Measure: 0.527950310559
+---------------------------------------------------------------------------
+***************************************************************************
+Test 9 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 2950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 61
+  False positives: 44
+   True negatives: 909
+  False negatives: 97
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.580952380952
+           Recall: 0.386075949367
+        F-Measure: 0.463878326996
+---------------------------------------------------------------------------
+***************************************************************************
+Test 10 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 2980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 50
+   True negatives: 903
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.6
+           Recall: 0.474683544304
+        F-Measure: 0.530035335689
+---------------------------------------------------------------------------
+***************************************************************************
+Test 11 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 2990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 74
+  False positives: 52
+   True negatives: 901
+  False negatives: 84
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.587301587302
+           Recall: 0.46835443038
+        F-Measure: 0.521126760563
+---------------------------------------------------------------------------
+***************************************************************************
+Test 12 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 3000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 85
+  False positives: 87
+   True negatives: 866
+  False negatives: 73
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.494186046512
+           Recall: 0.537974683544
+        F-Measure: 0.515151515152
+---------------------------------------------------------------------------
+***************************************************************************
+Test 13 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 1950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 63
+  False positives: 45
+   True negatives: 908
+  False negatives: 95
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.583333333333
+           Recall: 0.398734177215
+        F-Measure: 0.473684210526
+---------------------------------------------------------------------------
+***************************************************************************
+Test 14 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 1980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 78
+  False positives: 52
+   True negatives: 901
+  False negatives: 80
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.6
+           Recall: 0.493670886076
+        F-Measure: 0.541666666667
+---------------------------------------------------------------------------
+***************************************************************************
+Test 15 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 1990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 79
+  False positives: 53
+   True negatives: 900
+  False negatives: 79
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.598484848485
+           Recall: 0.5
+        F-Measure: 0.544827586207
+---------------------------------------------------------------------------
+***************************************************************************
+Test 16 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 2000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 87
+  False positives: 95
+   True negatives: 858
+  False negatives: 71
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.478021978022
+           Recall: 0.550632911392
+        F-Measure: 0.511764705882
+---------------------------------------------------------------------------
+***************************************************************************
+Test 17 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 60
+  False positives: 42
+   True negatives: 911
+  False negatives: 98
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.588235294118
+           Recall: 0.379746835443
+        F-Measure: 0.461538461538
+---------------------------------------------------------------------------
+***************************************************************************
+Test 18 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 79
+  False positives: 51
+   True negatives: 902
+  False negatives: 79
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.607692307692
+           Recall: 0.5
+        F-Measure: 0.548611111111
+---------------------------------------------------------------------------
+***************************************************************************
+Test 19 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 76
+  False positives: 57
+   True negatives: 896
+  False negatives: 82
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.571428571429
+           Recall: 0.481012658228
+        F-Measure: 0.522336769759
+---------------------------------------------------------------------------
+***************************************************************************
+Test 20 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 1000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 91
+  False positives: 99
+   True negatives: 854
+  False negatives: 67
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.478947368421
+           Recall: 0.575949367089
+        F-Measure: 0.522988505747
+---------------------------------------------------------------------------
+***************************************************************************
+Test 21 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 450
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 51
+  False positives: 47
+   True negatives: 906
+  False negatives: 107
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.520408163265
+           Recall: 0.322784810127
+        F-Measure: 0.3984375
+---------------------------------------------------------------------------
+***************************************************************************
+Test 22 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 480
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 46
+   True negatives: 907
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.619834710744
+           Recall: 0.474683544304
+        F-Measure: 0.537634408602
+---------------------------------------------------------------------------
+***************************************************************************
+Test 23 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 490
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 57
+   True negatives: 896
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.574626865672
+           Recall: 0.487341772152
+        F-Measure: 0.527397260274
+---------------------------------------------------------------------------
+***************************************************************************
+Test 24 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 500
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 87
+  False positives: 105
+   True negatives: 848
+  False negatives: 71
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.453125
+           Recall: 0.550632911392
+        F-Measure: 0.497142857143
+---------------------------------------------------------------------------
+***************************************************************************
+Test 25 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 4950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 52
+  False positives: 50
+   True negatives: 903
+  False negatives: 106
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.509803921569
+           Recall: 0.329113924051
+        F-Measure: 0.4
+---------------------------------------------------------------------------
+***************************************************************************
+Test 26 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 4980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 69
+  False positives: 48
+   True negatives: 905
+  False negatives: 89
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.589743589744
+           Recall: 0.436708860759
+        F-Measure: 0.501818181818
+---------------------------------------------------------------------------
+***************************************************************************
+Test 27 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 4990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 71
+  False positives: 57
+   True negatives: 896
+  False negatives: 87
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.5546875
+           Recall: 0.449367088608
+        F-Measure: 0.496503496503
+---------------------------------------------------------------------------
+***************************************************************************
+Test 28 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 5000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 80
+  False positives: 87
+   True negatives: 866
+  False negatives: 78
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.479041916168
+           Recall: 0.506329113924
+        F-Measure: 0.492307692308
+---------------------------------------------------------------------------
+***************************************************************************
+Test 29 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 3950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 56
+  False positives: 55
+   True negatives: 898
+  False negatives: 102
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.504504504505
+           Recall: 0.354430379747
+        F-Measure: 0.416356877323
+---------------------------------------------------------------------------
+***************************************************************************
+Test 30 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 3980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 70
+  False positives: 58
+   True negatives: 895
+  False negatives: 88
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.546875
+           Recall: 0.443037974684
+        F-Measure: 0.48951048951
+---------------------------------------------------------------------------
+***************************************************************************
+Test 31 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 3990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 72
+  False positives: 68
+   True negatives: 885
+  False negatives: 86
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.514285714286
+           Recall: 0.455696202532
+        F-Measure: 0.48322147651
+---------------------------------------------------------------------------
+***************************************************************************
+Test 32 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 4000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 83
+  False positives: 92
+   True negatives: 861
+  False negatives: 75
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.474285714286
+           Recall: 0.525316455696
+        F-Measure: 0.498498498498
+---------------------------------------------------------------------------
+***************************************************************************
+Test 33 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 2950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 60
+  False positives: 65
+   True negatives: 888
+  False negatives: 98
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.48
+           Recall: 0.379746835443
+        F-Measure: 0.424028268551
+---------------------------------------------------------------------------
+***************************************************************************
+Test 34 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 2980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 68
+  False positives: 60
+   True negatives: 893
+  False negatives: 90
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.53125
+           Recall: 0.430379746835
+        F-Measure: 0.475524475524
+---------------------------------------------------------------------------
+***************************************************************************
+Test 35 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 2990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 74
+  False positives: 70
+   True negatives: 883
+  False negatives: 84
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.513888888889
+           Recall: 0.46835443038
+        F-Measure: 0.490066225166
+---------------------------------------------------------------------------
+***************************************************************************
+Test 36 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 3000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 82
+  False positives: 100
+   True negatives: 853
+  False negatives: 76
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.450549450549
+           Recall: 0.518987341772
+        F-Measure: 0.482352941176
+---------------------------------------------------------------------------
+***************************************************************************
+Test 37 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 1950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 62
+  False positives: 62
+   True negatives: 891
+  False negatives: 96
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.5
+           Recall: 0.392405063291
+        F-Measure: 0.439716312057
+---------------------------------------------------------------------------
+***************************************************************************
+Test 38 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 1980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 73
+  False positives: 60
+   True negatives: 893
+  False negatives: 85
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.548872180451
+           Recall: 0.462025316456
+        F-Measure: 0.501718213058
+---------------------------------------------------------------------------
+***************************************************************************
+Test 39 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 1990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 62
+   True negatives: 891
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.553956834532
+           Recall: 0.487341772152
+        F-Measure: 0.518518518519
+---------------------------------------------------------------------------
+***************************************************************************
+Test 40 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 2000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 87
+  False positives: 106
+   True negatives: 847
+  False negatives: 71
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.450777202073
+           Recall: 0.550632911392
+        F-Measure: 0.495726495726
+---------------------------------------------------------------------------
+***************************************************************************
+Test 41 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 59
+  False positives: 57
+   True negatives: 896
+  False negatives: 99
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.508620689655
+           Recall: 0.373417721519
+        F-Measure: 0.430656934307
+---------------------------------------------------------------------------
+***************************************************************************
+Test 42 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 48
+   True negatives: 905
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.609756097561
+           Recall: 0.474683544304
+        F-Measure: 0.533807829181
+---------------------------------------------------------------------------
+***************************************************************************
+Test 43 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 74
+  False positives: 60
+   True negatives: 893
+  False negatives: 84
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.55223880597
+           Recall: 0.46835443038
+        F-Measure: 0.506849315068
+---------------------------------------------------------------------------
+***************************************************************************
+Test 44 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 1000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 92
+  False positives: 109
+   True negatives: 844
+  False negatives: 66
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.457711442786
+           Recall: 0.582278481013
+        F-Measure: 0.512534818942
+---------------------------------------------------------------------------
+***************************************************************************
+Test 45 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was', 'by', 'are', 'or', 'it', 'on', 'be', "'s", 'from', 'other', 'some', 'this', 'his', 'have', 'which', 'not', 'he', 'were', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'has', 'they', 'one', 'but', 'such', 'people']
+Size of dictionary: 450
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 46
+  False positives: 54
+   True negatives: 899
+  False negatives: 112
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.46
+           Recall: 0.291139240506
+        F-Measure: 0.356589147287
+---------------------------------------------------------------------------
+***************************************************************************
+Test 46 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is', 'as', '&', 'quot', 'that', 'for', '(', ')', "'", 'with', 'was']
+Size of dictionary: 480
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 72
+  False positives: 53
+   True negatives: 900
+  False negatives: 86
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.576
+           Recall: 0.455696202532
+        F-Measure: 0.508833922261
+---------------------------------------------------------------------------
+***************************************************************************
+Test 47 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+['the', ',', '.', 'of', 'and', 'in', 'to', 'a', ';', 'is']
+Size of dictionary: 490
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 65
+   True negatives: 888
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.542253521127
+           Recall: 0.487341772152
+        F-Measure: 0.513333333333
+---------------------------------------------------------------------------
+***************************************************************************
+Test 48 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: False
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Words excluded from dictionary:
+[]
+Size of dictionary: 500
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 89
+  False positives: 107
+   True negatives: 846
+  False negatives: 69
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.454081632653
+           Recall: 0.563291139241
+        F-Measure: 0.502824858757
+---------------------------------------------------------------------------
+***************************************************************************
+Test 49 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 4950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 54
+  False positives: 39
+   True negatives: 914
+  False negatives: 104
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.58064516129
+           Recall: 0.341772151899
+        F-Measure: 0.430278884462
+---------------------------------------------------------------------------
+***************************************************************************
+Test 50 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 4980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 69
+  False positives: 43
+   True negatives: 910
+  False negatives: 89
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.616071428571
+           Recall: 0.436708860759
+        F-Measure: 0.511111111111
+---------------------------------------------------------------------------
+***************************************************************************
+Test 51 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 4990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 42
+   True negatives: 911
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.641025641026
+           Recall: 0.474683544304
+        F-Measure: 0.545454545455
+---------------------------------------------------------------------------
+***************************************************************************
+Test 52 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 5000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 84
+  False positives: 80
+   True negatives: 873
+  False negatives: 74
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.512195121951
+           Recall: 0.53164556962
+        F-Measure: 0.521739130435
+---------------------------------------------------------------------------
+***************************************************************************
+Test 53 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 3950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 65
+  False positives: 42
+   True negatives: 911
+  False negatives: 93
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.607476635514
+           Recall: 0.411392405063
+        F-Measure: 0.490566037736
+---------------------------------------------------------------------------
+***************************************************************************
+Test 54 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 3980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 70
+  False positives: 48
+   True negatives: 905
+  False negatives: 88
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.593220338983
+           Recall: 0.443037974684
+        F-Measure: 0.507246376812
+---------------------------------------------------------------------------
+***************************************************************************
+Test 55 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 3990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 78
+  False positives: 49
+   True negatives: 904
+  False negatives: 80
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.614173228346
+           Recall: 0.493670886076
+        F-Measure: 0.547368421053
+---------------------------------------------------------------------------
+***************************************************************************
+Test 56 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 4000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 85
+  False positives: 84
+   True negatives: 869
+  False negatives: 73
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.502958579882
+           Recall: 0.537974683544
+        F-Measure: 0.519877675841
+---------------------------------------------------------------------------
+***************************************************************************
+Test 57 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 2950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 65
+  False positives: 47
+   True negatives: 906
+  False negatives: 93
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.580357142857
+           Recall: 0.411392405063
+        F-Measure: 0.481481481481
+---------------------------------------------------------------------------
+***************************************************************************
+Test 58 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 2980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 74
+  False positives: 51
+   True negatives: 902
+  False negatives: 84
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.592
+           Recall: 0.46835443038
+        F-Measure: 0.52296819788
+---------------------------------------------------------------------------
+***************************************************************************
+Test 59 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 2990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 53
+   True negatives: 900
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.592307692308
+           Recall: 0.487341772152
+        F-Measure: 0.534722222222
+---------------------------------------------------------------------------
+***************************************************************************
+Test 60 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 3000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 92
+  False positives: 89
+   True negatives: 864
+  False negatives: 66
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.508287292818
+           Recall: 0.582278481013
+        F-Measure: 0.542772861357
+---------------------------------------------------------------------------
+***************************************************************************
+Test 61 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 1950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 61
+  False positives: 57
+   True negatives: 896
+  False negatives: 97
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.516949152542
+           Recall: 0.386075949367
+        F-Measure: 0.442028985507
+---------------------------------------------------------------------------
+***************************************************************************
+Test 62 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 1980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 59
+   True negatives: 894
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.559701492537
+           Recall: 0.474683544304
+        F-Measure: 0.513698630137
+---------------------------------------------------------------------------
+***************************************************************************
+Test 63 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 1990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 81
+  False positives: 69
+   True negatives: 884
+  False negatives: 77
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.54
+           Recall: 0.512658227848
+        F-Measure: 0.525974025974
+---------------------------------------------------------------------------
+***************************************************************************
+Test 64 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 2000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 87
+  False positives: 99
+   True negatives: 854
+  False negatives: 71
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.467741935484
+           Recall: 0.550632911392
+        F-Measure: 0.505813953488
+---------------------------------------------------------------------------
+***************************************************************************
+Test 65 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 58
+  False positives: 52
+   True negatives: 901
+  False negatives: 100
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.527272727273
+           Recall: 0.367088607595
+        F-Measure: 0.432835820896
+---------------------------------------------------------------------------
+***************************************************************************
+Test 66 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 72
+  False positives: 57
+   True negatives: 896
+  False negatives: 86
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.558139534884
+           Recall: 0.455696202532
+        F-Measure: 0.501742160279
+---------------------------------------------------------------------------
+***************************************************************************
+Test 67 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 83
+  False positives: 64
+   True negatives: 889
+  False negatives: 75
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.56462585034
+           Recall: 0.525316455696
+        F-Measure: 0.544262295082
+---------------------------------------------------------------------------
+***************************************************************************
+Test 68 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 1000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 91
+  False positives: 109
+   True negatives: 844
+  False negatives: 67
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.455
+           Recall: 0.575949367089
+        F-Measure: 0.508379888268
+---------------------------------------------------------------------------
+***************************************************************************
+Test 69 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 50
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 450
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 53
+  False positives: 54
+   True negatives: 899
+  False negatives: 105
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.495327102804
+           Recall: 0.335443037975
+        F-Measure: 0.4
+---------------------------------------------------------------------------
+***************************************************************************
+Test 70 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 20
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 480
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 59
+   True negatives: 894
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.566176470588
+           Recall: 0.487341772152
+        F-Measure: 0.52380952381
+---------------------------------------------------------------------------
+***************************************************************************
+Test 71 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 10
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 490
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 86
+  False positives: 60
+   True negatives: 893
+  False negatives: 72
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.58904109589
+           Recall: 0.544303797468
+        F-Measure: 0.565789473684
+---------------------------------------------------------------------------
+***************************************************************************
+Test 72 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 0
+Bool count: True
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 500
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 94
+  False positives: 114
+   True negatives: 839
+  False negatives: 64
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.451923076923
+           Recall: 0.594936708861
+        F-Measure: 0.513661202186
+---------------------------------------------------------------------------
+***************************************************************************
+Test 73 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 4950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 48
+  False positives: 52
+   True negatives: 901
+  False negatives: 110
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.48
+           Recall: 0.303797468354
+        F-Measure: 0.372093023256
+---------------------------------------------------------------------------
+***************************************************************************
+Test 74 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 4980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 63
+  False positives: 52
+   True negatives: 901
+  False negatives: 95
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.547826086957
+           Recall: 0.398734177215
+        F-Measure: 0.461538461538
+---------------------------------------------------------------------------
+***************************************************************************
+Test 75 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 4990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 68
+  False positives: 54
+   True negatives: 899
+  False negatives: 90
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.55737704918
+           Recall: 0.430379746835
+        F-Measure: 0.485714285714
+---------------------------------------------------------------------------
+***************************************************************************
+Test 76 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 5000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 5000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 83
+  False positives: 86
+   True negatives: 867
+  False negatives: 75
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.491124260355
+           Recall: 0.525316455696
+        F-Measure: 0.507645259939
+---------------------------------------------------------------------------
+***************************************************************************
+Test 77 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 3950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 62
+  False positives: 59
+   True negatives: 894
+  False negatives: 96
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.512396694215
+           Recall: 0.392405063291
+        F-Measure: 0.444444444444
+---------------------------------------------------------------------------
+***************************************************************************
+Test 78 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 3980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 67
+  False positives: 56
+   True negatives: 897
+  False negatives: 91
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.544715447154
+           Recall: 0.424050632911
+        F-Measure: 0.476868327402
+---------------------------------------------------------------------------
+***************************************************************************
+Test 79 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 3990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 73
+  False positives: 61
+   True negatives: 892
+  False negatives: 85
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.544776119403
+           Recall: 0.462025316456
+        F-Measure: 0.5
+---------------------------------------------------------------------------
+***************************************************************************
+Test 80 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 4000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 4000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 87
+  False positives: 97
+   True negatives: 856
+  False negatives: 71
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.472826086957
+           Recall: 0.550632911392
+        F-Measure: 0.508771929825
+---------------------------------------------------------------------------
+***************************************************************************
+Test 81 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 2950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 60
+  False positives: 67
+   True negatives: 886
+  False negatives: 98
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.472440944882
+           Recall: 0.379746835443
+        F-Measure: 0.421052631579
+---------------------------------------------------------------------------
+***************************************************************************
+Test 82 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 2980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 68
+  False positives: 62
+   True negatives: 891
+  False negatives: 90
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.523076923077
+           Recall: 0.430379746835
+        F-Measure: 0.472222222222
+---------------------------------------------------------------------------
+***************************************************************************
+Test 83 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 2990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 77
+  False positives: 63
+   True negatives: 890
+  False negatives: 81
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.55
+           Recall: 0.487341772152
+        F-Measure: 0.51677852349
+---------------------------------------------------------------------------
+***************************************************************************
+Test 84 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 3000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 3000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 88
+  False positives: 101
+   True negatives: 852
+  False negatives: 70
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.465608465608
+           Recall: 0.556962025316
+        F-Measure: 0.507204610951
+---------------------------------------------------------------------------
+***************************************************************************
+Test 85 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 1950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 59
+  False positives: 76
+   True negatives: 877
+  False negatives: 99
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.437037037037
+           Recall: 0.373417721519
+        F-Measure: 0.402730375427
+---------------------------------------------------------------------------
+***************************************************************************
+Test 86 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 1980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 67
+  False positives: 70
+   True negatives: 883
+  False negatives: 91
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.489051094891
+           Recall: 0.424050632911
+        F-Measure: 0.454237288136
+---------------------------------------------------------------------------
+***************************************************************************
+Test 87 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 1990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 71
+  False positives: 78
+   True negatives: 875
+  False negatives: 87
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.476510067114
+           Recall: 0.449367088608
+        F-Measure: 0.462540716612
+---------------------------------------------------------------------------
+***************************************************************************
+Test 88 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 2000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 2000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 86
+  False positives: 108
+   True negatives: 845
+  False negatives: 72
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.443298969072
+           Recall: 0.544303797468
+        F-Measure: 0.488636363636
+---------------------------------------------------------------------------
+***************************************************************************
+Test 89 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 950
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 56
+  False positives: 69
+   True negatives: 884
+  False negatives: 102
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.448
+           Recall: 0.354430379747
+        F-Measure: 0.395759717314
+---------------------------------------------------------------------------
+***************************************************************************
+Test 90 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 980
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 69
+  False positives: 65
+   True negatives: 888
+  False negatives: 89
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.514925373134
+           Recall: 0.436708860759
+        F-Measure: 0.472602739726
+---------------------------------------------------------------------------
+***************************************************************************
+Test 91 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 990
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 75
+  False positives: 73
+   True negatives: 880
+  False negatives: 83
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.506756756757
+           Recall: 0.474683544304
+        F-Measure: 0.490196078431
+---------------------------------------------------------------------------
+***************************************************************************
+Test 92 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 1000
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 1000
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 90
+  False positives: 109
+   True negatives: 844
+  False negatives: 68
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.452261306533
+           Recall: 0.569620253165
+        F-Measure: 0.504201680672
+---------------------------------------------------------------------------
+***************************************************************************
+Test 93 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 50
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with', 'by', 'or', 'it', 'on', 'other', "'s", 'from', 'some', 'this', 'his', 'which', 'not', 'he', 'an', 'at', 'may', 'many', 'most', 'also', 'their', 'use', 'one', 'they', 'but', 'people', 'such', 'often', 'more', 'who', ':']
+Size of dictionary: 450
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 53
+  False positives: 60
+   True negatives: 893
+  False negatives: 105
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.469026548673
+           Recall: 0.335443037975
+        F-Measure: 0.391143911439
+---------------------------------------------------------------------------
+***************************************************************************
+Test 94 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 20
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';', 'as', '&', 'quot', 'that', 'have', 'for', '(', ')', "'", 'with']
+Size of dictionary: 480
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 68
+  False positives: 61
+   True negatives: 892
+  False negatives: 90
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.527131782946
+           Recall: 0.430379746835
+        F-Measure: 0.473867595819
+---------------------------------------------------------------------------
+***************************************************************************
+Test 95 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 10
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 490
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 79
+  False positives: 65
+   True negatives: 888
+  False negatives: 79
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.548611111111
+           Recall: 0.5
+        F-Measure: 0.523178807947
+---------------------------------------------------------------------------
+***************************************************************************
+Test 96 of 96
+Creating classifier...
+Ok.
+Setting parameters...
+Bag of lemmas: True
+Named entities: True
+Wexes: False
+Most common size: 500
+Stop words: 0
+Bool count: False
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+[]
+Size of dictionary: 500
+Size of training set: 10000
+Evaluating classifier...
+Size of evaluation set: 1111
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 1111
+Positive examples: 158
+Negative examples: 953
+---------------------------------------------------------------------------
+   True positives: 94
+  False positives: 114
+   True negatives: 839
+  False negatives: 64
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.451923076923
+           Recall: 0.594936708861
+        F-Measure: 0.513661202186
+---------------------------------------------------------------------------
+***************************************************************************
+Bye!

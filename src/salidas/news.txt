@@ -1,0 +1,81 @@
+Loading classifier from: naive_bayes1369783500.classifier
+Loading sentences from: rss_sentences.pickle
+Ok.
+Classifying sentences...
+---------------------------------------------------------------------------
+SENTENCE ID: The Caucus.0
+Several top aides to Hillary Rodham Clinton, the former secretary of state, are targets of the latest subpoena for information about the drafting of talking points after the siege last fall on an American compound in Benghazi, Libya.
+
+SENTENCE ID: The Caucus.9
+Senators John McCain and Lindsey Graham, two of the strongest Republican critics of the Obama administration's handling of the Benghazi attack, offered support nonetheless for the nomination of Victoria Nuland, who helped edit the much-disputed talking points about the incident.
+
+SENTENCE ID: The Caucus.15
+Mark Mazzetti, a Times reporter who covers the intelligence community and is the author of "The Way of the Knife," a book about the United States’ use of drones, will provide analysis and context about U.S. drone policy during the president’s speech.
+
+SENTENCE ID: NYT > Most Recent Headlines.0
+In 2009 Morgans Hotel Group received financing under terms that favored the investor, the Yucaipa Companies; it is now finding it hard to unwind the relationship.
+
+SENTENCE ID: NYT > Most Recent Headlines.7
+Notable properties that have been recently listed for sale, sold or leased.
+
+SENTENCE ID: NYT > Most Recent Headlines.16
+The old City Hall was demolished to make way for a $50 million stadium built for the new Triple-A minor league team that is scheduled to move in next season.
+
+SENTENCE ID: NYT > Most Recent Headlines.18
+The authorities planned to provide public Internet access at 118 new cybersalons, but for many, the hourly fee  adds up to nearly a week’s salary.
+
+SENTENCE ID: FiveThirtyEight.0
+The Republicans have several widely popular governors in swing states and blue states.
+
+SENTENCE ID: FiveThirtyEight.3
+Some conservatives are alleging that the I.R.S.
+
+SENTENCE ID: FiveThirtyEight.12
+The admission by the Internal Revenue Service that it targeted conservative organizations when they applied for tax-exempt status could motivate a strong turnout from the Republican base.
+
+SENTENCE ID: FiveThirtyEight.15
+The good news for Mr. Gomez is that it is early and some of these factors are malleable.
+
+SENTENCE ID: The New Old Age.5
+Why are elderly veterans and their spouses still waiting months, sometimes more than a year, to qualify for caregiving benefits from the V.A.
+
+SENTENCE ID: The New Old Age.8
+Some specialized units for dementia care do manage to improve on traditional nursing home care, recent studies suggest.
+
+SENTENCE ID: The New Old Age.11
+For the elderly, not only can even supposedly minor procedures have complications, but the cancers grow so slowly that they’re unlikely to cause problems in the patients’ remaining years.
+
+SENTENCE ID: Well.1
+Some experts blame the rising number of melanoma cases on inappropriate use of sunscreen, but a major concern is also not using products that protect against UVA rays.
+
+SENTENCE ID: Well.2
+Despite their reputation, canned fruits and vegetables retain many of their nutrients, in some cases better than fresh produce does.
+
+SENTENCE ID: Well.11
+Nearly 23 years after the Americans With Disabilities Act went into effect, patients with disabilities continue to receive inadequate medical care — and many cannot even get a doctor's appointment.
+
+SENTENCE ID: Well.12
+Children of mothers with cancer must learn this painful lesson early: the vulnerability of the figure on whom they have grounded their existence.
+
+SENTENCE ID: Well.15
+A new report from ConsumerLab.com shows that some bottled varieties of green tea appear to be little more than sugar water, while some green tea leaves are contaminated with lead.
+
+SENTENCE ID: Well.16
+Age has its privileges, and a new study suggests that one of them may be immunity to some flu pandemics.
+
+SENTENCE ID: Well.17
+An important new study suggests that statins, the cholesterol-lowering medications that are the most prescribed drugs in the world, may block some of the fitness benefits of exercise, one of the surest ways to improve health.
+
+SENTENCE ID: Well.18
+Some parents have been worried about giving their children pain relievers like ibuprofen and acetaminophen, based on reports that children who are given the drugs are more likely to develop asthma.
+
+SENTENCE ID: Well.19
+But a new study suggests that the relationship may be little more than a statistical oversight.
+
+SENTENCE ID: Scientist at Work.4
+Slow lorises in the deep dark of the Vietnamese forest are probably wise to avoid the scientist who wanders by with a flashlight and a notebook.
+
+---------------------------------------------------------------------------
+Sentences classified: 108
+Uncertain sentences found: 24
+Bye!

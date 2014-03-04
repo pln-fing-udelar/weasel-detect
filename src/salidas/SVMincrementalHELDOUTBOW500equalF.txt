@@ -1,0 +1,430 @@
+SVM solo con BOW (500 - 0), sobre el heldout (ultimos 1111 ejemplos del corpus de entrenamiento). 
+Las palabras del diccionario se calcularon UNA sola vez al principio (no cambian a medida que aumenta el tamaño del corpus).
+Using SVM classifier.
+Loading training sentences from: train_sentences.pickle
+Using held out corpus from the training corpus. Held out size: 0.1
+Calculating results for different training set sizes...
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.8488% (976/1111) (classification)
+3000;0.623655913978;0.367088607595;0.462151394422
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.7588% (974/1111) (classification)
+3050;0.612244897959;0.379746835443;0.46875
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.3087% (970/1111) (classification)
+3100;0.589473684211;0.354430379747;0.442687747036
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.4887% (972/1111) (classification)
+3150;0.602150537634;0.354430379747;0.446215139442
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.6688% (974/1111) (classification)
+3200;0.61797752809;0.348101265823;0.445344129555
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.3987% (971/1111) (classification)
+3250;0.591836734694;0.367088607595;0.453125
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.7588% (974/1111) (classification)
+3300;0.627906976744;0.341772151899;0.44262295082
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.4788% (983/1111) (classification)
+3350;0.678571428571;0.360759493671;0.471074380165
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.5788% (973/1111) (classification)
+3400;0.608695652174;0.354430379747;0.448
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.0288% (978/1111) (classification)
+3450;0.637362637363;0.367088607595;0.465863453815
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.0288% (978/1111) (classification)
+3500;0.640449438202;0.360759493671;0.461538461538
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.3888% (982/1111) (classification)
+3550;0.662921348315;0.373417721519;0.477732793522
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.5689% (984/1111) (classification)
+3600;0.67032967033;0.386075949367;0.489959839357
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.9388% (977/1111) (classification)
+3650;0.633333333333;0.360759493671;0.459677419355
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.6688% (974/1111) (classification)
+3700;0.620689655172;0.341772151899;0.440816326531
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.7588% (974/1111) (classification)
+3750;0.630952380952;0.335443037975;0.438016528926
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.8488% (976/1111) (classification)
+3800;0.632183908046;0.348101265823;0.448979591837
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.3888% (982/1111) (classification)
+3850;0.666666666667;0.367088607595;0.473469387755
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 87.8488% (976/1111) (classification)
+3900;0.629213483146;0.354430379747;0.453441295547
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.7489% (986/1111) (classification)
+3950;0.689655172414;0.379746835443;0.489795918367
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.6589% (985/1111) (classification)
+4000;0.69512195122;0.360759493671;0.475
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.2988% (981/1111) (classification)
+4050;0.666666666667;0.354430379747;0.462809917355
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.7489% (986/1111) (classification)
+4100;0.698795180723;0.367088607595;0.48132780083
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.5689% (984/1111) (classification)
+4150;0.686746987952;0.360759493671;0.473029045643
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.0189% (989/1111) (classification)
+4200;0.719512195122;0.373417721519;0.491666666667
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.1188% (979/1111) (classification)
+4250;0.651162790698;0.354430379747;0.459016393443
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.7489% (986/1111) (classification)
+4300;0.681318681319;0.392405063291;0.497991967871
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.2988% (981/1111) (classification)
+4350;0.645833333333;0.392405063291;0.488188976378
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.4788% (983/1111) (classification)
+4400;0.670454545455;0.373417721519;0.479674796748
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.1989% (990/1111) (classification)
+4450;0.720930232558;0.392405063291;0.508196721311
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.9289% (988/1111) (classification)
+4500;0.701149425287;0.386075949367;0.497959183673
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 88.8389% (987/1111) (classification)
+4550;0.697674418605;0.379746835443;0.491803278689
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.1089% (990/1111) (classification)
+4600;0.717647058824;0.386075949367;0.502057613169
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.3789% (993/1111) (classification)
+4650;0.738095238095;0.392405063291;0.512396694215
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+4700;0.766233766234;0.373417721519;0.502127659574
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+4750;0.769230769231;0.379746835443;0.508474576271
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+4800;0.759493670886;0.379746835443;0.506329113924
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.3789% (993/1111) (classification)
+4850;0.75641025641;0.373417721519;0.5
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.0189% (989/1111) (classification)
+4900;0.730769230769;0.360759493671;0.483050847458
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.1989% (990/1111) (classification)
+4950;0.7375;0.373417721519;0.495798319328
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+5000;0.766233766234;0.373417721519;0.502127659574
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+5050;0.753086419753;0.386075949367;0.510460251046
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+5100;0.771084337349;0.405063291139;0.53112033195
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+5150;0.780487804878;0.405063291139;0.533333333333
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+5200;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+5250;0.777777777778;0.398734177215;0.52719665272
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+5300;0.777777777778;0.398734177215;0.52719665272
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+5350;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+5400;0.7625;0.386075949367;0.512605042017
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+5450;0.753086419753;0.386075949367;0.510460251046
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+5500;0.780487804878;0.405063291139;0.533333333333
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+5550;0.765432098765;0.392405063291;0.518828451883
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+5600;0.775;0.392405063291;0.521008403361
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+5650;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+5700;0.777777777778;0.398734177215;0.52719665272
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+5750;0.756097560976;0.392405063291;0.516666666667
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+5800;0.752941176471;0.405063291139;0.526748971193
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+5850;0.755813953488;0.411392405063;0.532786885246
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+5900;0.758620689655;0.417721518987;0.538775510204
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+5950;0.738636363636;0.411392405063;0.528455284553
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+6000;0.758241758242;0.436708860759;0.55421686747
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+6050;0.758241758242;0.436708860759;0.55421686747
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6100;0.747252747253;0.430379746835;0.546184738956
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+6150;0.741573033708;0.417721518987;0.534412955466
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+6200;0.741573033708;0.417721518987;0.534412955466
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+6250;0.739130434783;0.430379746835;0.544
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6300;0.747252747253;0.430379746835;0.546184738956
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+6350;0.755813953488;0.411392405063;0.532786885246
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+6400;0.761363636364;0.424050632911;0.544715447154
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+6450;0.752941176471;0.405063291139;0.526748971193
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6500;0.758620689655;0.417721518987;0.538775510204
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+6550;0.79012345679;0.405063291139;0.535564853556
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+6600;0.759036144578;0.398734177215;0.522821576763
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6650;0.771084337349;0.405063291139;0.53112033195
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6700;0.777777777778;0.398734177215;0.52719665272
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.099% (1001/1111) (classification)
+6750;0.8;0.405063291139;0.53781512605
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+6800;0.780487804878;0.405063291139;0.533333333333
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6850;0.771084337349;0.405063291139;0.53112033195
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+6900;0.771084337349;0.405063291139;0.53112033195
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+6950;0.79012345679;0.405063291139;0.535564853556
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+7000;0.792207792208;0.386075949367;0.51914893617
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.189% (1002/1111) (classification)
+7050;0.818181818182;0.398734177215;0.536170212766
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+7100;0.784810126582;0.392405063291;0.523206751055
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+7150;0.765432098765;0.392405063291;0.518828451883
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+7200;0.759036144578;0.398734177215;0.522821576763
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+7250;0.7875;0.398734177215;0.529411764706
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+7300;0.794871794872;0.392405063291;0.525423728814
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+7350;0.782051282051;0.386075949367;0.516949152542
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+7400;0.782051282051;0.386075949367;0.516949152542
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+7450;0.766233766234;0.373417721519;0.502127659574
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+7500;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+7550;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+7600;0.773333333333;0.367088607595;0.497854077253
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+7650;0.8;0.379746835443;0.515021459227
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+7700;0.789473684211;0.379746835443;0.512820512821
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+7750;0.789473684211;0.379746835443;0.512820512821
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+7800;0.792207792208;0.386075949367;0.51914893617
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+7850;0.775;0.392405063291;0.521008403361
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+7900;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+7950;0.7625;0.386075949367;0.512605042017
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+8000;0.766233766234;0.373417721519;0.502127659574
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8050;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8100;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+8150;0.782051282051;0.386075949367;0.516949152542
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+8200;0.769230769231;0.379746835443;0.508474576271
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+8250;0.802631578947;0.386075949367;0.521367521368
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+8300;0.808219178082;0.373417721519;0.510822510823
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+8350;0.8;0.379746835443;0.515021459227
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+8400;0.810810810811;0.379746835443;0.51724137931
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+8450;0.813333333333;0.386075949367;0.523605150215
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+8500;0.8;0.379746835443;0.515021459227
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+8550;0.789473684211;0.379746835443;0.512820512821
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+8600;0.789473684211;0.379746835443;0.512820512821
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8650;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8700;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8750;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8800;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8850;0.779220779221;0.379746835443;0.510638297872
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+8900;0.772151898734;0.386075949367;0.514767932489
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+8950;0.769230769231;0.379746835443;0.508474576271
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+9000;0.756097560976;0.392405063291;0.516666666667
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.559% (995/1111) (classification)
+9050;0.756097560976;0.392405063291;0.516666666667
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.4689% (994/1111) (classification)
+9100;0.753086419753;0.386075949367;0.510460251046
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.649% (996/1111) (classification)
+9150;0.759036144578;0.398734177215;0.522821576763
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+9200;0.768292682927;0.398734177215;0.525
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9250;0.780487804878;0.405063291139;0.533333333333
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9300;0.780487804878;0.405063291139;0.533333333333
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+9350;0.771084337349;0.405063291139;0.53112033195
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9400;0.77380952381;0.411392405063;0.537190082645
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+9450;0.78313253012;0.411392405063;0.539419087137
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.739% (997/1111) (classification)
+9500;0.755813953488;0.411392405063;0.532786885246
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.829% (998/1111) (classification)
+9550;0.764705882353;0.411392405063;0.534979423868
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9600;0.77380952381;0.411392405063;0.537190082645
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9650;0.77380952381;0.411392405063;0.537190082645
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9700;0.77380952381;0.411392405063;0.537190082645
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 89.919% (999/1111) (classification)
+9750;0.77380952381;0.411392405063;0.537190082645
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.099% (1001/1111) (classification)
+9800;0.785714285714;0.417721518987;0.545454545455
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+9850;0.78313253012;0.411392405063;0.539419087137
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+9900;0.78313253012;0.411392405063;0.539419087137
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+9950;0.78313253012;0.411392405063;0.539419087137
+Model supports probability estimates, but disabled in predicton.
+Accuracy = 90.009% (1000/1111) (classification)
+10000;0.78313253012;0.411392405063;0.539419087137
+Bye!

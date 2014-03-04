@@ -1,0 +1,1324 @@
+Using Evaluation corpus.
+Loading training sentences from: train_sentences.pickle
+Loading evaluation sentences from: eval_sentences.pickle
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 490
+Size of training set: 11111
+Ok.
+Evaluating classifier...
+FN:S1.3:  The  considerable  size and weight of .50 BMG rifles,  high  cost, and lack of concealability make them a  poor  choice for criminal use.
+FN:S3.3:  It is the reaction between a 1,3-dipole and a dipolarophile,  most of which  are substituted alkenes, to form a five-membered ring.
+FN:S4.4:  The club enjoyed  most of its success  in its early years.
+FN:S4.5:  In 1906 they captured the championship of the Süddeutschland Verband (South German League) by beating 'Karlsruher FV',  one of the era's most prominent  sides.
+FN:S6.2:  Designed by architectural firm Pickard Chilton of Connecticut, 1180 Peachtree incorporates  various environmental innovations  that achieved the prestigious U.S. Green Building Council's Leadership in Energy and Environmental Design (LEED) gold certification.
+FN:S6.4:  These fins are illuminated from inside at night for a dramatic skyline presence, giving what  is considered  to be a Gothic feel.
+FN:S8.2:  Trained  groups  and  heavy bombardment replacement crews  for Second Air Force Jun 1942 until Feb 1945 when it ceased all activity.
+FN:S11.2:  The year '1718 in architecture' involved  some significant events .
+FN:S12.2:  The year '1768 in architecture' involved  some significant events .
+FN:S15.2:  The annual contest between the Black Knights of Army and the Midshipmen of the Naval Academy at Annapolis (Navy) is among  the most storied  rivalries in all of college sports.
+FN:S20.2:  The June Free Agent Amateur Draft was  one of the most productive .
+FN:S21.4:  The Bulls set a  dubious  mark by posting the second worst record for a playoff-qualifying team in history, going just 30-52 during the season.
+FN:S22.3:  Even the basic 1.9 petrol engine gave  impressive  performance, with the range topping 2.5 unit  one of the best  powerhouses ever found under the bonnet of a BMW.
+FN:S33.3:  The 21–3 win  was considered  by  almost every commentator  to be even  more one-sided  than the score indicated.
+FN:S35.8:  In addition, all Monday Night shows (save 'PTI') will be based in ESPN's headquarters in Bristol, Connecticut instead of on-site as a  likely  money-saving measure.
+FN:S36.2:  The Mets collapse at the end of the season led to  great  dissapointment of the players of the Mets, as well as Mets fans in New York and across the country.
+FN:S36.3:  The player who was  arguably   the most affected  by the Mets' loss was Shawn Green, who was  greatly  dissapointed, demoralized, and discouraged by the Mets' loss.
+FN:S39.3:  The Internet is playing a  large  role in this effort.
+FN:S39.5:  [UnitedHollywood Appeals directly to  the public  via Youtube (video)]
+FN:S41.4:  On 29 January and 19 March,  researchers ,  lecturers  and  students  played a  massive  part in the demonstrations held during both general strikes, that brought over 3 million people into the streets.
+FN:S44.3:  On July 13th, seven people were killed and  many others  missing when a bus fell into a rivulet after being swept away by flood waters in Nayagarh district in Orissa.
+FN:S44.5:  The  world famous  Sun Temple at Konark is also water-logged, causing hardship for tourists.
+FN:S49.2:  The 2540p mode features 4520 vertical lines of resolution, although  sometime in the future   may  be changed for technical reasons.
+FN:S50.2:  Famous Danish models from this agency is; Louise P, Helena Christensen, Lykke May, Tina Mogensen, Anna Davolio and  many more ...
+FN:S54.2:  At the time of discovery in 2001, 47 Ursae Majoris  was already known  to host one extrasolar planet, designated 47 Ursae Majoris b.
+FN:S55.2:  Though not officially recognized, the name &quot;Bellerophon&quot; is  commonly  used for the planet.
+FN:S57.2:  It was in '7 Vidas' that the now internationally famous actress Paz Vega, and  other Spanish actors  first became household names in Spain..
+FN:S60.2:  Before the uprising, Burma had been ruled by the  repressive  and isolated regime of General Ne Win since 1962.
+FN:S61.3:  It  may  be  indicative  that multiculturalism  may  not be very useful without larger forces avoiding conflict.
+FN:S61.4:  Or it  may  be that  certain cultural differences  are intractable.
+FN:S63.4:  Piella needed to  at times  sound well-to-do, and then  at others  sound quite gritty&quot;.
+FN:S67.3:  The alignment of this road is relatively modern as the  dangerous  junction with Berristow Lane was improved to grade-separated in the late 1990s, incorporating access to a  busy  shopping centre.
+FN:S72.2:  The most successful  riders have included Doug Chandler, Scott Russell, Miguel Duhamel and Mat Mladin, who holds several series records including six championships.
+FN:S75.7:  It failed to  garner a successful market niche , and production ended in the mid-90s with no serious commercial use.
+FN:S76.2:  The title were  supposedly  revived in 2005 in Dale Gagner's independent promotion AWA Superstars of Wrestling, who relicensed the AWA name.
+FN:S78.2:  Pakistani photographers Arshad Tareen, Athar Shahzad and Tapu Javeri have deemed her  the most photogenic  model and a pleasure to work with.
+FN:S80.2:  Pink Floyd recorded  most of their late 1960s to mid-1970s albums  at the studio, returning only in 1988 for mixing and overdubbing subsequent albums.
+FN:S88.3:  Aboyne has become  extremely popular  with gliding enthusiasts from all over the UK and Europe due to its uniquely suitable air currents (due to the surrounding terrain).
+FN:S91.2:  In 629 he went to Medina with  some others  from his tribe.
+FN:S92.2:  Academic clinical trials are run at academic sites, such as medical schools, academic hospitals, and universities; and non-academic sites which may be managed by so-called  site management organizations  (SMOs).
+FN:S92.4:  In  some cases , academic members participate in clinical trials as members of SMOs.
+FN:S93.2:  With York Region's Viva as a precedent, it is  probable  that the Acceleride routes will share the same fare structure as the conventional Brampton Transit system.
+FN:S94.3:  'Ace Combat 2' is part of Namco's 'Ace Combat' series and continues the arcade style gameplay of its predecessor, with  some minor improvements .
+FN:S99.2:  In contrast to activin, much less is known about the mechanism of action of inhibin, but  may  involve competing with activin for binding to activin receptors and/or binding to inhibin-specific receptors.
+FN:S101.2:  In Round 7 2006 Goodes played his 150th consecutive match, an  amazing  effort for the injuries he endured in his 2004 year.
+FN:S104.6:  A datavise between two (or more) people serves as a  somewhat  cruder analogue to the Edenist affinity.
+FN:S105.2:  An 'adatom' is an atom that lies on a crystal surface, and  can be thought  of as the opposite of a surface vacancy.
+FN:S105.6:  This is often a thermodynamically  unfavorable  state, however, cases such as graphene  may  provide counter-examples.
+FN:S106.3:  This film  conspicuously  lacks Pubert from the second film, 'Addams Family Values'.
+FN:S107.4:  This theory is reinforced with the fact that Amaro da Costa was the one renting the plane, and Sá Carneiro a last minute passenger ( possibly  as a decoy).
+FN:S114.3:  This  often  means that in-state students must take two classes to fulfill each required high-school credit, as the Georgia State Board of Education regards 3 credit hours as being worth .6 Carnegie Units.
+FN:S117.3:  Colleges of the Advocates of St. Peter, numbering  many hundred members , existed in Italy, England, Austria, France, Spain, Germany, Canada and South America.
+FN:S123.3:  Aganju  has been associated  with Oshun, with whom he had a relationship, as well as with Yemoja.
+FN:S123.4:  Aganju  is associated  with the shoulder and has a strong, powerful, and determined character.
+FN:S123.5:  He  is considered  &quot;one heart&quot; with Oya and is received by all of Shango's, Oshun's, and Oya's children.
+FN:S125.2:  On a very familiar note , Microsoft has been sued by Agere for theft of key technology used in Internet telephony.
+FN:S125.3:  Apparently , Agere was meeting with Microsoft in 2002 and 2003 for the purpose of selling Agere's stereophonic acoustic echo cancellation technology to Microsoft.
+FN:S127.2:  The Foundation’s actions are to be linked to those of the “ association to allow Montpellier institutions involved in agricultural sciences as a whole (totalizing approx. 2300 scientists) to reach the same international repute as  other agricultural research institutes  at European (e.g. Wageningen University, with 1400 scientists) or international (e.g. the centers network, with 1800 scientists) level.
+FN:S129.3:  This  probably  followed their return to Saudi Arabia to get &quot;clean&quot; passports.
+FN:S130.4:  In fact, the book can be read from quite different perspectives, and  cannot be exhausted  in only one.
+FN:S132.3:  As with heating systems, the advantages of air conditioning  generally   far  outweigh the disadvantages.
+FN:S133.2:  Cockpit doors on  most commercial airlines  have been strengthened, and are now bullet proof.
+FN:S133.3:  In the United Kingdom, United States, Australia and India, air marshals have also been added to  some flights  to deter and thwart hijackers.
+FN:S134.2:  Most of the airlines  publish the seat configurations for their aircraft, but the quality of these seat maps is sometimes questionable.
+FN:S134.3:  Some of the details  and information about seats are confusing.
+FN:S135.2:  At the end of the First World War, Airdrie was hard hit with  many casualties  from the war.
+FN:S135.3:  Many inhabitants  also chose to emigrate around this time.
+FN:S135.6:  It was reported  that 50% of the registered population were unemployed.
+FN:S139.2:  The attack made global headlines and sent shock waves across Japan, shaking public confidence in what  is traditionally considered  a society safe from violent crime.
+FN:S141.4:  For five days,  people   thought  that it was still the real Al Qaida site.
+FN:S143.2:  In Chaldean mythology the 'alal' were demons that came from Hell taking  diverse appearances , with the purpose of inducing men to sin.
+FN:S144.2:  The village has a Krishna temple and Kali temple , the main village festival is celebrated by  the people  very enthusiastically around April.
+FN:S152.4:  This  appears  to be the decision of a trial court, rather than an appellate court, such as the Pennsylvania Provincial Supreme Court.
+FN:S153.4:  The opera is  usually  given in the revised version, although this is  sometimes  translated into Italian.
+FN:S155.2:  Salmond was  one of the few  British politicians to oppose the NATO bombing of Serbia in 1999.
+FN:S155.4:  Despite this, Salmond  was heavily criticised  in the media for describing Tony Blair's decision to intervene militarily as an &quot;unpardonable folly&quot;.
+FN:S157.5:  Alexius Frederick Christian began the build of  several major construction projects , such as the later destroyed 'Saalebrücke' in Bernburg (Saale).
+FN:S160.2:  He remained  generally  outside politics until the beginning of the 1980s when the leftist FMLN guerillas and their 'campesino' followers began squatting on farms.
+FN:S162.2:  In early September 2007 the Department of Defense released two  heavily  redacted memos, from his Board, to Gordon England, the Designated Civilian Official.
+FN:S163.3:  Schonfeld adapted to her environment with a variety of visual reminders, enabling her to create  many of her more notable works .
+FN:S167.4:  Although standards at the school have declined  considerably , the pass rate is still  quite high  and the boys still manage to hold their own against other schools on the sports field.
+FN:S167.6:  There are also  many successful old boys  living in Zimbabwe.
+FN:S168.8:  To call it terrorism is an example of  distorted  definitions.&quot;
+FN:S169.5:  It is a  reasonably  busy rural market town, which has - by way of yardstick - the district hospital and maternity home, and the main banks.
+FN:S170.2:  In the 17th century, Alphen became  prominent  again as a hub for commerce.
+FN:S174.3:  He spent most of his term in China in the central and southern provinces;  perhaps  his only trip north was the one he made to Xi'an in 1625, during which he was the first European to see the recently unearthed Nestorian Stele.
+FN:S176.2:  Beckerman is  best known  for her exquisite, clean gymnastics, impeccably long and smooth legs, and her tremendous dance ability.
+FN:S176.3:  While not a very powerful gymnast, her floor exercise routines were dramatic and  well-received  by  judges .
+FN:S176.4:  Beckerman's ability to pirouette  was largely unmatched  by  other American gymnasts .
+FN:S181.3:  When the  widely popular  comedian Mehmood launched his own production of 'Chotte Nawab' (1961), he sidelined all the established heroines of the day and cast Ameeta as his female lead.
+FN:S181.5:  She  had even been considered  a more viable star option, when she replaced Asha Parekh after she was dropped from the lead in 'Goonj Uthi Shehnai' (1959).
+FN:S181.7:  Promoting Asha as his new star discovery, he cast her as the female lead in seven films, including the  highly successful  'Dil Deke Dekho' (1959), 'Jab Pyar Kisi Se Hota Hai' (1961), 'Teesri Manzil' (1966), and 'Caravan' (1971).
+FN:S182.3:  The grant eventually  had to be returned .
+FN:S186.2:  'American Empire' is a term,  often but not always  derogatory, used to describe the historical expansionism and the current political, economic, and cultural influence of the United States on a global scale.
+FN:S187.2:  More recently  a new American Nazi Party  has been launched .
+FN:S188.2:  Like its British counterpart, the RV, and like other versions that have succeeded it, the ASV drew fire from the slowly-growing King James Only Movement for an  alleged  basis on faulty manuscripts.
+FN:S188.3:  One such critic  refused to call it &quot;Standard&quot;, since it never gained  wide popularity .
+FN:S192.7:  Amphetamine use was common among Major League Baseball (MLB) athletes and  were commonly known  by the slang term &quot;greenies&quot; due to the pills' color.
+FN:S193.2:  Kathu is the district which covers  the most touristical  beach of Phuket, Patong.
+FN:S193.3:  Kamala beach to the north is  much less developed .
+FN:S198.2:  Reviewers   often  cite Amy Macdonald as a shy spoken 20 year old girl who comes alive with her booming singing voice.
+FN:S198.5:  Amy has also  repeatedly  expressed how fast her life is moving when she mentions her admiration when meeting other British singers such as Travis' Fran Healy and Elton John.
+FN:S200.6:  The Constitution, Beard argued, was designed to reverse the radical democratic tendencies unleashed by the Revolution among  the common people , especially farmers and debtors (people who owed money to the rich).
+FN:S201.2:  Authorship of  particularly noteworthy  anamonics  is often acknowledged , although this is not necessarily expected by the Scrabble community.
+FN:S203.2:  Some market-oriented anarchist philosophies   are considered  left-libertarian.
+FN:S203.7:  These philosophies share similar concerns and  are collectively known  as left-libertarianism.
+FN:S203.8:  &quot;Left&quot; in its political sense has  various and shifting usages .
+FN:S203.9:  In the seminal agorist work, [The New Libertarian Manifesto], agorism is repeatedly described as left,  presumably  because it opposes the Old Order and is critical of political capitalism.
+FN:S205.3:  They appear in a  fairly  major role in Jan Švankmajer's 'Neco z Alenky' as, among  other things , the home of the White Rabbit.
+FN:S207.2:  Paintings from Val Camonica, Italy, c.10,000 BC,  purportedly  showing extraterrestrial visitors.
+FN:S207.3:  The 'Dogu'  is speculated  to be an Ancient Astronaut that visited earth during the Jomon period of Ancient Japan, it shows features resembling a space suit, goggles and a space helmet.
+FN:S209.4:  As part of restoring the Lackawanna Cut-Off, funding  has been given  to rebuilt a stretch of railroad to a new station in Andover.
+FN:S211.3:  On the one hand, he was  one of the major  representatives of surrealism in Greece.
+FN:S211.5:  As the poet himself admitted it was precisely the originality and extravagance of his work that contributed to his  relative  commercial success.
+FN:S213.2:  In 1993 Melnichenko was one of the co-founders of which grew to become  one of Russia’s largest  private banks within ten years.
+FN:S214.2:  With a  considerable  following, he was preparing to cross the Drakensberg when Sir Harry Smith, newly appointed governor of the Cape, reached the emigrants' camp on the Tugela River in January 1848.
+FN:S214.6:  In August, he was defeated at Boomplaats by Smith and retreated to the north of the Vaal, where he became leader of  one of the largest  of the parties into which the Transvaal Boers were divided, and commandant-general of Potchefstroom and Rustenburg, his principal rival being Commandant-General A. H. Potgieter.
+FN:S218.3:  He  was noted  for his good looks and vocal abilities.
+FN:S222.2:  Almost a month after the albums' UK release, it was released across Europe and in New Zealand in September 2002, where it gained  considerable  success.
+FN:S223.2:  In the past the Anglican Church on the prairies had a profile,  for better or worse  and with  greater or lesser  legitimacy, of being  somewhat  exclusive.
+FN:S223.3:  This was never  wholly accurate .
+FN:S224.2:  'Anglo-American relations'  are used  to describe the relations of the United Kingdom and the United States of America.
+FN:S227.2:  In the United States, the terms 'animation director' and 'supervising animator'  are sometimes used  interchangeably, and in essence, they refer to the same thing.
+FN:S227.3:  As they  are usually called  supervising animators in the American tradition, animation directors who work in the United States  will henceforth be referred  to by that term.
+FN:S233.3:  Her buildings relied and were inspired by  region styles  including Pueblo Revival, and[Spanish Mission Revival.
+FN:S233.4:  She created  some of Tucson’s most prominent buildings  including the El Conquistador Hotel and Saford School.
+FN:S235.6:  Furthermore, encryption is now a mature,  well-known  and  widely-spread  technology.
+FN:S236.3:  These services do not provide the anonymity of real remailers, but they are  easier  to use.
+FN:S236.4:  When using a web based anonymous email or anonymous remailer service you should first analyze the reputation of this service, since the service  stands in the middle  between you and the email recipient.
+FN:S237.2:  The 1992 game 'Flashback', which is also from Delphine,  is often mistaken  as a sequel to 'Another World' because of similar gameplay and graphics.
+FN:S240.2:  During the 1992 presidential campaign, he was  one of Clinton's chief  foreign policy advisers.
+FN:S241.2:  Estonia and Latbia  have been accused  of phasing out Russian-language schools (despite having large Russophone minorities).
+FN:S246.2:  The origins of the Soviet ASAT program are  unclear .
+FN:S249.2:  Since 2006, the Antiochian Orthodox Archdiocese of Australia, New Zealand, and All Oceania, has received contact from  several families  interested in an Antiochian presence in the Philippines.
+FN:S250.2:  He was  apparently  a foreigner ( perhaps  from Cius, on the Propontis, Smyrna or Rhodes) who settled in Athens , where he began to write about 387.
+FN:S250.3:  He was extremely prolific: more than 200 of the 365 (or 260) comedies attributed to him  are known to us  from the titles and considerable fragments preserved in Athenaeus.
+FN:S250.4:  They  chiefly  deal with matters connected with the table, but contain  many striking sentiments .
+FN:S251.5:  As a result of these circumstances his work  has been largely overshadowed  by  his contemporaries .
+FN:S263.3:  The aircraft  was thought  to be lying in approximately 90 metres of water, but as of 3 April the exact location  was not known .
+FN:S263.4:  No EPIRB beacon signal  had been reported .
+FN:S264.3:  The band’s lead guitarist is Jerry Fielden who has been around since the 1970s playing in  a variety of Montreal and Toronto bands .
+FN:S264.6:  He has recorded three solo albums and has done lyricist work for  other musicians and bands .
+FN:S264.11:  Moving to Quebec in 1998 he has played drums for  a variety of groups  before settling in with AraPacis.
+FN:S265.2:  Egypt's largest ethnic group is the Egyptians who today speak Egyptian Arabic, but because Egyptians are of non-Arab ancestry, they do not identify as  Arabs .
+FN:S267.2:  The land of Aram-Naharaim (&quot;Aram of the Two Rivers&quot;) that included Haran, mentioned five times in the Bible,  is traditionally thought  to be populated by descendants of Aram, as is the nearby land of Aram that included Aram Damascus and Aram Rehob.
+FN:S268.5:  Lignan content in arame  is noted  by  several sources .
+FN:S270.3:  The controversy arises whereby  most individuals  agree that the answer is 'I'.
+FN:S275.5:  There are  several Fijians  in the side.
+FN:S278.10:  He would go on to invest in  a number of real estate holding companies .
+FN:S280.2:  Destination Artek  was considered  to be an honorable award for Soviet children as well as internationally.
+FN:S280.5:  After the breaking up of the Young Pioneers in 1990 its prestige went down, but it still is a  popular  vacation site.
+FN:S283.2:  McGarry  most likely  joined Port Vale in the autumn of 1918.
+FN:S283.3:  He played  numerous games  for the club in the war leagues and non-leagues before Vale were elected into the Football League in October 1919.
+FN:S285.3:  Schopenhauer  would  be classified nowadays as a hereditarian and eugenicist.
+FN:S287.2:  Seattle burst into the  popular consciousness  with the grunge rock scene of the early 1990s, when Nirvana, Pearl Jam, Soundgarden, Alice in Chains, Temple of the Dog, and Mudhoney, all reached  vast  audiences.
+FN:S292.6:  The Lady Spartans had a great run for years with Schuylkill League and District Crowns, and  how could we not forget  the 1992 State Championship Team.
+FN:S292.8:  Also another  well known  Ashland native dedicated to the Eureka Park basketball courts was Amy Wetzel.
+FN:S292.9:  The most popular  Lady Spartan in school history, later played Division I basketball at Virginia Tech.
+FN:S295.3:  He  is often considered  the group's heartthrob.
+FN:S297.3:  Shadow Hill, protected exclusively by the Hanged man, is featured and focused on in  many stories .
+FN:S302.2:  In the arts and antiques, 'attribution' is the judgment by experts as to the authorship, date, or  other aspect  of the origin of a work of art or cultural artifact.
+FN:S302.3:  Works &quot;attributed&quot; to an artist  are more firmly believed  to be theirs than those &quot;ascribed&quot;.
+FN:S305.2:  The Shiva Temple  claims  to be one of the Twelve Jyotirlingas in India.
+FN:S305.4:  This claim  is disputed  by Nageshwar Temple at Dwarka, Gujarat.
+FN:S307.3:  While they  generally  worked with conservative political parties,  on occasion  they did not.
+FN:S307.4:  On one occasion when  one of their favoured candidates  in Queensland was not endorsed as they had demanded, they ran their own candidate, Irene Longman who became the first female member of the Queensland Legislative Assembly in 1929.
+FN:S312.3:  Students participate out of school hours in  numerous community services , physically challenging and personal skill-based activities.
+FN:S315.3:  It can be found  that the enactment of Traditional Chinese Medicine Practitioners Act does not take into its fold traditional practitioners of Chinese medicine who were otherwise not qualified in the system.
+FN:S315.6:  In fact,  it can not be disputed  that traditional knowledge does not exist.
+FN:S317.3:  NGO Monitor further writes that B'Tselem employs &quot; abusive  and  demonizing  rhetoric designed to elicit political support for Palestinians&quot;.
+FN:S317.4:  The group states it &quot;stands behind the accuracy of its data&quot; which is &quot;based on independent fieldwork by its own  well-trained  staff&quot; and that its methodology is &quot; completely  transparent&quot;.
+FN:S318.2:  The B-26  is said  to have had the lowest combat loss rate of any U.S. aircraft used during the war.
+FN:S320.4:  Output from BBC Four (documentaries rather than foreign films) is repeated on BBC Two in a 'BBC Four on Two' branded area, although this is  often  in a late night broadcast slot after 'Newsnight'.
+FN:S325.4:  However, he acknowledges that is a demographic definition, and that culturally it  may  not be as clear-cut..
+FN:S325.7:  For example, the Beatles, Bob Dylan, the Rolling Stones), while those born in the 1960s  might  well feel disconnected from the cultural identifiers of the earlier boomers.
+FN:S328.2:  Most Bagris  come from a village in Punjab called Chak Kalan (also called Chak Bagrian), near Jullundar.
+FN:S328.5:  There is village in Tonk District named 'Bagri ki Dhani',  most of the Bagri in Rajasthan  belong from &quot;Bagri ki Dhani&quot; situated near Mashi dam, Manoharpura Tonk.
+FN:S329.2:  Like the other Latin American tapirs (the Mountain Tapir and the South American Tapir), Baird’s Tapir  is commonly called  danta by  people  in  all areas .
+FN:S330.2:  Reaney  suggests  the name is derived from William Bakere de Luggestreet.
+FN:S336.2:  Banco do Brasil has a few branches in the USA (New York, Miami) and  other countries .
+FN:S337.3:  It serves as a venue for the Mumbai Festival and other events including concerts, classical dance and  other performances .
+FN:S340.3:  With the beginning of interstate banking they spread into  other statesy , always renaming acquired banks &quot;Bank One&quot;, though for a long time they resisted combining them into one bank.
+FN:S340.6:  Jamie Dimon, a former key executive of Citigroup,  was brought in  to head the company.
+FN:S341.2:  The UN agencies are echoing a  broader  complaint.
+FN:S342.2:  Unlike the smaller Canadian banks, the Big Five are not just Canadian banks, but  are instead better described  as international financial conglomerates, each with a large Canadian banking division.
+FN:S342.6:  In addition, they have  large  international subsidiaries.
+FN:S342.7:  The Canadian banking operations of the Big Five are  largely  conducted out of each parent company, unlike U.S. banks that use a holding company structure to hold their primary retail banking subsidiaries.
+FN:S343.2:  Queen of Connacht, whose tale was recorded in the Táin Bó Cúailnge,  was chosen  for the Irish pound banknote for &quot;Series B&quot; introduced in 1976 and withdrawn in 1993.
+FN:S344.2:  Problems of the bankruptcy type arise in  many real life situations .
+FN:S346.2:  This song indulges in Mercury's love of opera and the theatre, with his high notes and Caballe's  soothing  opera vocals blending together over a  lush  orchestral backing to create  one of the biggest  hits of Mercury's solo career.
+FN:S358.3:  Inmates at the detention center have included  terrorism suspects , such as Nabil Ahmed Farag Soliman, who embarked on a hunger strike in 1999 after two and a half years in federal detention.
+FN:S362.3:  The public transportation system  is highly criticized  as low performing and not averaging enough riders to continue to be successful in the Baton Rouge area.
+FN:S365.2:  During the 20 minute, close quarter gun fight between approximately 900 Boer and 210 Commonwealth combatants,  great bravery  was demonstrated by the men on both sides with combined Boer and Commonwealth casualties numbering approximately 120 killed with 234 wounded.
+FN:S366.2:  After six years, and  three more anti-Norman Popes , the Treaty of Melfi (1059) marked the recognition of the Norman power in South Italy.
+FN:S371.3:  As he did so, Philip dispatched a force of approximately a thousand men to Saint-Omer under Eudes IV, Duke of Burgundy and then followed this a week later with another  sizeable  force under Jean I, Count of Armagnac.
+FN:S371.5:  Contrary to the beliefs and claims of Robert of Artois, there were no pro-Flemish supporters in the town and Robert's plan of simply marching up to the gates and being admitted was thus impossible and  foolhardy .
+FN:S373.4:  As Pierre Berton points out in his seminal work, 'Vimy', the taking of the ridge achieved  legendary  status very quickly, and with it the attendant myths.
+FN:S374.4:  The success of the attack which had resulted from detailed planning and a variety of innovative tactics, stood in stark contrast to what had happened at the Somme only months earlier, and sealed the reputation of  the Canadians  as among the finest troops on the Western Front.
+FN:S381.2:  Despite this, both Ke Lian and Ke Li are able to adapt better to society, unlike Fatty Zhen and Ke Ke, whose attitude puts  people  off.
+FN:S387.3:  The 'Zaiden' (silk) 'Glatt' (plain, lit. smooth) Bekishe is solid colored, and  is usually worn  for Friday night and Saturday morning prayers.
+FN:S387.4:  For Shabbos meals, the patterned (less expensive) polyester Bekishe, with an attached belt, also known as an 'Ess Chalat' or a 'Tish Bekishe' (Yiddish),  is worn .
+FN:S387.5:  The 'Tish Bekishe'  is also worn  during the Shabbos afternoon prayer service and the night after Shabbos.
+FN:S387.6:  Some non-Hassidic Orthodox Jews  wear a 'Tish Bekishe' at home during the Shabbos meals.
+FN:S387.7:  Many Hassidic Rebbes , mainly of Hungarian lineage, wear 'Tish Bekishes' with various colors, usually either, blue, silver, often with black.
+FN:S388.5:  One company   was believed  to be owed nearly ₤65,000.
+FN:S396.2:  Viccari is an  avid  reader, frequently reviewing books on 'Canscene'.
+FN:S400.3:  One tyrosine molecule is metabolised to dopamine which constitutes the isoquinoline part, while the benzylic part is  mostly  formed from tyramine, itself the decarboxylation product of tyrosine.
+FN:S401.2:  Beretta  is known  for its broad range of fire arms: side-by-side shotguns, over-and-under shotguns, hunting rifles, express rifles, assault rifles, submachine guns, lever and bolt-action rifles, single and double action revolvers and semi-automatic pistols.
+FN:S406.2:  Kalich also followed in the path of Sarah Bernhardt, Charlotte Cushman, and  other actresses  when she played the title role of Shakespeare's 'Hamlet'.
+FN:S409.2:  Betsy  is usually described  as having blonde or light-brown hair, and  is said  to be one year older than Dorothy Gale.
+FN:S409.4:  Based on Tort's age in 'the Giant Horse of Oz', she would be 12, if  one  accepts Ruth Plumly Thompson as an authority.
+FN:S411.4:  An  interesting  book about the BHPD  in the old days  is &quot;Beverly Hills Is My Beat&quot; by long-time Police Chief Clinton H. Anderson (1960).
+FN:S416.4:  This accomplishment is  all the more remarkable  given Bhumibol's lack of binocular depth perception.
+FN:S417.2:  Brugi was a member of the Accademia dei Lincei, the Instituto Veneto and of  several foreign academies , as well as  government commissions .
+FN:S419.2:  'Bierocks' are meat-filled pocket pastries originating in Eastern Europe, possibly in Germany or Russia, as the dish is  very common  among the Volga German community in the United States.
+FN:S419.6:  Typically , the bierock is filled with cooked and seasoned ground beef, shredded cabbage and onions, then oven baked until the dough is golden brown.
+FN:S419.7:  Some variants  include grated carrots.
+FN:S427.4:  His appearance in the magazine caught the eye of  famed  photographer Jim French but it was two years before Herrington shot his first Colt calendars for French.
+FN:S427.6:  Herrington became  one of the best known  gay porn stars of the late 1990s, even appearing on mainstream TV programs such as 'Love Connection' and talk-show 'Ricki Lake'.
+FN:S429.2:  Note that there is another way to name Type 2 ionic compounds that is not as  common .
+FN:S431.4:  It has come to light  that 2K are aware of this problem and are in the process of correcting the issue.
+FN:S437.2:  In the southern United States the term bird dog refers to dog breeds such as the pointer, English setter, Red setter, German shorthair pointer, Brittany, and  other pointing breeds .
+FN:S438.2:  Bishara Wakim (1890 - 1949), honored by the Egyptian government for his achievements in film and theater, played the role of the Lebanese in  most of the Egyptian movies  of the thirties and the forties.
+FN:S441.2:  Their style of music  may be described  as post-punk with the elements of ska, Latin American music and funk.
+FN:S444.2:  Sometimes Black Shuck  is referred  to as the 'Doom Dog'.
+FN:S444.4:  More often than not , stories tell of Black Shuck terrifying his victims, but leaving them alone to continue living normal lives.
+FN:S445.4:  Many similarities  can be made with the supernatural Tengu of japanese folklore.
+FN:S448.3:  Other compositions  that appear in the film were not included on this release.
+FN:S450.6:  Two sequels were made ('Blade II' &amp; 'Blade: Trinity') but the first film  is widely considered   the best  of the series.
+FN:S451.3:  These are small blades typically 10mm wide, approximately the size of  your  little finger.
+FN:S457.2:  While this system was used in the Thompson, it  was eventually found  to be redundant.
+FN:S457.3:  In fact, the Thompson  was later redesigned  as a simple blowback weapon (the M1/M1A1), and worked perfectly well.
+FN:S457.4:  Some authorities  feel the Blish Lock as employed in the Thompson did not accomplish anything in terms of actual breech locking.
+FN:S457.5:  Any real advantages to the system were  far  outweighed by the additional cost of manufacture associated with the device.
+FN:S460.5:  Presumably , (although this is never explicitly stated, and it happens after the play's end) the bride is afterwards killed as a sacrifice to restore the family's honor.
+FN:S461.2:  The director's cut, spanning approximately 10 minutes longer than the theatrical, will give more explanation to  some of the scenes .
+FN:S461.3:  Where  other movies   often  include subplots or scenes deemed to strong for the economical potential in theatres, 'Blood In Blood Out'  mostly  extends scenes, usually with additional dialogue.
+FN:S463.2:  Because of their extreme masses they have  relatively  short lifespans and  are mainly observed  in young cosmic structures such as open clusters, the arms of spiral galaxies, and in irregular galaxies.
+FN:S468.2:  In the 1980s he became a favorite subject of columnist Herb Caen, after he wrote a letter to the editor of the San Francisco Chronicle defending the Police Department for issuing  too many tickets  to taxicabs.
+FN:S470.2:  Livingston,  considered  a  formidable  lobbyist, was identified by Jonathan Tilove of the New Orleans Times-Picayune as supporting U.S. Representative Anh &quot;Joseph&quot; Cao.
+FN:S471.3:  He was able to add  numerous first sightings  during these trips while contributing to the education of the local people in basic conservation.
+FN:S475.2:  Khitrovo was related through his mother to the  powerful  Fyodor Rtishchev, with whom he shared a keen interest in Western culture and a penchant for philanthropy.
+FN:S478.2:  Today 'bojutsu'  is usually associated  either with Okinawan 'kobudo'or with Japanese 'koryu budo'.
+FN:S478.3:  Japanese 'bojutsu' is  one of the core  elements of classical martial training.
+FN:S479.2:  There is an ongoing debate  about  whether  Hugo Chávez has rescued Venezuela from the corruption of the Pacto de Punto Fijo, or if he has damaged the very foundations of the nation’s democracy.
+FN:S481.2:  He was the second son of Duke Bolko III of Strzelce by his wife Anna,  probably  daughter of Duke Jan I of Oświęcim.
+FN:S482.2:  The city is also the home of the Italian Army's Alpini High Command (COMALP) and  some of its combat and support units .
+FN:S489.2:  The airport  is said  to be partly used as a training camp by the Serbian special police units, called Žandarmerija, but also stay as a civil one to handle tourists during the season.
+FN:S492.5:  After a few recordings with Okeh Records in 1930, they made  numerous recordings  for Brunswick Records from 1931-1935.
+FN:S492.6:  These Brunswick records  are widely regarded  as milestone recordings of vocal jazz.
+FN:S492.7:  Connee's  ingenious  reworkings of the melodies and rhythms of popular songs, together with Glenn Miller's hot arrangements, and first rate New York jazz musicians (including The Dorsey Brothers, Benny Goodman, Bunny Berigan, Fulton McGrath, Joe Venuti, Arthur Schutt, Eddie Lang, Joe Tarto, Manny Klein, Dick McDonough, and Carl Kress), made these recordings  unlike any others .
+FN:S493.3:  It is very curvy and has  relatively  high grades.
+FN:S497.2:  Boyne RFC is the  only  rugby team in Drogheda.
+FN:S498.5:  It is also difficult  to hold a brace exactly straight while using it, which makes the brace unsuitable for precision drilling.
+FN:S502.2:  In 1864,  a farmer  digging for water at the site of the present city found coal instead.
+FN:S502.3:  Deposits  were substantial and the demand for coal in nearby Chicago was high, so  companies  rushed to acquire land and set up operations.
+FN:S502.5:  James Braidwood was an early member of the community, and in 1872 he was hired by  one company  to superintend the sinking of the first deep mine shaft.
+FN:S504.2:  The main heroes aren't  much better  than villains themselves, each with immoral and violent leanings.
+FN:S505.2:  The 'Brazilian Space Agency' (; 'AEB') is the civilian authority in Brazil responsible for the country's  burgeoning  space program.
+FN:S505.4:  The agency has given Brazil a  leading  role in space in the Latin American region, and has made Brazil a  valuable  and  dependable  partner for cooperation in the International Space Station.
+FN:S511.2:  'Brian Harold May' CBE (born July 19, 1947) is a British musician  best known  as the lead guitarist, backing, and occasionally lead vocalist for the British rock band Queen.
+FN:S511.4:  He  is also cited  as a pioneer of the delay effect.
+FN:S511.6:  He  is often described  as a  virtuoso .
+FN:S513.2:  Other companies  include Curtiss Wright and Edwards Sports.
+FN:S515.2:  Bristol Township students attend schools in the Bristol Township School District, and  notable  public high schools are Harry S. Truman High School, and the Benjamin Franklin 9th Grade Academy.
+FN:S517.3:  Its history includes a  very large  and  popular  canoe club from the turn of the century, which became the Britannia Yacht Club.
+FN:S521.3:  Grove set out to celebrate merit and achievement in independently funded British filmmaking, to honour new talent, and to promote British films and filmmaking to a  wider public .
+FN:S526.2:  What  stands out  from this list is the importance of verbal humour as a key element.
+FN:S526.4:  In the U.S. and France, however, he  is still widely regarded  as a comic genius.
+FN:S534.3:  Its length is about 38 cm but its adult size is  mostly  unknown.
+FN:S537.3:  In those years he was  obviously  influenced also by the new paradigm of electronic music.
+FN:S541.3:  Scientists  now think that dromaeosaurs date back to Jurassic times, when all the continents were much closer together.
+FN:S541.4:  It is possible  that they originated on the ancient continent Laurasia in the north and migrated to southern Gondwana later.
+FN:S544.4:  There are also  several variations  on the basic theme, depending on precisely which category of fiber bundles is under consideration.
+FN:S544.6:  Then in the fourth section,  some other examples  will be given.
+FN:S545.2:  An  award-winning  author, Bunny has taught ethnographic writing and organized creative writing workshops.
+FN:S563.5:  In season 4, there were hints at  some sort of relationship  with Special Agent Peter Elliot.
+FN:S563.9:  Duquesne's character  has also been called  unrealistic at times, especially since she commonly works in high heels.
+FN:S566.2:  The city's economy is  mainly  based on tourism, as  most of the cities  situated in the called Regiao dos Lagos (Lake's Region).
+FN:S566.3:  The city is  usually  visited by people from Minas Gerais, Brasília and Rio de Janeiro city.
+FN:S568.2:  As parrots go, caiques are  somewhat &quot;difficult&quot;  birds and inexperienced parrot owners should be ready to learn the bird's moods well.
+FN:S572.5:  It  might   seem  that a vernier caliper cannot get out of calibration but a drop or knock can be enough.
+FN:S573.2:  Many callers  spend time inventing their own unique patter or variants on common patter.
+FN:S582.3:  The road allowed people to cycle out to Camps Bay which acquired  some poularity  as a picnic site.
+FN:S586.3:  The most serious  breach in the relationship was the War of 1812, which saw multiple American invasion attempts on then British North America and the partial burning of the Upper Canadian capital, York.
+FN:S586.4:  Canadian Militia, led by British forces, later retaliated,  eventually  burning down the White House and forcing the invading Americans off Canadian soil.
+FN:S586.5:  Friendship was solidified in the 20th century with the shared experience of the world wars and a  close  alliance during the Cold War.
+FN:S587.3:  Short range VIP transport  often  used  various combat fixed and rotary wing aircraft .
+FN:S591.8:  Intercranial tumors (such as glioblastoma)  more commonly  rely on radiation therapy as surgical access to the tumor may be prohibitively dangerous.
+FN:S592.2:  Cannock Hockey Club is  one of the leading  field hockey clubs in England, and supplies England internationals.
+FN:S593.9:  This is a  'very' expensive  repair which Canon does not offer under warranty.
+FN:S593.11:  The problem is more of a design issue of the CF card mechanism and can happen in  other CF equipped devices .
+FN:S593.12:  When using third party lenses,  most notably  older Sigma lenses,  there may be  a compatibility issue.
+FN:S593.15:  Using the problematic lens wide open is  sometimes  possible.
+FN:S593.17:  Either test the lens first alongside a functional EF lens e.g. 28-105 USM and/or 70-300; if the Err99 occurs with the 18-55, the lens are  likely  to be defective from the factory.
+FN:S595.4:  There are green forests and high mountains like near Kupres, a city where  many tourists  (mostly from Croatia and Bosnia and Herzegovina) go to ski in the winter.
+FN:S596.2:  There are  some activities  during school hours also.
+FN:S604.4:  This  may  be due to genomic instability or to the disruption of cellular metabolic processes.
+FN:S605.4:  Dealing may also be done from the middle of the deck, known as the 'middle deal' or 'center deal', but this is not as  common .
+FN:S607.4:  The change to Vikings better reflects the area's  numerous Runestones  purportedly left behind by Nordic explorers.
+FN:S609.3:  He  is regarded  as  one of the greatest  directors in cinema.
+FN:S613.2:  Smillie was  so successful  as a holiday reporter, that stints followed on BBC One for the 'Holiday' programme.
+FN:S614.5:  The Magpyres are attacked (and  presumably  killed - though  probably  not permanently) by the citizens of Überwald and the witches return to Lancre.
+FN:S616.2:  Since 1988, the Chinese government has authorized direct village elections to help maintain social and political order in the context of  rapid economic reforms .
+FN:S618.6:  She was recently voted  one of the most memorable  contestants by AOL entertainment Cassandra made an appearance in 'The Cycle 5 Reunion', 'America's Next Top Model: Where the Girls Are', and 'America's Next top Model: Exposed'.
+FN:S621.2:  The local economy is  mainly  based on the production of cereals and on the activity of  numerous chemical and textile industries .
+FN:S624.2:  The Welsh placename (shortened from 'Castell Fuwch') means &quot;Cow castle&quot;, and is  perhaps  a mocking name for an abandoned fortification, inhabited only by cows.
+FN:S626.5:  One   may  view categories as generalizations of monoids;  several definitions and theorems about monoids   may be generalized  for categories.
+FN:S633.2:  The Cayman Islands are currently a British overseas territory, listed by the UN Special Committee of twenty-four as  one of the last  non-self governing territories.
+FN:S634.2:  Among his records the following  ought to be mentioned  : Sila Godoy in concert, recorded in New York, USA, in 1982; Sila Godoy, recorded in Australia, in 1983; Aranjuez and Madrigal, two volumes on cassettes, which are gatherings from his two previous recordings, in 1994; The Music of Agustin Barrios Mangore and Jose Asuncion Flores, a compact disc with a gathering of his best recordings in 1994.
+FN:S639.2:  The rocks exposed by coastal erosion in North Anglesey belong mainly to what geologists call the Mona Complex, which is among  the oldest  rock units seen in Wales.
+FN:S643.2:  The flowers of 'Centaurea tchihatcheffii' are  most attractive  as the pale or dark pinkish-red marginal florets (the most frequent colour form) take on an iridescent shimmer in the sun and wind, hence the vernacular name Yanardoner, meaning ‘iridescent flower’.
+FN:S643.6:  Ants play an important role in seed dispersal and the fully ripe fat achenes are  a delight  for pigeons which settle down to feed in large flocks.
+FN:S645.2:  Construction of the permanent site kicked off with  groundbreaking  ceremony on June 14 2005.
+FN:S646.2:  The Anarchy  is expected  to compete for talent and fans with Orlando's other women's football team, the Independent Women's Football League's Orlando Mayhem.
+FN:S647.3:  Residents from the surrounding regions  may  not talk about being 'in' Central Otago or going 'to' Central Otago - instead referring to being or going &quot;up Central&quot; (this usage is mainly limited to residents of Canterbury, Otago and Southland).
+FN:S647.4:  The former Otago Central Railway, which ran through  most of the major towns of Central Otago ,  was also referred  to as 'the Central'.
+FN:S648.2:  The Certificate of Merit  was considered  a single decoration for one-time issuance only.
+FN:S648.3:  It  was declared   obsolete  and removed from U.S. award precedence charts on July 9, 1918 following the creation of the Distinguished Service Cross and Distinguished Service Medal.
+FN:S649.3:  Paraguay's use of  poor-man's weapons  also proved more effective in the Chaco than the  expensive   modern  weapons the Bolivians used.
+FN:S651.3:  They are banned in  several jurisdictions , including Florida and Illinois.
+FN:S652.2:  The college also offers  a variety of programs  online.
+FN:S652.3:  Some associate's and bachelor's degrees , as well as  certificates , can be obtained through online courses.
+FN:S652.4:  Champlain offers four (soon to be 6) master's degrees, which  heavily  incorporate online learning.
+FN:S652.5:  In 2009, OEDb ranked the college third out of 44 institutions that offer  most of their degree programs  online.
+FN:S654.2:  In addition, Thiru Vazhappally temple is  famous  for two dhwajasthabom (Flag Mast) and daru silpam works (wood carvings).
+FN:S655.2:  After 1983 the band experimented with  other styles , alienating  many of its original fans .
+FN:S659.2:  Bennett  is known  for his  cocky  arrogance, often playing to the camera, insulting other fighters, and even disrespecting the referee, both during interviews and in the ring.
+FN:S659.3:  One of his trademark moves  is to sit atop of the corner ropes after the opening bell rings, and attempt to double push kick his opponent as he rushes in.
+FN:S662.2:  The French invaded his duchy  several times , and held  almost all of his possessions  from 1536 onwards.
+FN:S662.3:  Thus duke Charles was  one of the greatest  losers in those struggles of the mighty, the small who was left crushed.
+FN:S667.2:  The daughter of a cavalry captain of the Royal court, Bengt Edvard Eckerman, and the journalist Catharina Ahlgren, she was in the custody of her father after her parents divorce and  was described  as more or less an orphan.
+FN:S667.4:  Originally hired as a member of the choir, she soon rose to be  one of the more popular  actors when she had to replace Elisabeth Olin as Mechtild in 'Birger jarl' by Gyllenborg and Adlerbeth, a part in which she made success, and she was given a contract in 1776.
+FN:S669.2:  Despite being a grandson of Shivaji and son of Sambhaji, Shahu could not make a  strong  impression on history and the politics of his time.
+FN:S672.2:  Today there are  several mid-size retail outlets  in the Trade Center (selling food, electronic devices), with the  large  portion of the space occupied by  small  outlets (clothes, DIY, home appliances and others).
+FN:S675.2:  'Cheryl Rae Tiegs' (born September 25 1947 in Breckenridge, Minnesota)  is sometimes considered  to be the first modern American supermodel.
+FN:S678.3:  Assuming command at  the most critical  period of the war in the Pacific, Admiral Nimitz, despite the losses from the attack on Pearl Harbor and the shortage of ships, planes and supplies, successfully organized his forces to halt the Japanese advance.
+FN:S688.3:  Significant  achievements have been scored in the bilateral and multilateral and technology exchanges and cooperation.
+FN:S693.3:  They  are commonly found  in shallow water environments including beaches, lagoons and estuaries.
+FN:S693.4:  They  are also rarely found  in open ocean environments,  commonly associated  with floating objects such as jellyfish.
+FN:S695.3:  The trio recorded 'Vanishing Point', a CD of songs with texts by Cutler and music by Gysi and Denio, and toured  extensively .
+FN:S698.2:  Two of his books  have meet with controversy : &quot;Happy to be Nappy,&quot; written by bell hooks and his own &quot;Arlene Sardine.&quot;
+FN:S701.5:  A  well-known  Ukrainian lawyer, Dr. Volodymyr Stretovych became the CDU's president.
+FN:S701.7:  It was a serious  discussion  in the party as to whom must it form an alliance with.
+FN:S705.4:  At and (at the time), Cecil  was considered  too small to be a collegiate star and thus  was not offered  a scholarship out of high school.
+FN:S707.3:  Some of these ministries  run their own small groups outside of the zone structure.
+FN:S708.3:  Father Martin, along with  some other Dominican fathers  began to construct a chapel on the northeast corner of 65th Street.
+FN:S710.2:  The design and architecture of the château inspired William Henry Crossland for his design of what  is known  as the Founder's building at Royal Holloway, University of London.
+FN:S714.7:  She chose not to continue this tradition in the same pronounced manner, but the phrase is still  in common usage , particularly from older administrators.
+FN:S715.2:  The best-known  depiction of Cambodia during the Khmer Rouge years, 1984's 'The Killing Fields', starring the Cambodian actor Haing S. Ngor as journalist Dith Pran, was actually made in neighboring Thailand.
+FN:S718.5:  This switch  was said  to be due to a stream of losses stemming from the rapid decline of flat-panel TV prices, and  possibly  due to the strong call for Schoonover's removal from activist shareholder Mark Wattles.
+FN:S720.4:  It was  famous  'pré carré' (&quot;square field&quot;), conceived by Vauban comprising 28 fortified cities.
+FN:S722.3:  The new stand, such a  prominent  landmark by the River Trent, held 7,338 to take the ground’s capacity to 30,576.
+FN:S725.3:  'Clan Wolf' of the fictional universe of BattleTech is  one of the most important  Clans.
+FN:S726.2:  The best known  of her books are 'The Farmer's Year' (1933; a calendar of English husbandry), 'Four Hedges - A Gardener's Chronicle' (1935; the development of a garden from a meadow she had bought in the Chilterns) and 'Tempestuous Petticoat; The story of an invincible Edwardian' (1948; describing her childhood and her bohemian mother).
+FN:S727.2:  The Trust focuses on preserving aircraft and memorabilia that has a connection to the Bay of Plenty area or New Zealand  generally .
+FN:S730.5:  The music department  is known  for its  award-winning  performances and recitals.
+FN:S731.5:  This  marvelous  1914 mansion, with its spacious rooms, tiny alcoves and third-floor ballroom, holds the story of Cle Elum's first successful banker and his family.
+FN:S731.9:  This  generous  walking path (former railway bed) has a gentle grade that is suitable for  almost  all hikers, walkers and bikers.
+FN:S731.14:  It is  well-known  to travelers and  many  stop by to purchase the tasty bread and pastries.
+FN:S731.15:  [Suncadia] - Bordering the Cle Elum City Limits the Northwest's premier destination &quot;master planned resort&quot; offers  breath taking  views,  world class  golfing, fine dining and a complement of year-round recreational activities.
+FN:S731.17:  A  generous  selection of sausages, meats, bacon and traditional delicacies all hand crafted without preservatives or nitrates.
+FN:S733.2:  Maria Klementyna died at the  early  age of 32 on 18 January 1735.
+FN:S735.5:  However, Cleveland Police and  other institutions  covering the four boroughs, were retained.
+FN:S736.2:  He has also been an artist in advertising campaigns for  numerous large organizations and corporations  - including Greenpeace and Ikea.
+FN:S736.4:  He has designed  numerous posters and cards , and  is noted  for his illustrations of bears and badgers for children.
+FN:S740.4:  In the later books, he has become  more of a nomad , camping rough in the wilds, often close to the Everglades.
+FN:S742.2:  Lythgoe was  well-spoken ,  good-looking  and a  natural  communicator, and  his several television series  helped to popularize classical music in the UK and the USA.
+FN:S746.2:  In addition to the 4% statewide sales tax, Cobb County levies an additional 2% for special projects, each 1% subject to separate renewal  every few years  by countywide referendum (including within its cities).
+FN:S746.3:  This funds  mainly  transportation and parks.
+FN:S746.5:  It has also voted  not to pay the extra 1% to join MARTA.
+FN:S750.2:  Nevertheless, and despite  potentially better alternatives , Cohen's kappa enjoys  continued popularity .
+FN:S750.3:  A  possible  reason for this is that kappa is, under  certain conditions , equivalent to the intraclass correlation coefficient.
+FN:S751.2:  The song has a strong 1970s influence, and  has been said  to be reminiscent of The Who and Bachman-Turner Overdrive.
+FN:S759.3:  There are  several means  of analysing personal coloring.
+FN:S759.4:  The most well-known  is &quot;seasonal&quot; color analysis, which places individual coloring into four general categories: Winter, Spring, Summer and Autumn.
+FN:S759.8:  Some signs of warm coloring  are red or golden hair, golden brown eyes and golden undertones to the skin.
+FN:S759.11:  Still other systems  combine analysis of warm and cool coloring with analysis of contrast levels.
+FN:S763.2:  Internally the meter is  typically  a silicon photodiode tristimulus colorimeter.
+FN:S766.2:  In 1973, the Kilbrandon Commission on the Constitution stated that the contribution  should be considered  a voluntary payment.
+FN:S767.6:  Many of those who refused  were killed.
+FN:S767.7:  Christian clergy  and  Muslim imams  were executed.
+FN:S768.2:  In 2007, 'CDD' was changed to a web-based format and, along with CD Publications'  other housing news services , was moved onto the web portal 'HousingandDevelopment.com'.
+FN:S769.4:  Each congregation has a Pastor, Financial Officer and usually  several additional, mostly volunteer priesthood members .
+FN:S773.2:  In 2006, the release of two next-generation optical disc formats attempted to improve upon and  eventually  replace the DVD standard.
+FN:S773.3:  The two formats, HD DVD and Blu-ray Disc,  are currently in a format war .
+FN:S780.5:  It became the headquarters of the military forces engaged against the Mapuche in Araucanía over the next two centuries growing to a population of 10,000 despite suffering a siege in 1564 and  other attacks  by the Mapuche.
+FN:S781.5:  The tribe  is now considered  extinct.
+FN:S781.6:  Some members of the present-day Catawba  and  other tribes of the Carolinas   may  be genetically descended from the Congaree.
+FN:S783.3:  He  was known  throughout Europe as a strong and able leader, a  hearty  warrior, and looked to by the Catholic world as a  bastion of strength  against the English crown.
+FN:S787.3:  One of the aircraft  was diverted to the US Navy for trials, and  four other generally similar aircraft  were delivered to Siam in 1928.
+FN:S788.2:  It is not known  when the future Consort Dugu was born, or where her family was from.
+FN:S790.2:  The principles of Basic Structure and liberal interpretation of Fundamental Rights  are well discussed  in  famous  cases like - Keshvanand Bharti, Maneka Gandhi,Maneka Gandhi Case (AIR 1978 SC 597) Minerva Mills, Bonded Labour, Bhopal Gas tragedy case etc.
+FN:S795.2:  In  most films , logical coherence is achieved by cutting to continuity, which emphasizes smooth transition of time and space.
+FN:S796.2:  The signal is defined over a domain, which  may or may not  be finite, and there is a functional mapping from the domain to the value of the signal.
+FN:S802.3:  The two arguments imply there is no difference between the exception and the rule, and in fact fallacious slippery slope arguments  often  use the converse accident to the contrary as the basis for the argument.
+FN:S804.4:  The criteria are evaluative and thus the scale  is considered  subjective.
+FN:S806.2:  Copionodontines are  remarkably  primitive in body form, and lack  many of the synapomorphies  that were previously used to diagnose the family Trichomycteridae.
+FN:S806.4:  A few characters  also support the genera 'Copionodon' and 'Glaphyropoma' as monophyletic subunits.
+FN:S807.2:  The department is famous for its Pre-Columbian archaeological site at Copán,  one of the greatest  cities of the Maya civilization.
+FN:S811.7:  The compilers of the code were able to draw on  earlier works  such as the official 'Codex Theodosianus' and private collections like the 'Codex Gregorianus' and the 'Codex Hermogenianus'.
+FN:S815.4:  But this is a  too simplistic  interpretation of how markets operate in the real world.
+FN:S817.3:  Because of the physical location and the street network, the neighborhood enjoys  one of the lowest  crime rates in the city of New Orleans.
+FN:S818.2:  The speed limit is for its greater distance,  generally  because the road travels through rural areas.
+FN:S820.2:  In the summer of 2003, Coventry joined with two other BNL sides, three former Superleague sides and two new sides in a  brand new  Elite Ice Hockey League (EIHL).
+FN:S821.2:  One of the most notable  elements of 'Cowboy Bebop' is its music.
+FN:S823.6:  The  infamous  &quot;Vestal Masturbation&quot; t-shirt design.
+FN:S826.2:  Crawford Square is  a sort of  crows' nest where racially diverse strains of human beings have found homes.
+FN:S826.4:  It is  perhaps   the most ethnically and socially diverse  new housing development in the city of Pittsburgh.
+FN:S830.3:  Their origin is  a matter of great controversy .
+FN:S830.5:  Others  view them as descendants of Khazar or Kipchak converts to Karaite Judaism.
+FN:S830.7:  Virtually all scholars of Khazar history , however, agree that the Judaism of the Khazars was Rabbinical in nature.
+FN:S838.2:  The earliest recorded image  claimed  to be a crop circle is depicted in a 17th century woodcut called the 'Mowing-Devil'.
+FN:S839.3:  Jones was an apprentice to Frank Lloyd Wright and followed  many of Wright's design principles .
+FN:S839.4:  The pavilion is  one of the architectural jewels  of not only Pearl River county, but also Mississippi.
+FN:S844.2:  &quot;The Colossal Octopus&quot;, a pen and wash drawing by malacologist Pierre Denys de Montfort, 1801, from the descriptions of French sailors  reportedly  attacked by a Kraken off the coast of Angola.
+FN:S853.3:  Perhaps   better known  to a contemporary audience is the soap opera 'Neighbours', which presents a microcosm of suburban Australian life.
+FN:S860.2:  Since the world of computers is  ever-growing  and still  largely  unexplored,  countries new to the cyber-world  produce young computer scientists usually interested in &quot;having fun&quot;.
+FN:S861.3:  'Soluble cytokine receptors' are  extremely common  regulators of cytokine function.
+FN:S863.3:  It is the south-east facing slope of the escarpment which is the site of the  celebrated  Burgundy vineyards.
+FN:S864.3:  Some of these machines  were fitted with the  more powerful  Mercedes D.II engine.
+FN:S867.3:  The boy was sent on to a monastery in Ireland,  sometimes identified  as Slane, to be further trained as a page at an Anglo-Saxon court in England.
+FN:S867.4:  An old tradition  relates that he married Mechthilde, an Anglo-Saxon princess, during his exile, but the tradition that among his daughters was Saint Hermine, abbess of Oëren, and Saint Adula, abbess of Pfalzel, are  fabrications ,  perhaps  designed to link the saintly foundresses of these abbeys with the revered Merovingian line.
+FN:S868.3:  Sporting a few cosmetic differences, the Myvi became Perodua's  best-selling  car in Malaysia for 2006 and 2007.
+FN:S869.3:  Suffered a  fatal  crash at the first race at Suzuka.
+FN:S876.2:  Snyder uses the same  bold ,  often   impulsive  approach that made him wealthy in business in running an NFL team.
+FN:S877.2:  'Daniel w. &quot;Dan&quot; Snyder' (born 1964 or 1965) is the current owner of the Washington Redskins football team, Chairman of the Board of Six Flags Inc.,  the world's largest  amusement park and theme park operator, and owner of the diner-like Johnny Rockets chain.
+FN:S878.3:  Danish Suabians, along with  other varieties of domesticated pigeons , are all descendants from the Rock Pigeon ('Columba livia').
+FN:S880.4:  While the comparisons have some basis, DRN are far from gloomy, just  a bit ... cool ...
+FN:S882.2:  Valentina - Darna's  most famous  and  greatest  foe.
+FN:S884.2:  Mew started his swimming career as a promising junior, with three successive 100 m breaststroke final appearances in the European Junior Championships culminating in a 1997 bronze medal, but he has also made the  often   perilous  leap into senior competition with relative ease.
+FN:S884.4:  Mew afterwards won  several medals  at the European SC Championships.
+FN:S889.3:  In  some situations , a single execution thread controls operations on all pieces of data.
+FN:S889.4:  In  others , different threads control the operation, but they execute the same code.
+FN:S894.4:  Although a university qualified coach and master practitioner in NLP himself, he  is believed  to rarely coach or train NLP since the success of his other business interests.
+FN:S895.2:  He has primarily been active in small press publications, contributing illustrations to 'Factsheet Five' and  a variety of horror and sci-fi zines  in the late eighties and early nineties, creating the comic series 'Misspent Youths' in 1991, and contributing comics to 'GLYPH Magazine' in the late nineties.
+FN:S895.3:  He is currently contributing to 'The Black Seal', 'Worlds of Cthulhu',  various RPG publications  and illustrating the comic 'Oz Squad'.
+FN:S897.2:  During the 2004 election, McGuinty was  the favourite  in Ottawa South, which  was considered  a 'safe' Liberal seat.
+FN:S897.6:  However, Liberal candidates were  generally  successful in Ontario despite this setback.
+FN:S906.3:  The band originally played under the name &quot;The Easterly&quot; and is  perhaps   unique  in having played its first big show at Portland's venerable (and huge) State Theatre (for a Hurricane Katrina benefit) a  mere  month after having formed.
+FN:S907.2:  Dodds has played for Bohemians, Tampere United, Glenfield Rovers amongst  others  during his career.
+FN:S908.2:  The song riled believers because of its anti-God sentiment which  might  be interpreted as  either  dystheism  or  atheism.
+FN:S909.4:  Most recently , Tho-So-AA and Operation Cleansweep members performed live as a unit of DPI in Tokyo, Japan.
+FN:S910.5:  The effect of simplified characters on the language remains  controversial  decades after their introduction.
+FN:S913.2:  Many markup languages  such as HTML, XAML, XSLT, SVG or  other user interface markup languages  are  often  declarative.
+FN:S918.2:  The islands were  sparsely  settled and a haven for pirates until the late 1700s when  thousands of British loyalists and their slaves  were given compensatory land grants following the American Revolution.
+FN:S922.2:  Detonations can be produced by explosives, reactive gaseous mixtures,  certain dusts  and aerosols.
+FN:S924.2:  The 'Detroit Institute of Arts' ('DIA'), originally named the 'Detroit Museum of Art', has  one of the largest, most significant  art collections in the United States.
+FN:S924.6:  The museum building itself  is highly regarded  by  architects .
+FN:S929.3:  These videos were what Go Nagai originally intended the first anime series to be like, since the censors made him tone the series down back in 1972 because of its  extreme  violence.
+FN:S933.2:  Jaspers  is known  as a calm player and  is praised  for his sportivity.
+FN:S933.4:  His concentration and his creativity are  his main weapons .
+FN:S933.7:  Jaspers  only  needed 10 attempts to get to 50 points.
+FN:S942.6:  The Medical Council of India has laid down standards for post graduate examinations conducted by  various medical colleges  and affiliated to  concerned universities  and  other institutions , yet the levels of proficiency and standards of evaluation vary considerably in  these institutions .
+FN:S942.8:  Moreover, intra country and international comparison is facilitated with the availability of  commonly accepted  evaluation mechanism.
+FN:S943.2:  Some of the leaders in the sector  include:
+FN:S944.4:  It is estimated  that almost a quarter-million people visited the park between opening day and June 30, 2008.
+FN:S952.8:  I am looking for girlfriend who is friendly and  not very rude .
+FN:S954.4:  Particularly noteworthy  was the VeriSign Site Finder system which redirected all unregistered .com and .net domains to a VeriSign webpage.
+FN:S954.5:  Despite  widespread   criticism , VeriSign only  reluctantly  removed it after the Internet Corporation for Assigned Names and Numbers (ICANN) threatened to revoke its contract to administer the root name servers.
+FN:S956.4:  Di-Natale became  notorious  for his sensational, if-it-bleeds-it-leads approach to newsgathering.
+FN:S956.5:  Many of the stories  were about crime - drug lords, violence and murder.
+FN:S956.7:  Simultaneously, he entered into local radio as a newscaster, where he had  some success .
+FN:S967.2:  His last silent film was the  lavish  'The Iron Mask' (1929), a sequel to 1921's 'The Three Musketeers' which included an introductory prologue spoken by Fairbanks.
+FN:S967.3:  While Fairbanks  had flourished  in the silent genre, the restrictions of early sound films  dulled  his enthusiasm for film-making.
+FN:S967.6:  This film, and his subsequent sound films,  were poorly received  by  Depression era audiences .
+FN:S968.4:  Later, he was a member of the first team to reach the South Magnetic Pole, assuming the leadership of the party from David on their  perilous  return.
+FN:S970.3:  Dowling's General Management MBA program is a  popular  option catering to the needs of Long Island for almost two decades.
+FN:S970.4:  Many corporations and businesses  sponsor their executives' business education in the Suffolk County and Nassau County.
+FN:S971.2:  Current investments into downtown redevelopment  are thought  to exceed $4 billion.
+FN:S975.4:  Tanner  may  also have joined the NYPD Police Force in 2006 (Parallel Lines) as there is a photo of Tanner in one of the offices in the mission Bear Cage.
+FN:S976.3:  Nixon makes  some rather revelatory statements  in the course of the call (which is more like a harangue), spurring Frost to delve into deep preparation.
+FN:S982.4:  At the beginning of the eighteenth century the Dulaimis had a big role in fighting opponents of the Ottoman Empire from  tribes  and  Ajam Iranians .
+FN:S984.3:  It did not directly continue on the storyline of the previous film, although  fan favourite  character Damodar makes a return.
+FN:S985.2:  At first, the government of Quebec stonewalled them, but after they started gaining  widespread  publicity in March of 1999, the 'Parti Québécois' government made a token offer of approximately $1,000 as full compensation to each of the victims.
+FN:S985.3:  The offer was rejected and the government  was harshly criticized  by the  public  and even the provincial Ombudsman, Daniel Jacoby, came out saying that the government's handling of the situation had trivialized the abuse the victims alleged.
+FN:S987.3:  Bosnian Muslim society  struggled to  endure the  psychological anxiety  of being ruled by  traditionally  antagonistic forces (both Austria and later, Serb-dominated Yugoslavia).
+FN:S987.4:  As a result  tens of thousands  of Bosniaks abandoned their homeland, seeking refuge in 'hicret', or immigration, to lands still under Muslim rule.
+FN:S988.6:  Certain non-U.S. branches of eBay  allow sellers to advertise wire transfers or mailed cash as payment options, provided such methods are not the only payment options the seller accepts.
+FN:S989.4:  It also shares  many components  with the EE-11 Urutu APC.
+FN:S990.3:  The Opening Day has developed into  one of the largest and most significant  academic events in the Netherlands.
+FN:S990.7:  Both speakers and the audience are therefore treated with an afternoon filled with  inspiring  speeches and discussions in a large and spectacular setting.
+FN:S994.3:  One of the main  resources in the area of East Turkestan or Uyghuristan is oil.
+FN:S994.8:  Another very serious accusation  is the taking of thousands of young single Uyghur women to be forced to marry the single Han men.
+FN:S994.10:  The babies of these marriages are then raised Han, thereby  eliminating  an &quot; undesirable &quot; culture and language.
+FN:S994.11:  Other accusations  include: False imprisonment, trumped up charges, unfair trials, and unbalanced representation.
+FN:S997.4:  The new warehouse will help with the storage for  other items  such as kitchens, as part of their new sister company, Wren Kitchens.
+FN:S1002.4:  Known  for her vivacious and outgoing personality and style, Luckett began acting at the age of 15.
+FN:S1007.3:  Moreover, Thorp became  one of the very few  applied mathematicians who risked physical harm in verifying a computer simulation.
+FN:S1010.2:  There are  significant bottlenecks  created by lack of infrastructure and red tape.
+FN:S1010.5:  11 days after the disaster and  few foreign relief workers or supplies  have reached the local people in local centres such as Meulaboh, Aceh.
+FN:S1011.13:  These are  vague concepts  which have no meaning outside a God-centered or man-centered world.
+FN:S1013.7:  While serialism has been largely abandoned in electroacoustic circles,  the majority of electroacoustic pieces  use a combination of recorded sound and synthesized or processed sounds, and the schism between Schaeffer's and Eimert's approaches has been overcome, the first  major  example being Karlheinz Stockhausen's 'Gesang der Jünglinge' of 1955–56.
+FN:S1017.3:  While writing  other popular stories , she was also a  great  advocate, by lecturing and otherwise, for social reform, temperance, and the emancipation of women.
+FN:S1018.2:  However, she met  strong  opposition from a hard core of  local councillors ,  town clerks  and  members of the public  (four councillors and the town clerk resigned in response to her election), and  they  often disrupted meetings and orchestrated opposition to her every proposal.
+FN:S1023.2:  People from Ely have created  various hoaxes  as a way of garnering free publicity for the city.
+FN:S1023.9:  This hoax became  widely known  throughout the entire state of Minnesota, and was often reported on radio stations.
+FN:S1025.2:  Etic approach refers to keeping the advertising culturally neutral in  all parts of the world .
+FN:S1025.3:  This is again a  very daunting  task.
+FN:S1027.3:  It spread  mainly  in Europe during the 1990s and has been championed by therapist John Ruskan.
+FN:S1030.2:  'Emptiness' is  everything  that is in front of you.
+FN:S1031.5:  It may seek expression through  different types of self-harming behaviors , and  in more extreme cases , suicide.
+FN:S1035.2:  The 'English Defence League' (also known as the 'EDL' and  occasionally referred  to as 'English and Welsh Defence League') is a British far right political group whose professed aim is to oppose the spread of Islamism, Sharia law and Islamic terrorism in the United Kingdom.
+FN:S1035.3:  The group has organised  various protests  in the United Kingdom.
+FN:S1036.2:  English  is noted for  the  vast  size of its active vocabulary and its fluidity.
+FN:S1036.3:  English  easily  accepts technical terms into common usage and imports new words and phrases that  often  come into common usage.
+FN:S1036.5:  In addition, slang  often  provides new meanings for old words and phrases.
+FN:S1036.6:  In fact, this fluidity is  so pronounced  that a distinction  often  needs to be made between formal forms of English and contemporary usage.
+FN:S1039.4:  Enologix benchmarks vineyard and winery samples to the customers  competitive  set of bottled wines for sale.
+FN:S1039.5:  In 2007 Enologix made the first Classification of Napa Valley American Viticultural Areas-to TASTE3 which brings together more than forty of  the most compelling  writers, thinkers, chefs, winemakers, journalists, artisans, and executives as speakers.
+FN:S1040.2:  Opportunities can be realized in  several ways .
+FN:S1040.3:  The most popular  one is through opening a new organization (e.g starting a new business).
+FN:S1040.7:  This  is usually called  social entrepreneurship or social venturing.
+FN:S1041.4:  It was later recognized  that these are equivalent models of computation.
+FN:S1044.5:  This,  in a sense , makes a large portion of the work a summary of excerpts on critical concepts expressed in previous works in a condensed form.
+FN:S1046.2:  ErasmusPC started off with  a group of people  in the Netherlands and Dublin.
+FN:S1050.6:  Indeed,  one   might   allege  that the idea of the millennium, and the coming of the perfect kingdom of God to Earth is part of orthodox Christianity, more than it is part of Gnosticism.
+FN:S1051.2:  Since the recession, Zencey's ideas are receiving  mainstream attention .
+FN:S1052.4:  Mendelsohn's work encapsulated the consumerism of the Weimar Republic,  most particularly  in his shops:  most famously  the Schocken Department Stores.
+FN:S1052.6:  His Mossehaus newspaper offices and Universum cinema were also  highly influential  on art deco and Streamline Moderne.
+FN:S1052.10:  With an expensive publication about his  generously  proportioned new home, adorned with the work of Amédée Ozenfant among  others , Mendelsohn became the subject of envy.
+FN:S1053.5:  Other notable engines  were later developed under Hives’ lead.
+FN:S1054.2:  In general Schulhoff's music remains connected to Western tonality, though—like Prokofiev, among  others —the fundamentally triadic conception of his music is often embellished by passages of intense dissonance.
+FN:S1055.5:  A programme to fell tracts of secondary woodland has led to  various public protests .
+FN:S1056.2:  Esperanto and Interlingua are two planned languages which have taken  radically  different approaches to the problem of providing an International auxiliary language (IAL).
+FN:S1057.4:  As the text was initially written in 1754, and was sent to the publisher in 1763 is  appears safe to argue  that the tensions between the Essay and the Second Discourse were intentional.
+FN:S1060.3:  The Jewish population of Vojvodina was quite large in the past (about 19,000 before the World War II), but  most of these Jews  were killed or deported during the Axis occupation in World War II.
+FN:S1060.4:  The language of Vojvodina Jews was Yiddish, German or Hungarian, with  many families  bilingual (or even trilingual).
+FN:S1062.2:  The expansion of the EU  has been seen  as a means for promoting and reinforcing peace and democracy on the European continent following the Second World War and later after the decline of the Soviet Union.
+FN:S1062.4:  There is disagreement  on how far the EU should expand however.
+FN:S1062.7:  Turkey is a  particularly controversial  topic, considering its  large  population,  low  standard of living, Muslim culture, geographical position and ongoing disagreements over Cyprus.
+FN:S1075.2:  There are, especially in the neighborhood of the lake,  many ruins of ancient villages and cities .
+FN:S1080.3:  Players  took this to be incontestable truth as to the identity of those involved in the farming and selling of virtual items.
+FN:S1081.2:  Amongst the  notable  buildings on Farringdon Road are the former headquarters of 'The Guardian' newspaper at no. 119, the 'Zeppelin Building' (built in 1917 after a Zeppelin raid) and the western side of Smithfield Market.
+FN:S1082.3:  Farthings of Henry V and Henry VI were produced in London and Calais (VILLA CALIS), though Henry V Calais farthings are  extremely rare .
+FN:S1084.10:  Homosexual Activists  knew of the unique wording in the Ohio Domestic Violence Statute and of the Majority of Case Law in the State.
+FN:S1084.11:  They  chose to ignore the overwhelming evidence against a conflict, and instead focused on the two Courts that did find such a conflict.
+FN:S1085.6:  Within a few short years the zeppelin revolution began  creating the age of air transportation .
+FN:S1093.2:  British fireworks hobbyists  have found it  ironic } that artilery-style fireworks banned, but not large rockets, which have less stable flight.
+FN:S1094.2:  Supporters of banning fireworks  cite the potential dangers, but  hobbyists  claim that fireworks may be used safely given appropriate precautions.
+FN:S1094.3:  Hobbyists  also cite that fireworks injuries are among  the least common  in the United States.
+FN:S1094.4:  Media   has also been criticized  by  hobbyists  for exaggerating the dangers of fireworks (for example, fireworks  are often incorrectly seen  as high explosives that can level an entire block.
+FN:S1097.6:  Most &quot;industry-standard&quot; flags  consist of a square wire frame wrapped in black cloth, which minimizes any reflected light and keeps the flag lightweight.
+FN:S1100.3:  Today essentially  all professional medievalists  agree with Russell that the &quot;medieval flat Earth&quot; is a nineteenth-century fabrication, and that the few verifiable &quot;flat Earthers&quot; were the exception.
+FN:S1101.2:  Along with  community websites  such as Avsim.com, the website has been identified as a key component in bringing community members together to discuss the topic of flight simulation, with real world meetings and events of website community members common.
+FN:S1104.2:  Follo were  one of the favourites  to get promotion to the Adeccoligaen.
+FN:S1104.4:  Promotion is  extremely unlikely , they now look to finish as high as possible.
+FN:S1107.3:  Within a few years the NRFU rules had started to diverge from the RFU,  most notably  with the abolition of the 'line-out'.
+FN:S1109.2:  Paraguay–Brazil relations have improved  greatly  after Brazilian President Lula's decision in 2009 to triple its payments to Paraguay for energy from a massive hydro-electric dam on their border, ending a long-running dispute.
+FN:S1110.2:  Georgia's location, nestled between the Black Sea, Russia, and Turkey, gives it strategic importance  far  beyond its size.
+FN:S1110.4:  Georgia has a  long and close  relationship with Russia, but it is reaching out to its other neighbors and looking to the West in search of alternatives and opportunities.
+FN:S1112.2:  In  regular public  statements, Slovenia's  highest politicians  underscore their government's commitment to expanding cooperative arrangements with neighbours and active contributions to international efforts aimed at bringing stability to Southeast Europe.
+FN:S1112.3:  Resource limitations  are a concern  for the government, which does not wish to see itself spread too thin.
+FN:S1113.2:  The 'foreign relations of the Philippines' is  tightly  controlled with its relations with its Southeast Asian neighbors and the United States.
+FN:S1115.3:  It has  recently , in part due to its location north of the Arctic Circle and its proximity to Fairbanks, become a  minor  tourist destination.
+FN:S1116.3:  Eco avoids this  rather elegantly , without holding back on the historical mystery surrounding the Knights Templar.
+FN:S1118.3:  She collaborates in duo with Mark Dresser, and with Evan Parker, Joel Ryan, Misha Mengelberg, David Wessel, and  other legends  out the jazz world as well as with DJ Low, Scanner etc, and artists Hooykaas Stansfield, Marina Abromovic, Steina Vasulka, Frank Scheffer.
+FN:S1121.5:  The buildings waste structural resources by creating  functionless  forms
+FN:S1121.6:  The buildings are  apparently  designed without researching the local climate
+FN:S1121.7:  The spectacle of a building often  overwhelms  its intended use (especially in the case of museums and arenas)
+FN:S1121.8:  The buildings  do not seem  to belong in their surroundings &quot;organically&quot;
+FN:S1121.9:  Seattle's EMP Museum represents this phenomenon  at its most extreme .
+FN:S1121.11:  While the result is  undeniably  unique, critical reaction came in the form of withering attacks.
+FN:S1121.12:  The  bizarre  color choices, the total disregard for architectural harmony with built and natural surroundings, and the  mammoth  scale led to accusations that Gehry had simply &quot;got it wrong.&quot;
+FN:S1121.14:  However, practical  criticisms  have continued.
+FN:S1122.2:  After Liz Lemon, who is head writer and the protagonist of the series, Frank is  the most prominently featured  writer of the show-within-a-show.
+FN:S1124.4:  Lefort was  one of the principal organizers and participators  in Peter's military games, which would pave the way for his career advancement.
+FN:S1126.2:  Members  show up for semi-annual rides on three different types of bikes.
+FN:S1126.4:  Many of these fabricators  build bikes that celebrate the theme of each ride, from St Patrick's Day to Halloween.
+FN:S1137.2:  The chief of surgery and emergency medicine, Dr. S. C. Gautam,  is recognized  as the protagonist behind the modernization of health care within Fujairah.
+FN:S1143.4:  It is  widely  served in hotels and restaurants in Indonesia, and in Indonesian restaurants in  other countries .
+FN:S1144.2:  Gaetano's work is good, original and spontaneous, but  not always  very careful.
+FN:S1144.4:  His labels were  generally  handwritten.
+FN:S1150.2:  'Gato' ( arguably ) formed the basis of the largest class of submarines ever built, counting the 'Balao' &amp; 'Tench', which weren't substantially different.
+FN:S1150.12:  'Harder' was commanded by Samuel D. Dealey, the only submariner of the war ( perhaps  the only one ever) to sink five enemy destroyers, four in a single patrol.
+FN:S1151.2:  This first manned flight of the Gemini spacecraft was  very much  a test flight.
+FN:S1152.3:  This meant that the Gemini 7 spacecraft could stay in orbit for at least 100 days without its orbit degrading,  more than stable enough  for the passive target during a space rendezvous.
+FN:S1154.3:  In other words, the Bible  is seen  as a kind of spiritual allegory, which uses words as symbols that each point to a particular spiritual form or concept.
+FN:S1154.4:  On  the deepest  level the Bible  is seen  as a story of the Lord's internal life as it was when He was on earth.
+FN:S1155.2:  The status of general relativity is  decidedly  mixed.
+FN:S1156.2:  General relativity is a  highly   successful  model of gravitation and cosmology.
+FN:S1156.4:  It is  almost universally  accepted by the scientific community.
+FN:S1159.2:  Montenegro's mountainous regions receive  some of the highest amounts of rainfall  in Europe.
+FN:S1167.2:  With the collapse of the Johnson Administration in 1968, Parr lost his  primary  political protector.
+FN:S1167.3:  Under advice from Johnson and  other prominent figures , he relinquished control of his machine by the early 1970s.
+FN:S1167.6:  When Parr's machine collapsed soon after his death, Duval County's small white large landowning minority attempted to retain control of the county politically but was unable to halt the Democratic take-over of the county by the now  overwhelmingly  large Mexican population.
+FN:S1169.2:  'The Constant Couple' was written when he was  only  twenty.
+FN:S1169.7:  He remained impoverished, and decided to enter the army, which provided material for  one of his best-known  plays, 'The Recruiting Officer' (1706).
+FN:S1172.3:  This role  boosted  him briefly to a major film star.
+FN:S1174.3:  His parents died when he was a child, resulting in his adoption by  an uncle  with whom he entered apprenticeship as a carpenter.
+FN:S1177.4:  Over the years, millions of euro have been donated by  private individuals  and  companies .
+FN:S1179.2:  He was a very prolific forward, particularly  renowned  for his goal-scoring ability.
+FN:S1179.3:  Houlahan was also a  crowd favourite  with the Armagh fans.
+FN:S1179.4:  He is known as  one of Armagh's best ever  players.
+FN:S1187.3:  The performance  had been highly hyped  and anticipated by MTV and  various other media outlets .
+FN:S1192.2:  She became  one of Warner Brothers most prolific  actresses of the 1930s, solidifying her success with her own film film series, as Torchy Blane, &quot;Girl Reporter&quot;.
+FN:S1192.4:  Farrell would portray the character Torchy Blane in  approximately  eight films, from 1937 to 1939 when the role was taken over by Jane Wyman.
+FN:S1201.4:  There are plans  to double the annual production capacity of the plant in 2009.
+FN:S1210.2:  On December 9th, 1936, Robert Goyard decided - along with his friends and contemporaries at Boucheron, Cartier, Charvet, Chaumet, Guerlain, Morgan and Ritz - to unite  the most prestigious  houses of the Place Vendome.
+FN:S1216.2:  Prior to its release for the PlayStation 2, 'Grand Theft Auto: San Andreas' was  one of the most highly anticipated  video games of 2004, along with 'Halo 2'.
+FN:S1220.2:  It is likely  to be similar in function to Apple Computer's Sudden Motion Sensor and IBM's HDAPS.
+FN:S1223.3:  Although detailed planning for the project was only begun in 1986, opposition from Crees, Inuit, environmental organizations like Greenpeace and the Friends of the Earth and  other activists  led the Premier of Quebec, Jacques Parizeau, to announce in November 1994, that the project was suspended indefinitely.
+FN:S1223.4:  However, the project  may  still be revived in the future.
+FN:S1225.2:  Greed and fear  are supposed , together with herd instinct, to be the three main emotional motivators of stock markets and business behavior, and one of the cause of bull markets, bear markets and business cycles.
+FN:S1228.3:  Contemporary opinions  saw Rasputin  variously  as a saintly mystic, visionary, healer, and prophet, and, on the other side of the coin, as a debauched religious charlatan.
+FN:S1233.4:  The U.S. Supreme Court later reversed  some convictions  under the Smith Act as unconstitutional.
+FN:S1237.2:  Senegal’s success at containing HIV/AIDS,  widely praised and studied , provides  valuable  lessons for other countries in the region.
+FN:S1240.3:  Exactly when this happened is  uncertain , but he had papers referring to this by the time of the Walpurgisnacht Rock concert.
+FN:S1249.2:  Then the Norwegians travelled far and wide in Götaland, winning  most of the battles .
+FN:S1249.3:  In  one of the battles , the Geatish commander Hrani the Geat fell.
+FN:S1250.2:  Contemporary harmonicists Howard Levy, Jason Ricci, Carlos del Junco, Olivier Poumay, Frederic Yonnet and John Popper are  perhaps   the most innovative  players since Little Walter.
+FN:S1253.2:  'Harry A. Gair' was in his time the United States  most prominent  trial Lawyer in the field of negligence, or accident law, and unequalled as a court room nemesis to opposing medical witnesses.
+FN:S1256.2:  Prior to this point Rimmer had shown  little interest  in religion.
+FN:S1264.5:  With initial demand for over 40 million shares, Healtheon's price rose over 400% on the first day of trading; it was  one of the most successful  IPOs to date.
+FN:S1267.3:  In a household or domestic setting, heaters  are commonly used  to generate heating (i.e. warmth).
+FN:S1268.3:  However after a chance meeting with a Manchester DJ called Mike Pickering, formerly of Quando Quango, her  distinctive  voice helped sell over 10 million albums worldwide singing with his group M People.
+FN:S1268.4:  They had  considerable  success with songs such as 'Moving on Up' and 'Search for The Hero'.
+FN:S1270.3:  In its Latin form, 'Biblia Hebraica', it  traditionally  serves as a title for printed editions of the masoretic text.
+FN:S1272.5:  Other economic concerns  for Clark's government include a persistently high current-account deficit and an unofficial poverty-rate of about twenty percent.
+FN:S1275.5:  They symbolize the  relatively  large hazel forests near the village, which was of economic importance for the village  in previous times .
+FN:S1278.4:  Greatly  to Sidney's  chagrin  the queen censured his extravagance, and notwithstanding his distinguished services to the Crown he was recalled in September 1578, and was coldly received by Elizabeth.
+FN:S1281.4:  Taxa  are mainly known  from north temperate regions, and are saprobic on rotting wood.
+FN:S1282.4:  In addition he conducted  numerous studies of human skulls , including the famous skulls of Dante Alighieri and Friedrich Schiller.
+FN:S1284.2:  Definitions of sexuality tend to be narrower to  most heterosexuals  than it is to people of other sexual orientations.
+FN:S1284.3:  In  most cases  a potential partner's sex is determined wholly by anatomic sex at birth and genetic sex.
+FN:S1288.2:  The Nation of Gods and Earths gained a  significant  presence in hip hop with the emergence of the Wu-Tang Clan.
+FN:S1292.4:  The meaning of this term  seems  to have been synonymous with the land of Rus' propria--the principalities of Kiev, Chernihiv and Pereyaslav.
+FN:S1293.3:  By this time, the Lower Fraser Valley was a  highly developed  agricultural area, with commercial and industrial development and the beginnings of residential development.
+FN:S1293.5:  Personal and financial impact was  much greater  than in 1894.
+FN:S1293.6:  Thousands of people  were displaced and infrastructure, including bridges and roads, was  significantly  damaged.
+FN:S1297.4:  The owners are determined to protect this precious natural environment from the &quot;negative population impacts&quot; found at  virtually all other beach areas  in the southern part of the state.
+FN:S1298.3:  Later engraving or etching  were more commonly used .
+FN:S1300.4:  Horace Mann owns a large property called Field Park, which includes a blacktop, three playgrounds, and a center at which students play football and  other after-school activities .
+FN:S1304.3:  One website  lists her as a character in over 40 stage dramas, movies, TV dramas, etc., from 1887 to 2006.
+FN:S1304.4:  She  is also frequently referred  to in popular writing or talks on the history of the period.
+FN:S1304.7:  Elements of Mariko's story follows Gracia's quite closely, although the manner of her death is different and the two characters do not  fundamentally  have anything in common.
+FN:S1305.4:  Such visitors can  often   gain a wide understanding of a person  from examining their home.
+FN:S1305.5:  Then the &quot;psychic&quot;  may be briefed  on the information and where the person will sit in the audience.
+FN:S1308.3:  Of the younger branches  the most famous  is that of Guemenee, from which sprang the branches of Montbazon, Soubise and Gie.
+FN:S1308.6:  His grandson, 'Louis de Rohan-Guemenee', the 'chevalier' de Rohan, who was  notorious  for his  dissolute  life, conspired with the Dutch against Louis XIV and was beheaded in Paris in 1674.
+FN:S1309.2:  Ludovico Sforza (also known as 'Ludovico il Moro',  famous  also for taking Leonardo da Vinci at his service) was defeated in 1500 by the French army of Louis XII of France - see also Italian Wars.
+FN:S1313.2:  The film  caused controversy  in Ireland, due to the glorification of cheating, even drawing condemnation by then-Junior Minister for Education Willie O'Dea.
+FN:S1314.7:  His poetry has won  many prizes , including for instance the [Tor House Robinson Jeffers Prize] in 2003 and the Elizabeth R. Curry Poetry Prize at Slippery Rock University in 2006.
+FN:S1315.3:  Thus , the 'State of Huá',  can  refer to the name of the Hephthalites' country or tribes mentioned in what is now north Afghanistan from the 'Book of Liang' and 'Portraits of Periodical Offering of Liang'.
+FN:S1316.2:  A  particularly famous  early 'hudna' was the Treaty of Hudaybiyyah between Muhammad and the Quraysh tribe.
+FN:S1318.4:  These views  have sparked debate and criticism , particularly among the more media-friendly members of the AI research community.
+FN:S1319.4:  It is  unclear  who came up with the 'Sharks' as a nickname but for a nautical city it was a fairly obvious choice.
+FN:S1320.3:  The ombudsman  was free of government control, and the government was generally responsive to  the ombudsman's  recommendations.
+FN:S1320.4:  The ombudsman , who is elected by consensus of all political parties, is authorized to hear and investigate complaints by private citizens against government officials or agencies.
+FN:S1320.5:  The ombudsman  advised the government to follow World Health Organization recommendations concerning work and residence permits for immigrants.
+FN:S1324.2:  Another common criticism  of the ad campaign was its hypocritical undertone.
+FN:S1337.2:  It is often alleged  that the speed and totality of the German collapse were caused by Romanian betrayal.
+FN:S1339.3:  All Caliphs  from Muawiya onwards  are regarded  as tyrants except Umar ibn Abdul Aziz, on whom opinions differ.
+FN:S1339.4:  However,  various later Ibadi leaders   are recognized  as true imams, including Abdullah ibn Yahya al-Kindi of South Arabia and the imams of the Rustamid dynasty in North Africa.
+FN:S1340.2:  In spite of her  very short  career and limited output, Higuchi  is remembered  for the quality of her works and  is considered  to be the first professional female writer in modern Japanese literature.
+FN:S1341.4:  Instead,  the vast majority  are honest misidentifications of natural or man-made phenomena.
+FN:S1348.3:  The charity grew over the next twenty years to become  one of the world's leading  cancer research charities.
+FN:S1348.4:  Until merger, it made  huge  contributions to  almost every area of cancer research .
+FN:S1350.2:  Charles II of Spain was physically and mentally disabled,  possibly  due to inbreeding
+FN:S1350.4:  Examples abound in every royal family; in particular, the ruling dynasties of Spain and Portugal were in the past  very  inbred.
+FN:S1350.6:  Even in the British royal family, which is very moderate in comparison, there has  scarcely  been a monarch in 300 years who has not married a (near or distant) relative.
+FN:S1354.3:  They spread Hinduism and  many other aspects of Indian culture  including the Brahmi Script.
+FN:S1356.2:  However, the military strength of nomadic tribes from Central Asia (Yuezhi and Scythians)  probably  constituted a significant threat to the Indo-Greeks.
+FN:S1357.4:  A more &quot; lightweight &quot; version is the 'office park', which has offices and light industry, rather than heavy industry.
+FN:S1359.5:  Under  conventional  economic theory, the Information Age also heralded the era where information was a  scarce  resource and its capture and distribution generated  competitive  advantage.
+FN:S1359.6:  Microsoft became  one of the largest  companies in the world based on its influence in creating the underlying mechanics to facilitate information distribution.
+FN:S1359.8:  It  is often used  in conjunction with the term post-industrial society.
+FN:S1359.9:  When information ceased being  scarce , the Knowledge Economy commenced.
+FN:S1359.10:  The Knowledge Economy started around 1992 and continued to  approximately  2002.
+FN:S1359.13:  It is  helpful to understand  that Google is now a  serious  competitor to Microsoft as it relies on Intangible Economy principles to run its operations.
+FN:S1360.4:  The name  alludes  to the global economy's shift in focus away from the production of physical goods (as exemplified by the industrial age) and toward the manipulation of information.
+FN:S1363.3:  Some munition shipping containers  are designed to provide a degree of protection and thermal insulation.
+FN:S1366.4:  The ICF, along with Chelsea Headhunters, Leeds United Service Crew, Birmingham Zulus, The Red Army, and Millwall Bushwackers rank among  the most notorious  firms in football hooliganism's so-called &quot;golden age&quot;.
+FN:S1368.5:  However, programs with &quot;Interior Architecture&quot; in its name  may  not be comparable to programs for interior design.
+FN:S1369.4:  The IFEA also offers  several educational courses  which can lead to the professional designation of Certified Festival and Events Executive (CFEE).
+FN:S1370.2:  The Choueifat schools  have a reputation  for being among the  premier  schools in the Middle East, attended by the Who's Who of Middle Eastern families.
+FN:S1370.3:  Being  one of the oldest  English-speaking schools in the region, Choueifat  has a reputation  for a  rigorous  academic curriculum.
+FN:S1377.8:  Some U.S. officials  cited claims of a connection between Saddam Hussein and al-Qaeda.
+FN:S1377.9:  No evidence of any substantial al-Qaeda connection  has been found.
+FN:S1379.2:  The original minting of the coin from 1928 until 1942 contained 75% silver; this Irish coin had a  higher  content than the equivalent British coin.
+FN:S1386.3:  Alternatively, the island was sometimes known as 'Brazil', and so  might  represent the same island as the Brazil off the west coast of Ireland.
+FN:S1392.2:  In 2004, undercover reporters from BBC's programme Panorama secretly filmed Slavkov in a meeting during which he and an associate, Goran Takač,  suggested  that Slavkov is willing to vote for London's 2012 Olympic bid and solicit votes from other IOC members in exchange for bribes.
+FN:S1394.2:  Iwasaki Yataro was a  very visionary  businessman.
+FN:S1394.3:  He often gave dinners in the company of  dignitaries .
+FN:S1394.4:  Iwasaki spent a  huge  amount of money on these occasions but he also gained  a lot .
+FN:S1396.3:  He  may  have been among the plotters of Ardizzone's death.
+FN:S1397.3:  Following the announcement of Sabo that he was retiring,  several other democrats  announced their intentions to run for the House seat.
+FN:S1401.4:  Under Jackson's management, the spa grew to be  one of the largest   in the world , catering for around 20,000 patients and was renamed 'Our Home on the Hillside'.
+FN:S1405.4:  Still it didn't seem to affect his form, and the early nineties were  perhaps  the time where he produced his  best  form.
+FN:S1406.2:  'Johannes Guillaume Christianus Andreas Marijnissen' (Oss, 8 october 1952,  usually   known  as 'Jan Marijnissen') is a Dutch politician for the Socialist Party (SP).
+FN:S1409.2:  'January Magazine' is  one of the most respected  book-related publications on the Web.
+FN:S1409.3:  Founded by author Linda L. Richards and graphic artist and photographer David Middleton in 1997, 'January' has grown steadily, adding  various sections  and offshoot publications in the intervening years.
+FN:S1423.5:  Hill was  heavily  involved with the organization up until his death in 1974.
+FN:S1423.6:  His work  continues to be recognized  for its importance to the history of cinema.
+FN:S1428.2:  Jimmy Edgar  is also rumoured  to be part of the anonymous Creepy Autograph along with several other members including Nels Truesdell, Alice Wakefield, and Dutch Master.
+FN:S1431.3:  This brought him  immediate wealth and fame .
+FN:S1435.2:  Single and Roman Catholic, Cummings represents a  famous  parliamentary constituency which can boast both the former twice Prime Minister Ramsay Macdonald, and Manny Shinwell,  the longest lived  parliamentarian.
+FN:S1437.6:  These are cooked and mixed with  a variety of different compounds  to vary strength.
+FN:S1437.15:  A friend of his  alleges it detects &quot;ghosts&quot;,  another  uses a variation as a remote lie detector.
+FN:S1437.16:  As far as John himself admits, the electricity produced  may  be parasitic, feeding from cell towers and near by microwaves.
+FN:S1437.19:  The headline precedes an article that claims  another group  has invented levitation, and based their success on their further research into the casmir effect, only first measured in 1994.
+FN:S1444.3:  Reeves,  known  to be the CLP's preferred appointee, was tipped the head the inquiry, and was duly appointed in October 1997.
+FN:S1444.4:  The appointment  was criticised  by  Aboriginal groups  both for his lack of judicial experience and his history of defending developers accused of desecrating Aboriginal sacred sites.
+FN:S1446.3:  He was killed at the Battle of Flodden in September 1513, along with  many other Scottish peers .
+FN:S1451.4:  Jon Kenny  is said  to have  numerous relatives  from East Clare and  far beyond .
+FN:S1456.2:  Historians   generally  consider Hooker, despite his personal faults, as being a talented subordinate general who was ultimately promoted beyond his ability.
+FN:S1458.3:  When he re-launched the newspaper on 17 September, 1855, Levy used the slogan, &quot; the largest ,  best , and  cheapest  newspaper  in the world &quot;.
+FN:S1464.3:  Therefore, you  are supposed  to be &quot;an old christian&quot; rather than perhaps a &quot;new christian&quot; if your four family names &quot;sound&quot; right.
+FN:S1464.4:  This is  obviously stupid  at the next generation, whatever &quot;proofs&quot; are required to be a non paying guest of the King/Queen free Government kitchens.
+FN:S1465.4:  'Jugulator' sold  relatively well .
+FN:S1466.4:  Jugular Vein is a satirical column that skewers  everything , from the mundane to the serious.
+FN:S1466.5:  Its everyday focus and travel writing  are also well known .
+FN:S1469.2:  Some opponents of &quot;corporate personhood&quot;  object to a corporation, particularly a for-profit corporation, being called a person.
+FN:S1469.3:  Their  ideology focuses on the distinction between an individual and what they consider a &quot;soulless corporation.&quot;
+FN:S1470.8:  All these are handmade by skilled artisans in  remote corners of India .
+FN:S1470.15:  The following sites aim at tracing the evolution of juttis and their uses in comparison with  other modern footwear ,  various kinds of juttis  and the art of making embroidered and beaded juttis.
+FN:S1471.4:  The KCa2.2 protein is activated before membrane hyperpolarization and  is thought  to regulate neuronal excitability by contributing to the slow component of synaptic AHP.
+FN:S1479.4:  Asita had a son named Shandila, from whom the  famous  Shandilya family line (Gotra) started.
+FN:S1481.3:  This &quot;hands on&quot; approach has seen the charity grow  enormously  in the few years since its foundation.
+FN:S1482.2:  Critics   allege  that Rice's refusal to grant plea bargains is too stringent and leaves to little room for judicial discretion.
+FN:S1483.3:  Though the original townsite is now inundated by the waters of Kaw Lake, the old town was  quite  a  busy  place.
+FN:S1487.2:  Kendal  is known  for Kendal mint cake, a glucose-based type of confectionery  reputedly  discovered accidentally by Joseph Wiper during his search for a clear glacier mint.
+FN:S1492.5:  The earliest church on the site  is presumed  to have been made of wood, being replaced eventually in the later medieval period by a romanesque-style stone church.
+FN:S1492.6:  This was in turn replaced by the current  imposing  medieval cathedral.
+FN:S1496.3:  During his period at Rogaland Teater this theatre became  one of the most central  theatres in Norway.
+FN:S1499.3:  Much of this critiscm  stems from the number of posts about video gaming related toys, apparel and accesories, and not video games themselves.
+FN:S1501.3:  Its appearance  frequently  signals the nearing of an end of the storyline, but  not always .
+FN:S1502.3:  It became  the largest and most prestigious  command in the IJA.
+FN:S1505.2:  Iceland, as in the rest of Scandinavia, is a  very liberal  country concerning gay rights.
+FN:S1505.3:  The majority of the public  is supportive of homosexuality, and gay pride parades are held every August.
+FN:S1507.3:  They were first introduced in 1948 and served as the  primary  release format for recorded music until Compact Discs (CDs) began to  significantly  displace them in the 1980s.
+FN:S1508.2:  Based on winning percentage, the University's athletics program is consistently  one of the best  in the nation.
+FN:S1508.4:  Important rivals in football include  one of the longest running  college football rivals with the Ole Miss Rebels, and the Tulane Green Wave.
+FN:S1510.4:  The character would heavily influence the stock character whose persona  is usually portrayed  as a beautiful yet cold-hearted villainess as seen in later popular culture.
+FN:S1513.2:  The lake's name in Latin is 'Larius', Italianized as 'Lario', but this name  is rarely used ; it  is usually called  'Lago di Como' (literally &quot;Lake of Como&quot;).
+FN:S1517.2:  Even though the Lancaster Red Roses never won the EPBL championship, they drew  many fans  to the Lancaster Armory, their home court.
+FN:S1520.4:  Fitzgerald teams with Anquan Boldin to create  one of the most dangerous  wide receiver tandems in the NFL.
+FN:S1524.2:  Santa Maria Maggiore has a large area of mosaics,  probably  of 432-440.
+FN:S1525.3:  Also when  viewers  looking for a comedy are channel surfing and they hear a laugh track,  they  automatically know that the show they surfed to is a comedy.
+FN:S1527.3:  He is  one of the most famous and revered  actors of the 20th century, along with his contemporaries John Gielgud, Peggy Ashcroft and Ralph Richardson.
+FN:S1531.2:  The game takes place in a walled medieval city called Mitteldorf, where the player can explore the streets, buildings and dungeons while completing quests given by its  numerous citizens .
+FN:S1535.3:  This nickname  appears  to stem from the poverty he endured as a lone child.
+FN:S1537.2:  It is worth  distinguishing between lesbian feminism as a critical perspective, and lesbian feminism as a cultural movement.
+FN:S1537.3:  Both question the position of lesbians, gay men and women in society but put forward  different strategies .
+FN:S1538.2:  Levittown proved  successful .
+FN:S1540.5:  Software limitations may result in its display either in full-sized capitals (RUN) or in full-sized capitals of a smaller font; either  is anyway regarded  as an acceptable substitute for genuine small caps.
+FN:S1543.2:  The story includes a  lengthy  discussion of the history and mathematics behind the game of snakes and ladders.
+FN:S1544.4:  as a result it remained a  modest sized  market town until the late 20th century.
+FN:S1548.2:  Dragoon  has often been thought  to be based off Akuma, as he wears Akuma's monk beads and has Akuma's diving kick.
+FN:S1552.2:  This species of frog  is associated  with rainforest, wet sclerophyll forest and woodland.
+FN:S1553.3:  Littlehampton has received  a great deal of publicity  as the home of the East Beach Cafe, a new building on the seafront designed by Heatherwick Studio.
+FN:S1554.3:  The &quot;typical edition&quot; of a liturgical text is that to which editions by  other publishers  must conform.
+FN:S1562.2:  In the early 21st century redevelopment is spreading into the  more suburban  parts of East London, and into the parts of the counties of Kent and Essex which abut the Thames Estuary.
+FN:S1566.4:  Cartoons in the collection that  have been afflicted  with DVNR are Bob Clampett's 'The Big Snooze', Frank Tashlin's 'Have You Got Any Castles', and Robert McKimson's 'Gorilla My Dreams'.
+FN:S1570.2:  Louise-Anne owned  several estates .
+FN:S1570.5:  She also owned  various châteaux  such as the one at Athis outside Paris.
+FN:S1574.3:  His life and works are  legendary .
+FN:S1576.3:  This is the world's first 12.2 megapixel compact digital camera and is  arguably   one of the best  compacts ever produced to date.
+FN:S1580.2:  'Lúnasa' is an  internationally acclaimed  traditional Irish music group.
+FN:S1580.4:  Their albums are  top sellers  in their genre.
+FN:S1581.4:  Afterwards, Roger was active with several groups ( notably  Mission of Burma and Birdsongs of the Mesozoic), as were Ben and Larry ( notably  Destroy All Monsters).
+FN:S1585.2:  The replacement of MTVX with MTV Jams was decried by  many rock music fans .
+FN:S1587.2:  Waters Green was once home to a  nationally known  horse market which features in the legend of the Wizard of Alderley Edge.
+FN:S1588.2:  With the installation of the sugar mills, Maceió started to export sugar, then tobacco, coconut, leather, and  some spices .
+FN:S1590.5:  Both the tools as well as  several mod download URLs  are also listed at the Apple website.
+FN:S1590.6:  One of the hosts of the Mac Games Radio podcast  is featured as a Macologist editor.
+FN:S1591.2:  Macrobiotics  has long been touted  as a preventative and a cure for cancer.
+FN:S1591.5:  In principle Macrobiotics offers  significant  benefits to good health, but  one  must always approach any philosophy  with a questioning mind .
+FN:S1592.2:  Perhaps   the most critically acclaimed  new feature is the truck stick, which functions like an offensive version of the hit stick from the previous year.
+FN:S1595.2:  Given Ireland's conservative sexual values, Magdalene Asylums were a  generally accepted  social institution until  well  into the second half of the 20th century.
+FN:S1597.7:  The sculpture  has been compared  with Nissen hut wreckage or a kitsch mantelpiece ornament.
+FN:S1600.3:  Its name  may  have originated from rathi, which means, &quot;chariot driver&quot;.
+FN:S1600.7:  Then on, the region was administered by  various kingdoms  called Deccan Sultanates.
+FN:S1610.5:  They stay out all night until dawn culminating in the  iconic  shot of Queensboro Bridge.
+FN:S1615.3:  In addition,  several of the subject libraries  acquired particular named Special Collections, devoted to  particular subjects  or preserving the libraries of  particular individuals and institutions .
+FN:S1616.2:  'Walter Marcellus Lacy',  better known  as 'Marc Lacy' (born May 28, 1969) is  best known  for his smooth flowing lyrics in spoken word as well as eloquently written poetry.
+FN:S1619.4:  The possibility of Korčula being Polo's birthplace  has raised the issue  of  wether  he was an Italian (Venetian) or Croat, since the town (and, indeed, the entire Dalmatian region) was predominantly Croat (in modern times Dalmatia, including Korčula, is part of Croatia).
+FN:S1620.3:  Instead on 1 April 1988 GEC and Plessey merged their telecommunications businesses as 'GEC Plessey Telecommunications',  commonly  known as GPT.
+FN:S1621.4:  In 987 Godfrey Haroldson raided Anglesey, killing one thousand and carrying away two thousand as captives; Maredudd  is supposed  to have paid a huge ransom for the freedom of the hostages.
+FN:S1633.4:  The California labor union CCPOA  is considered   the strongest  and  most powerful  labor union in the state.
+FN:S1635.2:  Video games  have in the past generally been seen  as an ad-free medium by gamers.
+FN:S1637.3:  Certain animals  started migrating from oceans to the land during the Late Ordovician epoch about 450 million years ago, necessitating internal fertilization to maintain gametes in a liquid medium.
+FN:S1638.2:  Risman is a trained hitman, so he is highly-trained, like  all the other Purifiers , who and have been shown to be capable of holding their own against both O.N.E. troopers and the X-Men.
+FN:S1638.4:  Combined with their secret nature and fanatical determination, the Purifiers are  undoubtedly  a  deadly  foe and a cause of  great concern  for the remaining mutants.
+FN:S1643.5:  This version ceased publication the same year when the publisher sold its U.S. arm to Primedia, having fared  poorly  in competition with 'Super Street' magazine.
+FN:S1644.3:  It is co-owned by Jews and Christian Arabs, and  is known  for being a symbol of co-existence.
+FN:S1644.4:  The restaurant is also the  favorite  dining place of the  famous  Israeli football (soccer) club Maccabi Haifa.
+FN:S1645.6:  It is  the largest  residence hall at the University of Kansas, as well as  the 5th largest  building on campus.
+FN:S1645.7:  It is also  one of the oldest  remaining &quot;traditional style&quot; residence halls on campus.
+FN:S1646.2:  Island  is noted  for its annual Wooden Bridge Festival and has a population of 435.
+FN:S1647.5:  The flat, somewhat brighter inner floor of Mead is interpreted to result from  considerable  infilling of the original crater cavity by impact melt and/or by volcanic lavas.
+FN:S1648.2:  Meadow was  often   resentful  of her lineage, stemming from a string of failed relationships first with Noah Tannenbaum, a fellow student of mixed race who met with Tony's racist disapproval, only to leave after his own father seemed concerned with the Soprano family heritage.
+FN:S1648.4:  Jackie Junior was  no saint ; he cheated on Meadow and shot a made man during a botched robbery.
+FN:S1658.2:  Melanie's photographs are  some of the largest images   in the world .
+FN:S1658.4:  Some  are face-mounted prints and  others  are large-format positives backlit in massive light-boxes.
+FN:S1660.4:  Saint-Gelais was the  champion  of the 'style marotique' (see Clément Marot) and  the earliest of  French sonneteers.
+FN:S1662.4:  Scientists  recently have found that the membrane receptor TM4SF5 has something to do with the migration ability of hepatic cells and hepatoma and that the cortical NMDA receptor properties and membrane fluidity are altered in Alzheimer's disease.
+FN:S1667.3:  Later mercantilists developed  a somewhat more sophisticated view .
+FN:S1668.2:  Thimerosal, a preservative that contains mercury, has been added in  very minute  amounts to vaccines to prevent their deterioration since the 1930s.
+FN:S1668.5:  Today, with the exception of  some flu vaccines , none of the vaccines used in the United States to protect preschool children against twelve infectious diseases contains thimerosal as a preservative.
+FN:S1674.2:  The population has decreased  sharply  since the 19th century, with the rural exodus to the cities.
+FN:S1677.2:  There is total lack of unanimity  on how Mhow got its name.
+FN:S1677.4:  But  there is no confirmation  about which theory is true.
+FN:S1677.5:  Here are  some of these  in no particular order.
+FN:S1678.5:  He's determined to impress Zak and climb higher on the food chain, but Nate sometimes tries  too hard  to please -- especially with the ladies.
+FN:S1679.3:  He is also  notable  for spending seven years in supporting roles under contract to three major studios at once: MGM, Warner Brothers and Twentieth Century Fox.
+FN:S1681.3:  This practice led to CAA and its clients holding  significant  negotiating leverage over the major studios.
+FN:S1683.2:  He attended Skidmore College where he majored in sculpture but soon moved to New York City where he played with  several bands .
+FN:S1686.11:  This  could  be a consequence of his exposure to Yoda's teachings.
+FN:S1687.2:  Midi-chlorians were  extremely controversial  among  fans  when their existence was first revealed in 'Star Wars Episode I: The Phantom Menace'.
+FN:S1687.4:  However, it  may  have already been established in the original trilogy that the Force was genetic (through heredity) and passed down through families.
+FN:S1691.3:  Upon finding the two inspectors interviewing his driver, who they  alleged  was double-parked, Wallace  allegedly  lunged at one of them and was subsequently arrested.
+FN:S1693.2:  Pakistan is under attack by killer ompalompa's and munchin's that eat  people  and rip out their spleen
+FN:S1694.7:  Rarely  is it severe enough to cause death.
+FN:S1701.2:  The Lewis and Clark decision not to call the Jefferson the Missouri has spurred  debate  over what is the longest river in North America since the Missouri and Mississippi are nearly identical in length.
+FN:S1703.5:  While that  might  be the case, they are still movies in their own right.
+FN:S1706.8:  So, here the bystander effect is much stronger, and  the ones in charge of the prostitution rings  know this, and it aids them in the continuance of their businesses.
+FN:S1706.10:  All the areas that it works out of are  in the shadows  in America.
+FN:S1712.4:  Schyster was  one of the first  wrestlers to join the group and remained in the stable until leaving the WWF in 1995.
+FN:S1713.2:  Monopropellants are not as efficient as  some other propulsion technologies .
+FN:S1713.4:  If the propulsion system must produce large amounts of thrust, or have a high specific impulse, as on the main motor of an interplanetary spacecraft,  othertechnologies  are used.
+FN:S1715.3:  &quot;Absolutism&quot;  is often philosophically contrasted  with moral relativism, which is  a belief  that moral truths are relative to social, cultural, historical or personal references, and to situational ethics, which holds that the morality of an act depends on the context of the act.
+FN:S1717.3:  She also possesses a gifted intellect, and as a former pupil of Merlin, she possesses a great deal of magical lore,  considered   one of the greatest  sorceresses in Earth's history.
+FN:S1720.2:  The 'Mossi Kingdoms',  sometimes mistakenly referred  to as the 'Mossi Empire' were a trio of powerful states in modern-day Burkina Faso.
+FN:S1722.4:  MoveOn helped  propel  the Democratic Party to power in the 2006 election.
+FN:S1723.3:  On January 22, 1963 Khomeini issued a  strongly worded  declaration denouncing the Shah and his plans.
+FN:S1723.4:  Two days later Shah took armored column to Qom, and he delivered a speech  harshly  attacking the ulama as a class.
+FN:S1724.2:  Virginia Manor is an  affluent  subdivision, with streets designed to follow the natural contours of the land.
+FN:S1732.2:  There is a dispute  as to which was the first MNC.
+FN:S1732.4:  However,  others  claim that the Dutch East India Company was the first proper multinational.
+FN:S1736.5:  The Terrible Towel has gained  much popularity  since its invention and &quot;is  arguably   the best-known  fan symbol of any major pro sports team&quot;.
+FN:S1739.4:  His role as a minister is a  disputed question  because  he's charged  of serving more as a criminal lawyer to the Labour Party (PT) than a minister.
+FN:S1741.3:  The covered streets house stalls selling fashion garments, TVs and alternative medicine give a taste of what Japan  might  have been like before modernization.
+FN:S1741.6:  Many 'izakayas' and pachinko parlors  can be found in its vicinity.
+FN:S1743.4:  The majority of her novels  have been New York Times bestsellers.
+FN:S1744.4:  The  main  attraction is Pacho Waterfall.
+FN:S1745.2:  For whom Telchar originally made Narsil, as well as its early history, is  unknown .
+FN:S1747.3:  Born in Medellín, she moved to Bogotá  at a young age , and stayed there through high school.
+FN:S1749.2:  The natural bridge formation  is said  to date back 200 million years.
+FN:S1753.3:  Accuracy is  the most discussed  topic on forums.
+FN:S1760.2:  Though the specifics of the project are  largely   mysterious  and  speculative , the Instrumentality Project is an operation initiated by SEELE to instigate an artificial Third Impact in which all human physical life will end and the minds of all humans become united in a single soul.
+FN:S1760.4:  It  could be said  to be the project to turn humans into God, which is largely played out in 'The End of Evangelion', before Shinji decides to accept humans apart, and with different AT fields.
+FN:S1760.16:  Nearly every  anime has an organization called &quot;project,&quot; such as that of &quot;Project AKIRA&quot; or &quot;Project D&quot;.
+FN:S1760.21:  Unfortunately  for Western audiences,  the vast quantity of bonus material  to be found in the 'Renewal' boxed set has not been translated into English, and was omitted from the Platinum Edition, to say nothing of the Renewal box itself.
+FN:S1760.22:  Also, the 'Platinum Edition' does not include 'Director's Cut' episodes 25'/26' and has  significantly   degraded  video and sound quality when compared directly with the 'Renewal' set.
+FN:S1760.24:  It was released in 1998 and  is considered  to be the final form of the 'Evangelion' movies.
+FN:S1761.8:  With the addition of the new pet rating system, in which  other users  can rate Neopets,  some users  are protesting the Nc Mall.
+FN:S1764.2:  'Neuropsychiatry' is the branch of medicine dealing with mental disorders attributable to  diseases  of the nervous system.
+FN:S1768.12:  State of Louisiana leaders  are looking at Louisiana's budget surplus to help with coastal restoration to restore Louisiana's eroding coast line.
+FN:S1769.2:  The New York State Thruway (Interstate 87) passes through the eastern part of the town, generating  a substantial number of tickets  for the Town Court.
+FN:S1770.4:  This idea was met with the strong resitance from  all participants  in merger talks.
+FN:S1775.2:  In the early days   all roads  were managed by  local roads boards .
+FN:S1776.3:  Additionally,  claims   allege  Labour used over $400,000 of taxpayers' money to produce a number of pamphlets and &quot;pledge cards&quot; promoting Labour.
+FN:S1778.4:  Others  argue that the news media are simply catering to public demand.
+FN:S1778.5:  The role of the government funded media is small in the US in comparison to the public media in  other comparable countries .
+FN:S1782.3:  He formed the  notable  collective ROBOTS in 2004 with  several other New York DJs , establishing a weekly event at Club Deville.
+FN:S1783.4:  His ideas  roiled  the information technology industry, spurring  heated  outcries from executives of Microsoft, Intel, Hewlett-Packard and  other leading technology companies , although  other commentators  defended his position.
+FN:S1783.6:  In that article, he argued that in the future  companies  will purchase information technology as a utility service from outside suppliers.
+FN:S1784.4:  The  well-known  budgerigar is a not-too-distant relative (Christidis 'et al.', 1991) of these birds.
+FN:S1792.4:  (The revolutionaries thought him no better; Leon Trotsky,  on more than one occasion , levelled high-profile criticism at Thomas.)
+FN:S1794.3:  They  say NAMBLA functions as a meeting place for pedophiles and pederasts and their sympathizers.
+FN:S1794.4:  Opponents  also argue that pubescent children in particular are not capable of giving consent and that the power imbalance between adults and children makes any sexual relationship exploitative.
+FN:S1794.5:  A number of NAMBLA members  have been charged with and convicted of sexual offenses against children.
+FN:S1799.2:  Northbridge Services Group  is alleged  to be the successor of the now defunct South African PMC Executive Outcomes (EO).
+FN:S1799.3:  Northbridge  is said  to have close links with Aegis Defence Services, the successor of the now defunct PMC Sandline International.
+FN:S1816.2:  Some of the policies  endorsed by NIRS include strict controls on nuclear waste disposal, bans on nuclear weapons and new power plants.
+FN:S1821.5:  It is  unclear   whether  the division between OS/MFT and OS/MVT arose because MVT required too much memory to be usable on mid-range machines or because IBM needed to release a multiprogramming version of OS (MFT) as soon as possible.
+FN:S1821.6:  Initially IBM  maintained  that MFT and MVT were simply &quot;two configurations of the [OS/360] control program&quot;.
+FN:S1822.2:  All of Oakhill's  infamous  productions defy the boundaries set by  various amateur and other school productions , with  amazing  direction and talented casts and crews.
+FN:S1832.3:  French mercenaries  are thought  to be the first Europeans to get to the region, but the Portuguese exploited intertribal rivalries and managed to build a stronghold on the former Caeté village in the higher hill.
+FN:S1834.5:  Two innocent-looking children, they were  the gayest ,  wildest  brats who ever stirred the stardust on Broadway.
+FN:S1838.5:  China's  generally  perceived pandemic overpopulation problem, with the associated social and environmental problems, forced the government to take strong unique measures in population planning policy.
+FN:S1838.7:  Alleged  punishments  may  include amputation of genitals and forced sterilization.
+FN:S1842.2:  Opal currently hosts  various shows  on British satellite TV, including Gala TV, the television channel of Gala Bingo.
+FN:S1842.4:  She also presented a national radio show on Big L 1395 called 'London Calling', which initially featured live interaction with the audience; she resigned while on air in 2007, citing creative differences with the station's new management, who  had reportedly been  behind major alterations to the format of the show.
+FN:S1846.5:  These evolved into Toronto's current Gay Pride Week, which is now  one of the world's largest  gay pride festivals and celebrated its 25th anniversary in 2005.
+FN:S1849.2:  In August 2009 the Swedish tabloid Aftonbladet ran an article  alleging  that in 1992 the Israeli Defense Force took organs from Palestinians who died in Israeli custody.
+FN:S1850.2:  These groups gave  a variety of reasons  for seeking federal regulation.
+FN:S1856.2:  Most details of his life  are legendary.
+FN:S1861.6:  This can be extended to the  fabled  Boomerang, which includes an immediate return trip into town, allowing only a brief stop at home for a change of clothes.
+FN:S1862.4:  Some finds  are shown in the 'Antiquarium' on the site.
+FN:S1865.4:  About 1835 the open end of the U was filled in with a picturesque,  by no means  archaeologically correct range that recreated the central courtyard.
+FN:S1866.3:  Both the high school and the middle school have sports teams which  are referred  to as Oxford Wildcats.
+FN:S1869.2:  PCLinuxOS  appears  to have a fiercely evangelical and unusually helpful userbase.
+FN:S1869.3:  Their  alleged  and  unproven  tendency to assault public polls and rankings often results in their coming in ahead of distributions dozens of times more popular (though such popularity is difficult to measure).
+FN:S1873.4:  Unlike the paleolibertarians,  some paleoconservatives  like Buchanan supported the Cold War.
+FN:S1877.4:  It is  frequently  found in isolates of community-acquired 'S. aureus' infections.
+FN:S1880.8:  Narada Falls is soon followed by the  seldomly seen  Sidewinder Cascades.
+FN:S1881.2:  'Paradox Interactive' (formerly a division of 'Paradox Entertainment') is a Swedish video game developer based in Stockholm that  is known  for producing historical strategy computer games.
+FN:S1883.3:  Concerted cultivation parenting  is associated  with those parents who have traditionally white collar jobs and those  considered  to be part of the middle class.
+FN:S1883.4:  Natural growth parenting  is associated  with blue collar workers of the working class.
+FN:S1883.5:  Parenting practices do not apply exclusively to social classes, but they are  highly  correlated.
+FN:S1886.2:  Even in countries  traditionally seen  as nations of smokers, opinion polls have shown support for bans, with 70% of those in France supporting a ban.
+FN:S1888.3:  'Patek Philippe &amp; Co.' is  one of the most famous and expensive  brands of wrist watches in the world.
+FN:S1888.5:  Many watch collectors  regard Patek Philippe timepieces as the best in the world.
+FN:S1888.6:  Over the years, Patek Philippe watches have been worn by  a number of notable individuals , including members of royalty, movie stars and tycoons.
+FN:S1888.7:  The company is  one of the few notable  watch companies that still make all movements in house.
+FN:S1889.3:  Founded in 1936, it is  one of the oldest and largest  credit unions in the country.
+FN:S1890.4:  The first steps towards this vision is to connect all the already well-established wireless community networks of all the major Greek cities together, thus forming  one of the largest  (at least area-wise) wifi networks ever.
+FN:S1893.3:  Also, she is a  regular  guest on 'A Prairie Home Companion',  often  appearing in shows in Los Angeles or at joke shows.
+FN:S1896.2:  The perfect fourth is  occasionally  called the 'diatessaron'.
+FN:S1897.2:  Perfluorohexane  is considered  biologically inert and chemically stable.
+FN:S1899.2:  'Perry Farrell' (born 'Peretz Bernstein' in New York City on March 29, 1959) is a musician who, as the frontman of Jane's Addiction, was  one of the pioneers  of alternative rock.
+FN:S1901.2:  'Peter Stephen Paul Brook' (born 21 March 1925) is a British theatre and film director and innovator, and  considered   one of the most influential and revered  theatre practitioners.
+FN:S1902.3:  His best achievement was his 18-17 victory against Stephen Hendry in the world championship -  perhaps   one of the best  world finals ever.
+FN:S1910.3:  This course relies on the  limited  math skills that the students have from from pre-algebra and algebra I.
+FN:S1911.2:  In common with  other health professionals  in New South Wales, physiotherapists are required to be registered.
+FN:S1911.3:  Boards, such as the Physiotherapists Board, are established to register those health professionals, as well as provide  other support services  to the public.
+FN:S1914.5:  The members in the club sport the  very well known  &quot;SFK&quot; sweatshirts.
+FN:S1914.9:  This is a  very popular  event at Piedmont which is usually the week after spring break.
+FN:S1917.4:  It is  possibly  a close relative to the dwarf flannelbush species found in Nevada, Yuba and Butte counties, but  ongoing studies  have  yet to determine  to what degree.
+FN:S1917.7:  Total species population is estimated at 2,000, which makes the flannelbush  one of the rarest  plants in California.
+FN:S1918.4:  Zhang, Li, Wang, Zhao and Sun are among  the most common  Chinese surnames.
+FN:S1921.2:  The most prevalent  aesthetic/cosmetic procedures are listed below.
+FN:S1921.23:  In recent years, a growing number of patients seeking cosmetic surgery have visited  other countries  to find doctors with lower costs.
+FN:S1924.3:  Plumbing installation and repair work on residences and  other buildings   generally  must be done according to plumbing and building codes to protect the inhabitants of the buildings and to ensure safe, quality construction to future buyers.
+FN:S1924.6:  WPC has subsequently appointed a representative to the World Health Organization to take forward  various projects  related to Health Aspects of Plumbing.
+FN:S1928.2:  By 1941, the I-16 was still  the most numerous  Soviet fighter and made up about two-thirds of the VVS.
+FN:S1930.3:  The agreement  was designed  to effectively end the war in the nation, but the divisions have made the bureaucracy of the country  unwieldy .
+FN:S1931.5:  1989: Giuliani said, “ There must not be  public funding for abortion for poor women.
+FN:S1940.2:  'Njabs Dubes is the  number 1  pornstar'
+FN:S1948.4:  Many of these brands  include clothing and music.
+FN:S1948.5:  The modern Disney Channel is targeted  generally  for this age group along with teenagers for example.
+FN:S1965.3:  Aside from the usual suspects such as Ralph Nader, there are  people  like conservative activist Phyllis Schlafly, who explains &quot;Why the rush to sell our transportation systems to foreigners?
+FN:S1966.2:  Process art  has been entitled  as a creative movement in the US and Europe in the mid-1960s.
+FN:S1966.3:  In  scholarly artistic  discourse, the work of Jackson Pollock  is hailed  as an antecedent.
+FN:S1966.8:  The ephemeral nature and insubstantiality of materials  was often showcased and highlighted .
+FN:S1967.4:  Keeler was found guilty on  unrelated perjury charges  and she was sentenced to nine months in prison.
+FN:S1971.3:  Montagné was  one of the great  French chefs of  all time , and he achieved a secure place in gastronomic history by creating 'Larousse Gastronomique' (1938), the basic encyclopaedia of French gastronomy.
+FN:S1973.2:  In the Republic of Ireland,  there was some sympathy  for the IRA movement in the early 1970s.
+FN:S1975.5:  Psalter Lane also has a reputation amongst  a minority of students  for being the worst of the three campuses at Sheffield Hallam University.
+FN:S1975.6:  They  cite reasons such as the lack of amenities nearby; currently 'The Psalter' pub is the only non-university commercial outlet immediately available to students, and the distance to the university from the centre of Sheffield, where much of the Student accommodation is based.
+FN:S1976.9:  The same is true of  some Jewish sects .
+FN:S1981.3:  The story of the song takes place &quot;by the sea&quot; in the fictional land of Honalee (the spelling used by author Lenny Lipton, though  nonauthoritative variations   abound ).
+FN:S1982.2:  The name Pulham  is thought  to mean the farmhouse or enclosure by the pools or streams.
+FN:S1982.4:  The Romans  may  have had a settlement in Pulham St Mary as pieces of Roman tile, coin and oyster shells have been found in the area.
+FN:S1986.2:  This line  was not clearly defined  until in a meeting between Indian and Pennsylvania representatives in 1773 at the  well-known  &quot;Canoe Place&quot; or upper limit of canoe navigation on the Susquehanna at its confluence with Cush Cushion Creek at present-day Cherry Tree, Pennsylvania.
+FN:S1995.2:  Queen Anne's County was granted home rule in 1990 under  a state code .
+FN:S1997.2:  Some theories  associate Quetzalcoatl with Vishnu, the second God of the Hindu Trinity.
+FN:S1997.3:  Vishnu  is said  to have an Eagle (Garuda) and a Serpent (Adisesha) as his vehicle.
+FN:S1998.2:  Sprinkle became convinced of the phenomenon's actuality, and was  perhaps  the first to suggest a link between abductions and so-called cattle mutilations.
+FN:S2004.3:  Some Rajputs  were let off on the recommendation of a Royal gardner or Mali who represented captive Rajputs as Malis.
+FN:S2004.4:  In this way  many Rajputs  became Malis.
+FN:S2007.2:  Of Ramanuja Kavirayar's European Tamil students,  the most prominent  were Pope, Miron Winslow, William Hoyles Drew and C. T. E. Rhenius.
+FN:S2009.5:  Students at RHS are encouraged to become involved in  extracurricular clubs  and  activities  and join our  award winning  performing arts groups and athletic teams.
+FN:S2010.2:  There is much debate  over when the rapture will occur in relation to the Tribulation, a seven-year period preceding the second coming of Christ to the earth.
+FN:S2010.7:  A fourth view  has recently developed , called the Pre-Wrath view.
+FN:S2011.2:  Rare made  something of a resurgence  when Microsoft's Xbox 360 console was released in late 2005.
+FN:S2011.3:  Several of the Xbox 360's launch titles  were developed by Rare, including 'Kameo', 'Viva Pinata', and 'Perfect Dark Zero', all of which  were critically acclaimed .
+FN:S2014.5:  Rationalists agree to  a certain extent .
+FN:S2020.2:  Jeanne Chall's model of the stages of reading acquisition is  well known .
+FN:S2023.3:  They were one of  a few football firms  which had a  fearsome  reputation in the 1970s and 1980s.
+FN:S2025.4:  This species is among  the most social  of the nocturnal primates.
+FN:S2025.10:  They make nests out of leaves or find hollows of trees or  a similar secure place  to live in.
+FN:S2027.2:  Initially the line was  generally successful .
+FN:S2027.3:  Serving both Great Consols and United Mines, the two largest in the area, and traffic by the 1830s was  well in excess of  60,000 tons annually with the company reporting profits approaching ₤3,000.
+FN:S2029.3:  Fieldy's  favorite  resturant is Del Taco
+FN:S2029.4:  Some of his favourite foods  are hamburgers and Kabab Koobideh
+FN:S2029.5:  His  favorite  Korn Song is Freak on a Leash.
+FN:S2030.2:  The book combines algebraic rigour with clear explanations,  many of which  are illustrated with diagrams, and with a diagramatic notation for Wythoff constructions.
+FN:S2031.6:  Skeptics   suggest  that claims of reincarnation originate from selective thinking, confabulation, and the psychological phenomenon of false memories.
+FN:S2035.11:  From a national security standpoint, such a situation is  untenable , and calls for the  immediate  incubation of long term energy solutions prior to a 'peak oil' scenario which would force the economy to  grinding  halt.
+FN:S2036.3:  Created by and starring comedian Sean Masterson, the creator behind Generate's  critically-lauded  Web series Home Purchasing Club, Republicrats follows Masterson as a former weather man who forms the &quot;Republicrat&quot; party and runs as the party's presidential candidate.
+FN:S2038.2:  Other mutant forms  can result in a protein that is abnormally regulated and constitutively active (‘on’ all the time).
+FN:S2038.3:  This  might  be due to removing a regulatory domain or mutating a specific amino residue that is reversibly modified (by phosphorylation methylation or ubiquitination).
+FN:S2038.4:  Either change is critical for modulating protein function and  often  result in informative phenotypes.
+FN:S2039.3:  After eleven years Stewart left to lead  his own groups .
+FN:S2039.5:  From the early 1950s on he worked in radio and television and published  highly regarded  jazz criticism.
+FN:S2040.2:  Flair has also  had issues  with Mick Foley.
+FN:S2042.2:  He was commissioned by the University of Cambridge to obtain Greek and Latin fonts for their classical books, and accordingly he had cast in Holland those  beautiful  types which appear in the Cambridge books of that date.
+FN:S2042.4:  Bentley did not settle down to the steady execution of any of the  great  projects he had started.
+FN:S2042.8:  Bentley supplied to Graevius's 'Callimachus' a  masterly  collection of the fragments with notes, published at Utrecht in 1697.
+FN:S2045.2:  'Richard Greene' is a violinist (aka 'fiddler') and &quot; one of the most innovative and influential  fiddle players of all time&quot;.
+FN:S2048.2:  In 1973 he and John Hopcroft published the Hopcroft–Karp algorithm, still  the fastest  known method for finding maximum cardinality matchings in bipartite graphs.
+FN:S2052.3:  It is defined as the convergence of  three attitudinal clusters  in an individual:
+FN:S2053.4:  Inspired by this movie, such small rings became  quite popular  among BDSM practitioners in German-speaking countries.
+FN:S2055.2:  In the Ship’s Assembly, the proposal to destroy Tintera  is debated  in the context of an ongoing political controversy over what, if anything, the Ships owe to the planetary colonists.
+FN:S2062.2:  Kuok is media shy and discreet;  most of his businesses  are privately held by him or his family.
+FN:S2064.3:  Other journalists  have insisted that the CBS sources lost their right to confidentiality when the memos were proven to be forgeries.
+FN:S2068.6:  Dickens' statement, among  others , mentions that he read about the incident in the morning papers.
+FN:S2069.2:  Sternberg's ideas  have been repeatedly criticised  in the scientific literature for lacking empirical support.
+FN:S2077.2:  In the first half of the 19th century, urban life grew  considerably  and there was a Western-type modernisation policy, due to which the architecture of the Romanian lands became a combination of Romantic and Neo-Classical elements.
+FN:S2078.4:  They  call attention to the fact that Dworkin is surrounded by populations whose heritage contains less-than ideal treatment by the countries and societies they have dwelled in.
+FN:S2081.4:  Galleries briskly traded in her  popular  and  provocative  works.
+FN:S2085.2:  By 1918  a Clerget handbook  advised that all necessary control was to be effected using the throttle, and the engine was to be stopped and started by turning the fuel on and off.
+FN:S2086.3:  These agents will get parts of your ticket issued by their contacts in  other countries  or in-house contracts.
+FN:S2087.2:  Rover’s Morning Glory began syndicating to  other radio markets  in March of 2005.
+FN:S2087.5:  In January of 2006 the show moved its home base to WCKG-FM Chicago, IL while continuing to broadcast to  affiliates .
+FN:S2087.6:  The move to Chicago  was broadly considered  a misstep both on the part of Rover and CBS Radio.
+FN:S2094.4:  Media Matters disputed Giuliani's contention that  more scientific  language had been inserted into the 2003 bill.&quot;
+FN:S2096.2:  Runaway Mine Train starts off with a lift  only  18 feet shorter than Medusa's cobra roll near Medusa's entrance, then spirals into a descending double helix (still above ground).
+FN:S2098.2:  There were rumors  that Briscoe was set to race for the Jordan Grand Prix F1 team in 2005, due to the team's acquisition of Toyota power.
+FN:S2107.2:  An atmosphere of feminism  is strong on campus.
+FN:S2110.2:  No prints of the film have been preserved so the film  can be considered  a lost film.
+FN:S2112.6:  This, together with his  genius  set up of an apparent theft of petty items from his house mates and subsequent refusal to admit any specific wrong doings in his vague apology, made him a virtual  mastermind  among the rest of the  brain dead  contestants.
+FN:S2112.12:  After his performance on the finale, he was signed to a UFC contract and is a legitamately tough contender for  anyone .
+FN:S2112.13:  He doges  no one  and fights  the best .
+FN:S2113.2:  The site is located in the Central Migratory Flyway and just north of  the most productive  birding region in Louisiana.
+FN:S2114.2:  The war was ended by a  hasty  peace as the Romans deserted the Campanians, to put down a revolt by their Latin allies.
+FN:S2123.2:  South African-based Multichoice's DStv is the  main  digital satellite television provider in sub-Saharan Africa, broadcasting  principally  in English, but also in Portuguese, German and Afrikaans.
+FN:S2123.3:  Canal Horizons, owned by France's Canal+, is the  main  provider in French-speaking Africa.
+FN:S2123.4:  Another entrant into the satellite television circuit in Africa is MyTV Africa, a sister company of Dubai based Strong Technologies broadcasting all over the sub-saharan part of the continent and offering family oriented programming at  much more affordable  rates than competitors.
+FN:S2127.3:  The facilities at Hunter AFB were built in the 1930s to permanent specifications and made Hunter  much more desirable  than Chatham.
+FN:S2129.2:  The humour of the song lies in the fact that the song is sung with  the wrong attitude .
+FN:S2135.2:  In 2004 Schnappi became  very popular  on the Internet.
+FN:S2135.3:  It got  more and more popular  while playing on the [Internetradio RauteMusik].
+FN:S2136.2:  After 1921, an additional requirement  was added : the winning seaplane had to remain moored to a buoy for six hours without human intervention.
+FN:S2140.2:  Cow Creek located on  beautiful  Table Rock Lake just south of Branson, Missouri.
+FN:S2141.3:  Inspired by the dissolution of a relationship, 'Sea Change' received  glowing  reviews upon its release and  is considered  a  major  highlight in Beck's canon of released works.
+FN:S2143.2:  Fisheries production consists  mainly  of seafood goods which are marketed for human consumption, but also of non-edible fisheries products, such as pearls and fish meal.
+FN:S2143.3:  Australian seafood product, like  most of other countries’ , includes both wild catch fisheries and aquaculture production.
+FN:S2147.3:  The traps are often used in conjunction with erosion controls and  other sediment control practices .
+FN:S2148.6:  Other studies  have shown no increase in rates of suicide but a small increase of non-fatal self-harm.
+FN:S2151.3:  The  ill-fated  reforming Sultan had been stabbed in the seraglio by the Chief Black Eunuch and his men, and Bairakdar's only resource was to wreak his vengeance on Mustafa IV and to place on the throne Mahmud II (1808-39), the sole surviving member of the house of Osman.
+FN:S2158.3:  The handles on the stag knives simulate horn which  was also traditionally used .
+FN:S2158.5:  Thus he carried on his person  most of his worldly wealth .
+FN:S2162.3:  The Folio, including the frontispiece,  has generated considerable debate  among authorship proponents.
+FN:S2162.4:  The engraving  is usually attributed  to Martin Droeshout the Younger.
+FN:S2162.6:  Stratfordians  respond that the assumption has long been that Droeshout worked from a sketch.
+FN:S2162.8:  Art historians  see nothing unusual in these features.
+FN:S2164.4:  She is a two time New York Foundation for the Arts fellow in poetry and in the 1980s received a MacArthur Fellowship from Brooklyn College as well as  other awards .
+FN:S2164.5:  She  is considered  a poet of the Flarf poetry movement.
+FN:S2165.4:  However, this  is often regarded  as more uncomfortable than the use of shaving cream.
+FN:S2168.2:  Sheboygan hosts the annual Dairyland Surf Classic,  the largest  lake surfing competition  in the world .
+FN:S2179.6:  From 1939 they both took part in  numerous group exhibitions  in Georgia and  other parts of the former Soviet Union .
+FN:S2179.8:  The main source of their inspiration was native Georgia, with its rich and complex history and culture, its  breathtaking  landscapes and its  courageous  and  hardworking  people.
+FN:S2183.5:  After starring in the Tamil films 'Thirudiya Idhayathai' and 'Shanmuga' in the following months, which all proved to be  very unsuccessful  at the box-office, failed to attract people and hence, went  totally unnoticed , she got to enter the Kannada film industry with the 2006 film 'Jackpot'.
+FN:S2188.2:  Wild mustard is highly invasive and  has been reported  to be poisonous to livestock.
+FN:S2190.2:  Sir-Tech  is best known  for the 'Wizardry' computer role-playing game series.
+FN:S2190.3:  The 'Jagged Alliance' series (started in 1994) was also a  popular  franchise.
+FN:S2191.3:  While the trust and affection in which Rama held his wife never wavered, it soon became evident that  a (perhaps small) section of the citizenry of Ayodhya  found the fact of Sita's long residence in captivity, under the power of Ravana, a circumstance  difficult to accept .
+FN:S2201.5:  The term  is often used  to describe publicly administered health care systems such as the British National Health Service.
+FN:S2201.6:  In the United States, the term  is often used   pejoratively  in political discourse.
+FN:S2202.2:  'Socialized medicine' or 'state medicine' is a term used  principally  in the United States to describe health care systems which operate by means of government regulation and subsidies derived from taxation.
+FN:S2207.5:  They tend to have very long shelf lives, and usually do not have any abrupt changes in performance with temperature, such as  might be associated  with electrolyte freezing or boiling.
+FN:S2209.2:  A  large  change in the IBM PC compatible sound card market happened with Creative Labs' introduced the Sound Blaster card.
+FN:S2209.5:  With more features at nearly the same price, and compatibility as well,  most buyers  chose the Sound Blaster.
+FN:S2209.6:  It eventually  outsold  the AdLib and  dominated  the market.
+FN:S2212.2:  The site of the  deadly  Great Swamp Fight during King Phillip's War in 1675 is located in South Kingstown.
+FN:S2213.4:  Dams and  other water control measures  have been introduced to help reduce the impact of seasonal flooding in the watershed.
+FN:S2219.3:  With the gradual ebbing of religious hostilities, professional  historians  began investigations, giving a detailed, nuanced and less exaggerated picture of the Inquisition.
+FN:S2220.2:  The wing spar provides  the majority of the weight support and dynamic load integrity of cantilever monoplanes , often coupled with the strength of the wing 'D' box itself.
+FN:S2221.3:  Many municipalities  are challenged by opposition to speed humps and speed tables since they slow down emergency vehicles.
+FN:S2222.2:  Buyers  will then invite  suppliers  to register online, and open the event for a set period of time so that  suppliers  can bid.
+FN:S2222.3:  At the end, the buyer awards the contract to  one of several suppliers .
+FN:S2222.4:  The award can be based on price, delivery time (the time it takes the supplier to fulfill an order), or  other factors  such as quality or how closely the product meets the needs.
+FN:S2223.2:  In 2008 it was announced that  there were plans  for exploratory oil drilling approximately five miles from the jetty.
+FN:S2226.2:  Studies  have been carried out to compare the squash bees’ effectiveness in pollinating cucurbits to that of the honey bees’.
+FN:S2226.3:  The findings point to the squash bee being more effective and  suggest  that the current practise of hiring colonies of honey bees to perform this task  may  be unnecessary.
+FN:S2229.5:  Major  cast changes occurred for season two.
+FN:S2229.7:  Many viewers  felt the loss of her and several other original cast members contributed to the rapid demise of the show.
+FN:S2230.2:  Initial responses to Stacy were  mostly  positive.
+FN:S2231.2:  In 1959  it was planned  to close the canal, but was saved through the efforts of a volunteer group - the Staffordshire and Worcestershire Canal Society.
+FN:S2233.3:  There need not be  a document type declaration associated with any of the instances.
+FN:S2234.2:  The 'Stanford University School of Humanities and Sciences' is the  heart  of the undergraduate program and grants  the majority of Stanford University's degrees .
+FN:S2236.4:  A good textbook presentation of these systems is Simons (1987), who compares and contrasts them with the variants of mereology,  more popular  nowadays, descending from the 'calculus of individuals' of Leonard and Goodman.
+FN:S2238.2:  'The Phantom Menace' received  enormous  media-created  hype , which made Lucasfilm's $20 million advertising campaign—with the distinctive artwork of 'Star Wars' series artist Drew Struzan gracing the movie poster and other advertising—seem modest and almost unnecessary because of the unprecedented interest amongst both fans and the wider audience in the return of the franchise.
+FN:S2238.7:  Many fans  began waiting outside cinema theaters as early as a month in advance of ticket sales.
+FN:S2240.2:  The Starwood Festival  is generally considered  to be  the largest  annual Neo-pagan gathering and festival on the East Coast of the United States.
+FN:S2241.2:  On paper , the new agency  was supposed  to act with more restraint than the Cheka.
+FN:S2246.4:  There were reports  that Marbury and Thomas actually came to blows on the team plane, and that Marbury essentially threatened to blackmail Thomas within hearing range of teammates.
+FN:S2248.4:  The school is supported by the Swedish and Latvian governments as well as  other sponsors , including  a variety of corporations  and George Soros Open Society Institute.
+FN:S2249.3:  Despite the  abundance  of small shops and the  unique  character of the town centre, South Lanarkshire Council have actively sought a hypermarket operator to take over the site.
+FN:S2249.4:  Opposition from the local Community Council, supported by the local newspapers,  has largely been overlooked  and residents last hopes of a reprieve lie with the current inquiry into the South Lanarkshire Local Plan.
+FN:S2252.2:  There is no unanimous opinion  in the Russian scientific community with regards to the exact date of this chronicle's compilation.
+FN:S2255.2:  A Wal-Mart in Virginia,  a typical  big-box retail strip.
+FN:S2257.5:  The mountain  is known  for its waterfalls,  scenic  vista, and biologically diverse ecosystem.
+FN:S2258.2:  Pittsburgh  was heavily favored  to win Super Bowl XIV and become the first team to win 4 Super Bowls.
+FN:S2259.4:  These films were successful despite their limited budgets,  primitive  special effects,  silly  plotlines and dialogues.
+FN:S2260.2:  From the screening at Comic Con to its release on DVD, the movie got  mostly  positive reviews.
+FN:S2261.2:  Accounts of Trungmase and the traditional hierarchy of Surmang differ  somewhat .
+FN:S2266.2:  Mookerjee founded the Bharatiya Jana Sangh, the first Hindu nationalist political party of its kind, and was also the leader of the Hindu Mahasabha and  closely associated  with the Rashtriya Swayamsevak Sangh.
+FN:S2268.4:  She appeared regularly at the Vienna State Opera, the Salzburg Festival, Royal Opera House at Covent Garden, the Santa Fe Opera, the San Francisco Opera and at the Metropolitan Opera, and has soloed with  many major European and American orchestras .
+FN:S2270.2:  is a Japanese photographer known for his photographs of  jazz musicians  and of Africa.
+FN:S2271.4:  Still today there are  many ferry line  between Uno port and Takamatsu, Shodoshima and Naoshima Islands.
+FN:S2275.4:  Tarzan's recovery of  something  approaching his normal status is attained only gradually.
+FN:S2278.5:  The annual magazine &quot;Graffiti&quot;, is a  treasure  for the like minded budding professionals of today's Kolkata.
+FN:S2281.2:  Teja started his association with Telugu film industry with  some miscllaneous tasks  on the sets.
+FN:S2282.3:  By 1952 the principal telecommunications network centered on Beijing, and links to  all large cities  had finally been established.
+FN:S2282.4:  Work quickly got under way to repair, renovate and expand the system, and from 1956 telecommunications routes were extended  more rapidly .
+FN:S2285.2:  The First Temple, referred to as the Temple of Solomon, was  likely  constructed by members of all 12 tribes of Israel, since all the tribes were united under David and then Solomon.
+FN:S2286.3:  The farms in the area are  mostly  cash crop, but there are  a few cash crop/livestock mixed farms .
+FN:S2291.2:  'Terrorism in India' can be attributed to India's  many low intensity conflicts  within its borders.
+FN:S2292.5:  Rumors were  that contract disputes arose, and at Farrell's request to fight for more pay, the producers used her as a scapegoat, and she was unceremoniously let go from her Paramount contract.
+FN:S2300.6:  When at a time in which you are distant, at which you will exchange blows of the sword, it will be  rather  easy to attain closeness towards your opponent.
+FN:S2301.2:  The Muir translations make use of wording that  is often considered  &quot;spiritual&quot; in nature.
+FN:S2303.4:  Upon arrival, they are greeted by Gozan, Al-Dallam's aide, another  fearful  and  greedy  man, who shows them to the Dragon's throat.
+FN:S2303.6:  Massive and ornate,  it is studied and manipulated  but nothing the Coopers throw at it make it move an inch.
+FN:S2305.4:  This quantity of people  is often implied  to be very small, while the Dust Factory's topography is  immense , encompassing lakes, forests, mountains, and a wide field covered by dry grass.
+FN:S2305.10:  The stories he tells, though given in a context that implies them to be parables, seem to convey  no obvious meaning , but acquire a great deal of significance in Ryan's mind.
+FN:S2308.10:  Also, the loyalty of a male  seems  incredibly predetermined by the length of a certain gene (which influences the manufacture of vasopressin receptors)--the longer, the  more loyal .
+FN:S2311.4:  However, given the tone of its articles,  it could be claimed  that the foundation usually takes a rather Western Cold War approach.
+FN:S2312.4:  Game Network now has a reputation of being  the worst  game provider around and  is currently facing a mutiny
+FN:S2317.3:  The football venue at the Saffrons  is said  to be  one of the best  in Sussex and the ground plays host to  many county cup finals  at youth and intermediate level.
+FN:S2318.4:  The reddish sky in the background was  possibly  inspired by the aftermath of the powerful volcanic eruption of Krakatoa in 1883.
+FN:S2318.8:  Thus, the position in which he portrays himself  could be considered  a reflex reaction typical of anyone struggling to keep out distressing noise, whether actual or imagined.
+FN:S2322.3:  The Thrawn trilogy', also known as &quot;The Three Book Cycle&quot; and the &quot;'Heir to the Empire' trilogy,&quot; is a series of  best-selling  novels written by Timothy Zahn.
+FN:S2322.5:  The series  is credited  with reinvigorating the popularity of the 'Star Wars' Expanded Universe to a level not seen since the early years of 'Star Wars'.
+FN:S2324.6:  This huge structure took five weeks to build prior to the commencement of principal photography and  was said  to be  the largest  set built for a production in New Zealand at the time.
+FN:S2324.8:  Studio B housed the sewers that the Mall Rats use to secretly escape the Mall, as well as temporary structures that were built for scenes outside the Mall or in  other parts .
+FN:S2327.3:  At Bromfield, the injured man, Brother Elyas, babbles about a party of refugees which  might well be  those sought.
+FN:S2328.2:  'The Wack Pack' is the name given to  a wide assortment of regular guests of 'The Howard Stern Show' .
+FN:S2330.3:  The box set shows the band developing the songs, and  striking  is the cooperation between Brian Jones, Keith Richards and session pianist Nicky Hopkins.
+FN:S2333.3:  Other published articles from her include a feature in December 2004, in which she argued the necessity of the state  not to be separated  from religion.
+FN:S2334.2:  Thio's strong position towards retaining the code naturally  drew much protest  from the Singaporean homosexual population.
+FN:S2334.4:  The first issue was the  question  of the real existance of a majority against repeal of the code.
+FN:S2334.5:  The second issue was the  question  of  whether  a Singaporean against homosexuality on personal or religious grounds  would  actually equate wanting a code to criminalise homosexuals.
+FN:S2336.5:  He appears  only occasionally .
+FN:S2340.4:  He eventually returned to England with  other survivors  from the 'Pandora', after which his career is uncertain.
+FN:S2345.4:  Peaceville Records  is known  to re-release this album as a digipak in 2007.
+FN:S2349.3:  In 2007, Kash joined that exclusive club of British TV-stars making their mark on American television when he signed a new deal as the new face of MTV and MTV News at the channels  world-renowned  headquarters in New York.
+FN:S2349.5:  He now lives in New York but  is seen regularly  in London.
+FN:S2360.3:  However, to date, all  appear  to be safer than cigarettes.
+FN:S2360.4:  One thing is  abundantly clear :  a large body of science  supports the conclusion that smokeless tobacco products of the sort used in Sweden (snus) are  significantly  safer than cigarettes.
+FN:S2360.8:  Luckily , the interests of the tobacco companies and of society in general intersect in this case - the availability of snus products, as has been proven in Sweden, leads to a reduction in cigarette smoking and a reduction in tobacco related illness.
+FN:S2367.3:  Benesch had a very good rookie year, scoring 33 goals and winning the Rookie of the Year award, but the Rock under rookie coach Clark struggled to a  worst-ever  6-10 record,  barely  making the playoffs.
+FN:S2369.2:  'Total enclosure fetishism' is a form of sexual fetishism whereby a person becomes aroused when having entire body enclosed  in a certain way , hence the name.
+FN:S2373.2:  Female lead, Edwina Booth, became infected,  probably  with malaria, during filming.
+FN:S2373.3:  It took six years for her to fully recover from this and  other conditions  she endured.
+FN:S2374.2:  TraderWars is a skill-based trading game which is  particularly popular  with those who work in the financial industry, especially traders and brokers.
+FN:S2374.4:  TraderWars requires an understanding of the mechanics of trading and is  generally  not for consumption by those without such an understanding.
+FN:S2375.13:  The espionage effort against Pearl Harbor before December didn't send an unusual number of messages; Japanese vessels regularly called in Hawaii and messages  could  be (and were) carried aboard by consular personnel.
+FN:S2375.14:  At least one  such vessel carried  some Japanese Navy Intelligence  officers.
+FN:S2375.15:  Such messages  cannot be analyzed.
+FN:S2375.18:  It is unclear   if  this deceived the U.S.; Pacific Fleet intelligence was unable to locate the Japanese carriers in the days immediately preceding the attack on Pearl Harbor.
+FN:S2375.20:  Radio operators normally assigned to carriers, with a characteristic Morse Code &quot;fist&quot;, transmitted from inland Japanese waters,  suggesting  the carriers were still near Japan.
+FN:S2379.5:  Four wheel drives are  the most popular  means of transport, as they can easily navigate the steep slopes in the region.
+FN:S2379.7:  Also Maruti Omni and several SUVs are  common .
+FN:S2381.4:  In  several studies , antimotility agents have been useful in treating travelers' diarrhea by decreasing the duration of diarrhea.
+FN:S2381.6:  Because antimotility agents are now available over the counter, their injudicious use is  of concern .
+FN:S2386.3:  Scientific research  and  education programmes  will be established and  most human infrastructure  removed.
+FN:S2396.2:  Triphos forms complexes with  many transition metals .
+FN:S2399.2:  Eugenicus’s murals  are regarded  as  one of the best  examples of the late Paleologian art.
+FN:S2406.3:  After 1912 however they had to endure  many assimilation measures  first from Serbians, and then from Albanians.
+FN:S2408.2:  The Twinkie is  junk food .
+FN:S2411.2:  Additionally, the term  is often used  metaphorically.
+FN:S2413.2:  CNGC has been deploying a further modified version of the ZTZ99,  possibly  known as ZTZ99G.
+FN:S2417.3:  The movement is composed of  numerous informal groups .
+FN:S2419.3:  AT&amp;T, however, contends that fiber within 3,000 feet of customers’ homes provides  more than adequate  bandwidth to provide four streams of high-quality video (including one high-definition stream) plus high speed Internet access and, in the future, consumer VoIP services.
+FN:S2420.5:  Consequently,  some of the cases  ICE investigates originate from a CBP referral.
+FN:S2420.7:  There are  those  who feel the combined infrastructures of ICE and CBP should be merged into one agency with the border inspectors, deportation officers, and special agents working hand in hand to combat crime.
+FN:S2423.2:  The 'US Occupation franc' was a currency emitted by the United States for use in a  hypothetically  Allied-occupied France in the wake of the Battle of Normandy.
+FN:S2424.4:  The carrier then shuttled  more planes and personnel  back to San Francisco, arriving there on the 24th.
+FN:S2430.3:  In March  most of her crew  was detached; and on 1 April she was ordered turned over to the Navy agent at New York to be sold at auction.
+FN:S2437.3:  12 Hierarchs, the clergy and  the hundreds of the faithful  from  all over the world  took part in the Holy Council.
+FN:S2438.2:  Ullapool has a  strong reputation  as a centre for music, the arts and performance.
+FN:S2441.3:  This central belief disqualifies them from the doctrine of Hyperdispensationalism which  is almost universally recognised  as a post-Acts chapter 9 to Acts chapter 15 system of theology.
+FN:S2443.2:  Umpqua Bank has enjoyed  some notability  in the 21st century for its setup of bank branches.
+FN:S2443.3:  Traditionally , bank branches house back-office operations and administrators, along with secure deposit areas.
+FN:S2449.3:  Engine performance increased tenfold with this new  top model  compared to the original Unimog.
+FN:S2449.4:  The Unimog club in Gaggenau  is brought into being .
+FN:S2452.2:  The members of Unit 101 were allowed to dress in civilian clothes and developed  notoriety  for their drunkenness when on patrol.
+FN:S2458.2:  EOD Technicians’ missions take them to  all environments , and  every climate , in  every part of the world .
+FN:S2459.3:  Although this election took place during World War II, the opposition Republican party made  major  gains, taking eight seats from the Democrats and one from an independent.
+FN:S2459.4:  Various commentators  have ascribed this to anger with the administration over Pearl Harbor, general irritation with the conditions of wartime, or the defeat of weak Democratic incumbents from the 1936 election.
+FN:S2459.5:  The Democrats nonetheless retained a  significant majority .
+FN:S2463.4:  Public universities in Bangladesh are  highly  subsidized, and apart from Dhaka University are principally residential.
+FN:S2463.5:  There has been much criticism and controversial issues  around public universities in Bangladesh.
+FN:S2463.7:  12 of the public universities  were reported  to employ a total of 1,994 unauthorized faculty and staff, resulting an annual overspend of 159,467,000.00 Bangladeshi taka borne by the government.
+FN:S2463.8:  All were warned by the UGC, but  apparently  failed to respond to the warning.
+FN:S2464.2:  Since 1998 there has been a movement, supported by  businesses  and  organizations  in the region of University Park and North University Park, to redefine the neighborhood as a part of Downtown Los Angeles, starting with the formation of the Business Improvement District.
+FN:S2464.3:  The goal of the businesses and organizations making up the Partnership is to extend the definition of Downtown to make the University Park the area's southern tip, and it consists of business and organizations in the adjacent University Park and South Park neighborhoods (the latter  is universally considered  part of Downtown Los Angeles).
+FN:S2465.3:  Other regional program  in Asia and the Pacific, and are in development, as are  other international centers .
+FN:S2468.2:  The UC's ties to the three laboratories have  occasionally  sparked  controversy  and  protest , because all three laboratories have been intimately linked with the development of nuclear weapons.
+FN:S2469.2:  The 'University of Malaya' (Abbreviation: 'UM'; ) is  the oldest  university in Malaysia.
+FN:S2471.3:  Students provide representation to an entrepreneurial client base, from  emerging businesses  and  non profit organizations  to  larger organizations  involved in  community economic development activities .
+FN:S2472.2:  The 24 Hour Cycle (24h Vélo) is,  nominally , a bicycle endurance road race held in October, now in its 31st year.
+FN:S2472.3:  While there is an elite race with teams of two,  Student groups  enter novelty themed multi-bike vehicles, in the shape of a Van or Whale for example, for prizes.
+FN:S2472.7:  Concurrent with the race is Belgium’s  largest  student event, with concerts and stands lasting the full 24hrs.
+FN:S2476.5:  It is  primarily  used for surveillance and attacks on surface targets.
+FN:S2477.2:  If you take the turning along the St Andrews road, you are confronted by  one of Upper Largo's most impressive  buildings.
+FN:S2479.3:  This record label  is widely credited  with creating the genre.
+FN:S2480.2:  In the application of urf, custom that is accepted into law should be  commonly prevalent  in the region, not merely in an isolated locality.
+FN:S2480.5:  Jurists  also tend to, with caution, give precedence to custom over doctoral opinions of  highly esteemed scholars .
+FN:S2482.3:  Spanish trash-video director Jesus Franco has employed her  quite frequently  for his productions.
+FN:S2485.2:  Uige Province was  one of the hardest-hit  areas of Angola during the 26-year long civil war.
+FN:S2485.3:  Large segments of the population  were displaced, and the infrastructure is  severely  damaged.
+FN:S2487.2:  In a disrupted transposition,  certain positions  in a grid are blanked out, and not used when filling in the plaintext.
+FN:S2495.3:  Their approximate span of occupation  has been dated  from 300 B.C. to A.D. 1150.
+FN:S2496.3:  One  was reported  to be the owner of the company which operated the aircraft.
+FN:S2497.4:  Many of these young musicians  need a stepping-stone to embark on their professional musical career.
+FN:S2501.2:  The extension of Russian serfdom to the Ukrainian lands dismayed Kapnist and occasioned his two  most notable  poems, 'Ode on Slavery' (1783) and 'Ode on the Elimination of Slavery in Russia' (1786), in which he chastised serfdom as the principal pest of contemporary Russian society.
+FN:S2502.2:  Bodé’s  most famous  comic creation is  perhaps  the Cheech Wizard, a wizard whose large yellow hat, covered with black and red stars covers his entire body except his legs, and big red feet.
+FN:S2507.6:  There are  striking  similarities between the Venus of Willendorf and a pregnant woman when perceived from above.
+FN:S2509.3:  A park surrounding the falls preserves the remains of a mill operated by Alexander Ramsey,  one of the leading  citizens of early Minnesota.
+FN:S2511.2:  Omni directional antennas  typically  try to limit the range of their vertical plane radiation pattern to concentrate energy over a smaller range and increase gain.
+FN:S2513.3:  She subsequently began her vocal training at  some of the finest institutions  in London, Paris and New York.
+FN:S2513.4:  She has performed  various leading soprano roles  in operas as well as at Carnegie Hall in New York City.
+FN:S2515.3:  'Housewife, 49'  was critically praised , and Wood won BAFTAs for both her acting and writing for this drama — a  rare  double.
+FN:S2517.2:  The show has interviewed  almost all prominent political figures of Pakistan  discussing the regional and global political situations.
+FN:S2517.3:  Discussion on current affairs and views of different political and army figures on the same issue are the  interesting  and  informational  highlights of this show.
+FN:S2517.5:  You would never find  the host involved in blame game, he just presents so much of information leaving  all  to ponder much.
+FN:S2518.2:  Vigier guitars are versatile instruments but often  associated to  &quot;guitar heroes&quot;, &quot;shredders&quot; and heavy metal musicians.
+FN:S2521.3:  Land units in Domesday  are frequently described  as vills.
+FN:S2522.3:  First Russian billionaire Roman Abramovich  was named  as the buyer.
+FN:S2522.4:  Elite Choice, but later the buyer  was said  to be Russian Mikhail Prokhorov, at a price of approximately €500 million. ($736m:₤397m)
+FN:S2523.2:  The team is allowed to keep the trophy at their own facility, with one  notable  exception being the trophy that the then-Baltimore Colts won in Super Bowl V.
+FN:S2523.3:  he city of Baltimore, Maryland retained the trophy the team had from that Super Bowl as part of the legal settlement between the team and the city after the Colts'  infamous  &quot;Midnight Mayflower&quot; move to Indianapolis, Indiana on March 29, 1984.
+FN:S2525.3:  She accepted, but the offer was later retracted when  NCAA members  balked at the idea of having a female referee male players.
+FN:S2526.7:  He made  several recordings  on the Pathe label.
+FN:S2528.2:  The Virginia Regiment is  noteworthy  in the colonies because it was the first all-colonial professional military force.
+FN:S2535.5:  Robust but rather lightly built, they are lean dogs, have defined muscles, and  are observed  to share similar physical characteristics with the Weimaraner, the grey-blue dogs, and are similar in size.
+FN:S2546.4:  Case knives  have grown in popularity  since the company's inception in the late 19th century.
+FN:S2549.7:  Original host Tom Fletcher was replaced by Paul Wilcox, whose presence became an  indelible  part of the show.
+FN:S2552.4:  It was rumored  that WTTE might have picked up MNTV as a secondary affiliation.
+FN:S2553.3:  The station features  conservative-leaning  talk shows from Bill Bennett, Rush Limbaugh, Sean Hannity, Mark Levin and Dave Ramsey, among others.
+FN:S2555.2:  In the aftermath of the initial raid, the ATF  drew heavy criticism  for proceeding, despite being aware that the Davidians knew of the offensive and of the months-long surveillance of Mount Carmel.
+FN:S2555.4:  There is also controversy  over what the exact content of the original search warrants were.
+FN:S2566.4:  From this point until the early seventies, Ulbricht was the  unquestioned  leader of the party and the country.
+FN:S2575.3:  In his first day in the office, he accused  many farmers  of being separatists.
+FN:S2576.3:  It's said  that Blizzard offered the first Warcraft game to Games Workshop as a game based on the Warhammer universe, but Games Workshop denied.
+FN:S2576.5:  However,  large portions of the setting  are drawn from modern-day sources and references, ranging from Star Trek, Star Wars (Toshley's Station), to the Cthulhu Mythos, to Thundercats, to third-world proxy wars.
+FN:S2579.2:  In 2006, the nearby Bert Rumble Middle School was merged with WRHS as 'Rumble Academy', with  most of its former faculty and students  moved to the nearby Huntington Middle School.
+FN:S2582.2:  Warren McCulloch had a  remarkable  range of interests and talents.
+FN:S2584.2:  Washington College  is perhaps best known  athletically for its men's lacrosse team.
+FN:S2586.3:  It  is known  for its  close  student-teacher relationships, curricular breadth,  strong  traditions, and  excellence  in Division III athletics.
+FN:S2587.2:  There are  many recordings .
+FN:S2587.3:  The 'Music for the Royal Fireworks', which was also written for outdoor performance,  is often paired  with the 'Water Music' on recordings.
+FN:S2589.2:  Data developed by the WSC is used for water resource management purposes in  various policy programs  by federal, provincial and municipal governments.
+FN:S2594.2:  Krantz  is most identified  with a Stratocaster-type electric guitar.
+FN:S2594.3:  Recently  he has played a model manufactured by Tyler Guitars.
+FN:S2594.4:  Earlier releases such as &quot;Signals&quot; feature a chorus effect  commonly associated  with fusion guitar.
+FN:S2594.6:  For amplification, Krantz has used both Fender Deluxe Reverb and,  more recently , Marshall amplifiers for a heavier sound.
+FN:S2596.3:  They   were referred  to in  treaties  as the Wea on the Wabash, the Wabash Wea, and in  history  as the Wabash Confederacy or the Wabash Indians.
+FN:S2597.3:  However, to  a weak agnostic , this fails to assess the situation logically and with clearly defined lines.
+FN:S2597.4:  To  a weak agnostic  the concepts of Santa Claus, the Tooth Fairy, the Christian God, and so forth, are clearly defined claims akin to claiming the existence of alien life on a specific planet in our solar system, whereas the general concept of God is more akin to the concept of alien life anywhere in the universe.
+FN:S2599.2:  Concerns have been raised  about children's use and overuse of the toys.
+FN:S2599.3:  Some  worry that children will become addicted to the game.
+FN:S2599.5:  There have been concerns  about the website's online chat system.
+FN:S2599.9:  Concerns were also raised  when the once advertisement-free site started displaying advertisements but so far only for their own additional game related products.
+FN:S2603.2:  This story sets the series off to a fine start with a  very entertaing  first episode and  more than adequate  second.
+FN:S2604.3:  The hardenability of steel depends on its chemical composition, with greater quantities of carbon and  other alloying elements  resulting in a higher hardenability and thus a lower weldability.
+FN:S2605.2:  Reports   vary  but he was born in either Des Moines or Manson, Iowa.
+FN:S2605.3:  He began playing at a young age in a billiards parlor owned by his father in Manson, and by the age of 17 was among  the best  players  in the world .
+FN:S2611.2:  Some fans  disliked the Wesley Crusher character.
+FN:S2612.2:  For Federal elections, West Lindfield lies in the electorate of Bradfield, which is currently unrepresented following the resignation from Federal Parliament of Brendan Nelson, the former leader of the Liberal Party, who won the seat in the 2001 and 2004 elections by  a strong majority .
+FN:S2614.4:  This island  is considered  a sanctuary for giant sea turtles that lay their eggs on the island all year round.
+FN:S2616.2:  geopolitical and cultural concept  mainly  forged during the Cold War, which  largely  defined its borders.
+FN:S2616.3:  Its boundaries  were effectively forged  during the final stages of World War II and came to encompass all European countries which did not come under Soviet control and influence.
+FN:S2618.5:  The majority of parents  are engaged in professional and managerial occupations with incomes in the middle and upper-middle brackets.
+FN:S2623.3:  Generally  the misconduct is a violation of law, rule, regulation and/or a direct threat to public interest, such as fraud, health/safety violations, and political corruption.
+FN:S2625.2:  The community  was known  for its Naval Ordnance Laboratory, which was closed in 1994.
+FN:S2626.7:  The product  is expected  to be perfected in a few years.
+FN:S2630.3:  The fort  was intended  to protect what was then the western boundary of the infant United States from raids by the British Army and Native Americans.
+FN:S2632.2:  In central Appalachia, ramps are  most commonly  fried with potatoes in bacon grease or scrambled with eggs and served with bacon, pinto beans, and cornbread.
+FN:S2635.2:  Augusta, known  affectionately  as &quot;Dona&quot;, was a close and constant companion to Wilhelm throughout his life, and her death on 11 April 1921 was  a devastating blow .
+FN:S2638.2:  Still with only  a handful of animators , he produced a  highly-polished  trilogy of  acclaimed  27-minute fairy tales in the late 1970s and early 1980s, 'Martin the Cobbler' (1977), 'Rip Van Winkle' (1978, nominated for an Academy Award), and 'The Little Prince' (1979).
+FN:S2639.2:  This does not include  recent collections of early stories  which were originally published in  periodicals .
+FN:S2640.3:  This is  mostly  due to housing developments in the Short Heath and New Invention areas.
+FN:S2642.4:  In 1940, Ross campaigned for Leslie Morris in the federal riding of Winnipeg North, and thereby contributed to the defeat of Co-operative Commonwealth Federation incumbent Abraham Albert Heaps,  the most prominent  Jewish politician in the city.
+FN:S2643.4:  Heirens has also been called 'The Lipstick Killer' due to a  notorious  message scrawled in lipstick at a crime scene.
+FN:S2645.3:  His record as a military leader is  not very impressive .
+FN:S2645.4:  He fought  mostly  skirmishes in Anatolia and was  frequently  defeated.
+FN:S2645.5:  His recklessness led to his being ambushed on  several occasions , with  great  losses to his own forces.
+FN:S2648.3:  They were all excellent lawyers, and hotly harangued one another in the courtroom, but privately they  never let a case be the cause of a rift between them .
+FN:S2651.8:  Most scholars  now accept that Shakespeare wrote 'A Lover's Complaint'.
+FN:S2652.2:  Sir 'William Jeremy Masefield Shelton'  commonly  known as 'Bill Shelton' (30 October 1929 - 2 January 2003) was a Conservative Party politician in the United Kingdom.
+FN:S2657.2:  Williamsport operates on a &quot;Strong Mayor&quot; form of governing, meaning the mayor is given  almost  total administrative authority and a clear, wide range of political independence with the power to appoint and dismiss department heads without council approval and little public input.
+FN:S2658.4:  Williamstown  is generally considered  a safe seat for the ALP, and Bracks' predecessor in the seat, Joan Kirner, was also a former Premier.
+FN:S2661.2:  The company has always rejected the ubiquitous large drive unit solution accepted by  all other loudspeaker designs  to date.
+FN:S2664.2:  The island is populated with private homes and the remains of the  once popular  Windermere Island Club which is now closed.
+FN:S2664.5:  Members of England's royal family  visit the island regularly, often arriving by private Helicopter.
+FN:S2666.4:  These  may or may not  allow the user to receive security updates.
+FN:S2666.5:  These are currently put to illegal and  arguably  unethical software piracy uses.
+FN:S2669.2:  After Wink, Sachiko and Shoko became TV personalities, appearing on  many TV shows , although  not often  together.
+FN:S2671.3:  Events typically include concerts, shows, comedy routines and  other forms of student-oriented entertainment .
+FN:S2671.5:  Different student organizations , historically Greek, sponsor contestants.
+FN:S2676.2:  The Wolf Prizes in physics and chemistry  are often considered   the most prestigious  awards in those fields after the Nobel Prize.
+FN:S2676.4:  In mathematics, for which there is no Nobel prize, the Wolf Prize is  particularly prestigious , second to only the Fields medal.
+FN:S2680.3:  Within this part of the Sierra Ancha Range there are  notable  disjunctive populations of Coastal woodfern, 'Dryopteris arguta'; this fern is otherwise common in areas nearer the Pacific coast.
+FN:S2688.6:  The World Jewish Congress has  special credentials and recognition  at the United Nations and within  many of its institutions, commissions and sub-bodies .
+FN:S2689.3:  This profitable business gained  many patents  of which the richest was for almanacks including Old Moore's Almanack.
+FN:S2691.2:  Wrapping tissue  is usually found  in single sheets or sheet collections of 25, 40, or 50.
+FN:S2693.2:  Like  the other contestants  they got to record their entry in a studio with a professional producer, in their case Paul Despiegelaere.
+FN:S2696.7:  Only six games were initially offered in Japan, and  eagerly anticipated  titles like 'Dead or Alive 4' and 'Enchanted Arms' were not released until several weeks after launch.
+FN:S2700.2:  Dr. 'Yeduguri Sandinti Rajasekhara Reddy' (born 8 July 1949),  popularly  known as 'Y.S.R.', is currently serving as Chief Minister of the state of Andhra Pradesh.
+FN:S2702.4:  This led to  wild  rumors and speculations as to the extent of their involvement.
+FN:S2705.3:  Film critics  also praised the role of Madhoo as &quot;strong&quot; and &quot;flawless&quot;.
+FN:S2705.4:  The film  was well-reviewed  as a rare and  thought-provoking  piece,  sorely needed  in an era of  superficial   commercialized  movies.
+FN:S2706.4:  In the dictionary supplement's references, it is  possible  to detect a slow drift in the word's meaning, towards the 'Ruffian' interpretation, the new emphasis becoming clear from about 1927.
+FN:S2710.2:  Kawashima became a  well-known  and  popular  figure in Manchukuo society, making appearances on radio broadcasts, and even issuing a record of her songs.
+FN:S2710.3:  Numerous fictional and semi-fictional stories of her exploits  were published in  newspapers  and also in the pulp fiction press.
+FN:S2711.2:  Already  viewed  as  one of the top high school pitchers in the country , Sato pitched well in the regional Miyagi Tournament that summer, throwing 226 pitches in fifteen shutout innings in the finals against rival Tohoku High School on July 31 in what ended in a scoreless tie (as per tournament regulations).
+FN:S2714.2:  Alexander lobbied  other state delegations  for DC voting rights at the 2004 Democratic Convention in Boston, Massachusetts.
+FN:S2719.2:  She also organised  various other concerts and fairs  at Government House for the war effort.
+FN:S2720.5:  PHP 4 was based on the first version of the Zend Engine and was  extremely successful .
+FN:S2722.4:  Zero-sum  can be thought  of  more generally  as 'constant sum' where the benefits and losses to all players sum to the same value of money (or utility).
+FN:S2723.3:  After graduation, he joined China Central Television and became the  popular  host of 'Approaching Science', originally from 'Xi'an Evening News'.
+FN:S2728.3:  For  all other aspects and information  related to emotional and sexual activity with animals, see Zoophilia.'
+FN:S2730.3:  For example, has a higher estimated albedo (~0.12), resulting in a brighter absolute magnitude (H=3.3), and  is estimated  to be physically smaller (~730 km).
+FN:S2734.2:  The 'Ecomusee du fier monde' is a museum about the industrial and working-class people of South Central Montreal, Canada,  one of the city's oldest  neighbourhoods.
+FN:S2735.3:  He became inspector of fine arts under the Martignac ministry just before the revolution of 1830, and was an  energetic  and  passionate  journalist.
+FN:S2735.4:  Besides his work on the daily press he issued  miscellaneous publications  which attained an enormous circulation.
+FN:S2736.2:  Manac'h was quite important in French foreign affairs, and was influential to Charles de Gaulle, whose ideas about Indochina  were considered  naive and extreme.
+Size of evaluation set: 9634
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 9634
+Positive examples: 2234
+Negative examples: 7400
+---------------------------------------------------------------------------
+   True positives: 940
+  False positives: 428
+   True negatives: 6972
+  False negatives: 1294
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.687134502924
+           Recall: 0.420769919427
+        F-Measure: 0.521932259856
+---------------------------------------------------------------------------
+Bye!

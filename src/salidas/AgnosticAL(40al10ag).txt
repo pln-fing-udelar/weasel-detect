@@ -1,0 +1,454 @@
+Using Naive Bayes Active Learner.
+Using Evaluation corpus.
+Loading training sentences from: train_sentences.pickle
+Loading evaluation sentences from: eval_sentences.pickle
+Ok.
+Training classifier...
+Using word lemmas as features for the Bag of Words.
+Words excluded from dictionary:
+['the', ',', '.', 'be', 'of', 'and', 'in', 'to', 'a', ';']
+Size of dictionary: 490
+Initial examples: 3000
+Pool size: 7000
+Size of evaluation set: 1111
+0.999516149331, 3000 queries, P;R;F: 0.707070707071;0.443037974684;0.544747081712
+Size of evaluation set: 1111
+0.5099216836, 3050 queries, P;R;F: 0.680412371134;0.417721518987;0.517647058824
+Queries updated: 3050
+Size of evaluation set: 1111
+0.511177931155, 3100 queries, P;R;F: 0.686868686869;0.430379746835;0.529182879377
+Queries updated: 3100
+Size of evaluation set: 1111
+0.512711167853, 3150 queries, P;R;F: 0.676470588235;0.436708860759;0.530769230769
+Queries updated: 3150
+Size of evaluation set: 1111
+0.517538142023, 3200 queries, P;R;F: 0.682692307692;0.449367088608;0.541984732824
+Queries updated: 3200
+Size of evaluation set: 1111
+0.514184007795, 3250 queries, P;R;F: 0.663551401869;0.449367088608;0.535849056604
+Queries updated: 3250
+Size of evaluation set: 1111
+0.516628862788, 3300 queries, P;R;F: 0.663461538462;0.436708860759;0.526717557252
+Queries updated: 3300
+Size of evaluation set: 1111
+0.524277115046, 3350 queries, P;R;F: 0.666666666667;0.443037974684;0.532319391635
+Queries updated: 3350
+Size of evaluation set: 1111
+0.529172262362, 3400 queries, P;R;F: 0.654545454545;0.455696202532;0.537313432836
+Queries updated: 3400
+Size of evaluation set: 1111
+0.534186476335, 3450 queries, P;R;F: 0.666666666667;0.443037974684;0.532319391635
+Queries updated: 3450
+Size of evaluation set: 1111
+0.539163041473, 3500 queries, P;R;F: 0.654205607477;0.443037974684;0.528301886792
+Queries updated: 3500
+Size of evaluation set: 1111
+0.534519940568, 3550 queries, P;R;F: 0.669724770642;0.462025316456;0.546816479401
+Queries updated: 3550
+Size of evaluation set: 1111
+0.546680595112, 3600 queries, P;R;F: 0.682692307692;0.449367088608;0.541984732824
+Queries updated: 3600
+Size of evaluation set: 1111
+0.547406787729, 3650 queries, P;R;F: 0.696078431373;0.449367088608;0.546153846154
+Queries updated: 3650
+Size of evaluation set: 1111
+0.566591564381, 3700 queries, P;R;F: 0.688679245283;0.462025316456;0.55303030303
+Queries updated: 3700
+Size of evaluation set: 1111
+0.571544287055, 3750 queries, P;R;F: 0.712871287129;0.455696202532;0.555984555985
+Queries updated: 3750
+Size of evaluation set: 1111
+0.580415858993, 3800 queries, P;R;F: 0.722772277228;0.462025316456;0.563706563707
+Queries updated: 3800
+Size of evaluation set: 1111
+0.584255342079, 3850 queries, P;R;F: 0.722772277228;0.462025316456;0.563706563707
+Queries updated: 3850
+Size of evaluation set: 1111
+0.59443914521, 3900 queries, P;R;F: 0.72;0.455696202532;0.558139534884
+Queries updated: 3900
+Size of evaluation set: 1111
+0.60660572423, 3950 queries, P;R;F: 0.707070707071;0.443037974684;0.544747081712
+Queries updated: 3950
+Size of evaluation set: 1111
+0.614964797346, 4000 queries, P;R;F: 0.707070707071;0.443037974684;0.544747081712
+Queries updated: 4000
+Size of evaluation set: 1111
+0.618116065717, 4050 queries, P;R;F: 0.763440860215;0.449367088608;0.565737051793
+Queries updated: 4050
+Size of evaluation set: 1111
+0.626602155807, 4100 queries, P;R;F: 0.726315789474;0.436708860759;0.545454545455
+Queries updated: 4100
+Size of evaluation set: 1111
+0.637939366723, 4150 queries, P;R;F: 0.726315789474;0.436708860759;0.545454545455
+Queries updated: 4150
+Size of evaluation set: 1111
+0.646511339366, 4200 queries, P;R;F: 0.726315789474;0.436708860759;0.545454545455
+Queries updated: 4200
+Size of evaluation set: 1111
+0.644607805947, 4250 queries, P;R;F: 0.731182795699;0.430379746835;0.541832669323
+Queries updated: 4250
+Size of evaluation set: 1111
+0.655970361097, 4300 queries, P;R;F: 0.752808988764;0.424050632911;0.542510121457
+Queries updated: 4300
+Size of evaluation set: 1111
+0.67051838522, 4350 queries, P;R;F: 0.752808988764;0.424050632911;0.542510121457
+Queries updated: 4350
+Size of evaluation set: 1111
+0.672564207833, 4400 queries, P;R;F: 0.75;0.436708860759;0.552
+Queries updated: 4400
+Size of evaluation set: 1111
+0.673558739219, 4450 queries, P;R;F: 0.744444444444;0.424050632911;0.540322580645
+Queries updated: 4450
+Size of evaluation set: 1111
+0.688873679929, 4500 queries, P;R;F: 0.747252747253;0.430379746835;0.546184738956
+Queries updated: 4500
+Size of evaluation set: 1111
+0.700319256732, 4550 queries, P;R;F: 0.744444444444;0.424050632911;0.540322580645
+Queries updated: 4550
+Size of evaluation set: 1111
+0.705720997942, 4600 queries, P;R;F: 0.747252747253;0.430379746835;0.546184738956
+Queries updated: 4600
+Size of evaluation set: 1111
+0.713615997301, 4650 queries, P;R;F: 0.741573033708;0.417721518987;0.534412955466
+Queries updated: 4650
+Size of evaluation set: 1111
+0.715460026722, 4700 queries, P;R;F: 0.747252747253;0.430379746835;0.546184738956
+Queries updated: 4700
+Size of evaluation set: 1111
+0.725286972155, 4750 queries, P;R;F: 0.741573033708;0.417721518987;0.534412955466
+Queries updated: 4750
+Size of evaluation set: 1111
+0.724259307147, 4800 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 4800
+Size of evaluation set: 1111
+0.738263884155, 4850 queries, P;R;F: 0.755555555556;0.430379746835;0.548387096774
+Queries updated: 4850
+Size of evaluation set: 1111
+0.748091798295, 4900 queries, P;R;F: 0.766666666667;0.436708860759;0.556451612903
+Queries updated: 4900
+Size of evaluation set: 1111
+0.752363196801, 4950 queries, P;R;F: 0.758241758242;0.436708860759;0.55421686747
+Queries updated: 4950
+Size of evaluation set: 1111
+0.755925384652, 5000 queries, P;R;F: 0.752688172043;0.443037974684;0.557768924303
+Queries updated: 5000
+Size of evaluation set: 1111
+0.75902973221, 5050 queries, P;R;F: 0.755555555556;0.430379746835;0.548387096774
+Queries updated: 5050
+Size of evaluation set: 1111
+0.76823777066, 5100 queries, P;R;F: 0.766666666667;0.436708860759;0.556451612903
+Queries updated: 5100
+Size of evaluation set: 1111
+0.771912789008, 5150 queries, P;R;F: 0.752808988764;0.424050632911;0.542510121457
+Queries updated: 5150
+Size of evaluation set: 1111
+0.780659189436, 5200 queries, P;R;F: 0.772727272727;0.430379746835;0.552845528455
+Queries updated: 5200
+Size of evaluation set: 1111
+0.784585300719, 5250 queries, P;R;F: 0.760869565217;0.443037974684;0.56
+Queries updated: 5250
+Size of evaluation set: 1111
+0.7912740011, 5300 queries, P;R;F: 0.755555555556;0.430379746835;0.548387096774
+Queries updated: 5300
+Size of evaluation set: 1111
+0.796147283531, 5350 queries, P;R;F: 0.758241758242;0.436708860759;0.55421686747
+Queries updated: 5350
+Size of evaluation set: 1111
+0.800499813201, 5400 queries, P;R;F: 0.758241758242;0.436708860759;0.55421686747
+Queries updated: 5400
+Size of evaluation set: 1111
+0.804376923504, 5450 queries, P;R;F: 0.772727272727;0.430379746835;0.552845528455
+Queries updated: 5450
+Size of evaluation set: 1111
+0.808389238874, 5500 queries, P;R;F: 0.772727272727;0.430379746835;0.552845528455
+Queries updated: 5500
+Size of evaluation set: 1111
+0.811345231879, 5550 queries, P;R;F: 0.770114942529;0.424050632911;0.54693877551
+Queries updated: 5550
+Size of evaluation set: 1111
+0.815639346605, 5600 queries, P;R;F: 0.767441860465;0.417721518987;0.540983606557
+Queries updated: 5600
+Size of evaluation set: 1111
+0.817103780996, 5650 queries, P;R;F: 0.767441860465;0.417721518987;0.540983606557
+Queries updated: 5650
+Size of evaluation set: 1111
+0.821902777261, 5700 queries, P;R;F: 0.776470588235;0.417721518987;0.543209876543
+Queries updated: 5700
+Size of evaluation set: 1111
+0.826254467521, 5750 queries, P;R;F: 0.77380952381;0.411392405063;0.537190082645
+Queries updated: 5750
+Size of evaluation set: 1111
+0.833259652758, 5800 queries, P;R;F: 0.775280898876;0.436708860759;0.558704453441
+Queries updated: 5800
+Size of evaluation set: 1111
+0.833981055271, 5850 queries, P;R;F: 0.767441860465;0.417721518987;0.540983606557
+Queries updated: 5850
+Size of evaluation set: 1111
+0.839548374653, 5900 queries, P;R;F: 0.781609195402;0.430379746835;0.555102040816
+Queries updated: 5900
+Size of evaluation set: 1111
+0.846172877847, 5950 queries, P;R;F: 0.775280898876;0.436708860759;0.558704453441
+Queries updated: 5950
+Size of evaluation set: 1111
+0.848878211396, 6000 queries, P;R;F: 0.777777777778;0.443037974684;0.564516129032
+Queries updated: 6000
+Size of evaluation set: 1111
+0.85125928217, 6050 queries, P;R;F: 0.772727272727;0.430379746835;0.552845528455
+Queries updated: 6050
+Size of evaluation set: 1111
+0.854757584833, 6100 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 6100
+Size of evaluation set: 1111
+0.859779929067, 6150 queries, P;R;F: 0.786516853933;0.443037974684;0.566801619433
+Queries updated: 6150
+Size of evaluation set: 1111
+0.86192758227, 6200 queries, P;R;F: 0.775280898876;0.436708860759;0.558704453441
+Queries updated: 6200
+Size of evaluation set: 1111
+0.866092503461, 6250 queries, P;R;F: 0.78021978022;0.449367088608;0.570281124498
+Queries updated: 6250
+Size of evaluation set: 1111
+0.869966328396, 6300 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 6300
+Size of evaluation set: 1111
+0.875214196368, 6350 queries, P;R;F: 0.758241758242;0.436708860759;0.55421686747
+Queries updated: 6350
+Size of evaluation set: 1111
+0.878979700024, 6400 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 6400
+Size of evaluation set: 1111
+0.88358701451, 6450 queries, P;R;F: 0.771739130435;0.449367088608;0.568
+Queries updated: 6450
+Size of evaluation set: 1111
+0.886896493393, 6500 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 6500
+Size of evaluation set: 1111
+0.890247670557, 6550 queries, P;R;F: 0.769230769231;0.443037974684;0.562248995984
+Queries updated: 6550
+Size of evaluation set: 1111
+0.89187636943, 6600 queries, P;R;F: 0.763440860215;0.449367088608;0.565737051793
+Queries updated: 6600
+Size of evaluation set: 1111
+0.894773455883, 6650 queries, P;R;F: 0.782608695652;0.455696202532;0.576
+Queries updated: 6650
+Size of evaluation set: 1111
+0.899601554041, 6700 queries, P;R;F: 0.774193548387;0.455696202532;0.573705179283
+Queries updated: 6700
+Size of evaluation set: 1111
+0.901431214372, 6750 queries, P;R;F: 0.795698924731;0.46835443038;0.589641434263
+Queries updated: 6750
+Size of evaluation set: 1111
+0.903329074663, 6800 queries, P;R;F: 0.78021978022;0.449367088608;0.570281124498
+Queries updated: 6800
+Size of evaluation set: 1111
+0.90646966488, 6850 queries, P;R;F: 0.78021978022;0.449367088608;0.570281124498
+Queries updated: 6850
+Size of evaluation set: 1111
+0.909129262298, 6900 queries, P;R;F: 0.776595744681;0.462025316456;0.579365079365
+Queries updated: 6900
+Size of evaluation set: 1111
+0.912195186873, 6950 queries, P;R;F: 0.782608695652;0.455696202532;0.576
+Queries updated: 6950
+Size of evaluation set: 1111
+0.914813452236, 7000 queries, P;R;F: 0.802197802198;0.462025316456;0.586345381526
+Queries updated: 7000
+Size of evaluation set: 1111
+0.916658553788, 7050 queries, P;R;F: 0.784946236559;0.462025316456;0.581673306773
+Queries updated: 7050
+Size of evaluation set: 1111
+0.918691719947, 7100 queries, P;R;F: 0.787234042553;0.46835443038;0.587301587302
+Queries updated: 7100
+Size of evaluation set: 1111
+0.923056071227, 7150 queries, P;R;F: 0.773195876289;0.474683544304;0.588235294118
+Queries updated: 7150
+Size of evaluation set: 1111
+0.925074419959, 7200 queries, P;R;F: 0.773195876289;0.474683544304;0.588235294118
+Queries updated: 7200
+Size of evaluation set: 1111
+0.927758560606, 7250 queries, P;R;F: 0.778947368421;0.46835443038;0.584980237154
+Queries updated: 7250
+Size of evaluation set: 1111
+0.930412447312, 7300 queries, P;R;F: 0.787234042553;0.46835443038;0.587301587302
+Queries updated: 7300
+Size of evaluation set: 1111
+0.933082114916, 7350 queries, P;R;F: 0.787234042553;0.46835443038;0.587301587302
+Queries updated: 7350
+Size of evaluation set: 1111
+0.935099387217, 7400 queries, P;R;F: 0.787234042553;0.46835443038;0.587301587302
+Queries updated: 7400
+Size of evaluation set: 1111
+0.938109244059, 7450 queries, P;R;F: 0.78125;0.474683544304;0.590551181102
+Queries updated: 7450
+Size of evaluation set: 1111
+0.940210731168, 7500 queries, P;R;F: 0.773195876289;0.474683544304;0.588235294118
+Queries updated: 7500
+Size of evaluation set: 1111
+0.941775530764, 7550 queries, P;R;F: 0.768421052632;0.462025316456;0.577075098814
+Queries updated: 7550
+Size of evaluation set: 1111
+0.943907297448, 7600 queries, P;R;F: 0.770833333333;0.46835443038;0.582677165354
+Queries updated: 7600
+Size of evaluation set: 1111
+0.94646639638, 7650 queries, P;R;F: 0.757894736842;0.455696202532;0.569169960474
+Queries updated: 7650
+Size of evaluation set: 1111
+0.948132392191, 7700 queries, P;R;F: 0.765306122449;0.474683544304;0.5859375
+Queries updated: 7700
+Size of evaluation set: 1111
+0.950084365629, 7750 queries, P;R;F: 0.767676767677;0.481012658228;0.591439688716
+Queries updated: 7750
+Size of evaluation set: 1111
+0.95147787745, 7800 queries, P;R;F: 0.775510204082;0.481012658228;0.59375
+Queries updated: 7800
+Size of evaluation set: 1111
+0.954058714336, 7850 queries, P;R;F: 0.775510204082;0.481012658228;0.59375
+Queries updated: 7850
+Size of evaluation set: 1111
+0.956169301708, 7900 queries, P;R;F: 0.773195876289;0.474683544304;0.588235294118
+Queries updated: 7900
+Size of evaluation set: 1111
+0.957891717728, 7950 queries, P;R;F: 0.76;0.481012658228;0.589147286822
+Queries updated: 7950
+Size of evaluation set: 1111
+0.959558803572, 8000 queries, P;R;F: 0.747572815534;0.487341772152;0.590038314176
+Queries updated: 8000
+Size of evaluation set: 1111
+0.960548016266, 8050 queries, P;R;F: 0.75;0.493670886076;0.595419847328
+Queries updated: 8050
+Size of evaluation set: 1111
+0.962534246417, 8100 queries, P;R;F: 0.75;0.493670886076;0.595419847328
+Queries updated: 8100
+Size of evaluation set: 1111
+0.965305710646, 8150 queries, P;R;F: 0.75;0.493670886076;0.595419847328
+Queries updated: 8150
+Size of evaluation set: 1111
+0.967196160158, 8200 queries, P;R;F: 0.745098039216;0.481012658228;0.584615384615
+Queries updated: 8200
+Size of evaluation set: 1111
+0.969057388529, 8250 queries, P;R;F: 0.735849056604;0.493670886076;0.590909090909
+Queries updated: 8250
+Size of evaluation set: 1111
+0.970533575804, 8300 queries, P;R;F: 0.731481481481;0.5;0.593984962406
+Queries updated: 8300
+Size of evaluation set: 1111
+0.972596419789, 8350 queries, P;R;F: 0.740740740741;0.506329113924;0.601503759398
+Queries updated: 8350
+Size of evaluation set: 1111
+0.97362831929, 8400 queries, P;R;F: 0.72972972973;0.512658227848;0.602230483271
+Queries updated: 8400
+Size of evaluation set: 1111
+0.975242113345, 8450 queries, P;R;F: 0.72972972973;0.512658227848;0.602230483271
+Queries updated: 8450
+Size of evaluation set: 1111
+0.976824397171, 8500 queries, P;R;F: 0.719298245614;0.518987341772;0.602941176471
+Queries updated: 8500
+Size of evaluation set: 1111
+0.97823487477, 8550 queries, P;R;F: 0.721739130435;0.525316455696;0.608058608059
+Queries updated: 8550
+Size of evaluation set: 1111
+0.979613600378, 8600 queries, P;R;F: 0.709401709402;0.525316455696;0.603636363636
+Queries updated: 8600
+Size of evaluation set: 1111
+0.980949778713, 8650 queries, P;R;F: 0.703389830508;0.525316455696;0.601449275362
+Queries updated: 8650
+Size of evaluation set: 1111
+0.982244309756, 8700 queries, P;R;F: 0.703389830508;0.525316455696;0.601449275362
+Queries updated: 8700
+Size of evaluation set: 1111
+0.983837601949, 8750 queries, P;R;F: 0.703389830508;0.525316455696;0.601449275362
+Queries updated: 8750
+Size of evaluation set: 1111
+0.984929111203, 8800 queries, P;R;F: 0.703389830508;0.525316455696;0.601449275362
+Queries updated: 8800
+Size of evaluation set: 1111
+0.98619878627, 8850 queries, P;R;F: 0.697478991597;0.525316455696;0.599277978339
+Queries updated: 8850
+Size of evaluation set: 1111
+0.986906245283, 8900 queries, P;R;F: 0.685950413223;0.525316455696;0.594982078853
+Queries updated: 8900
+Size of evaluation set: 1111
+0.98814561408, 8950 queries, P;R;F: 0.688524590164;0.53164556962;0.6
+Queries updated: 8950
+Size of evaluation set: 1111
+0.988946090042, 9000 queries, P;R;F: 0.677419354839;0.53164556962;0.595744680851
+Queries updated: 9000
+Size of evaluation set: 1111
+0.989832978475, 9050 queries, P;R;F: 0.68;0.537974683544;0.600706713781
+Queries updated: 9050
+Size of evaluation set: 1111
+0.990334698861, 9100 queries, P;R;F: 0.68;0.537974683544;0.600706713781
+Queries updated: 9100
+Size of evaluation set: 1111
+0.99077184899, 9150 queries, P;R;F: 0.68253968254;0.544303797468;0.605633802817
+Queries updated: 9150
+Size of evaluation set: 1111
+0.991388044355, 9200 queries, P;R;F: 0.68992248062;0.563291139241;0.620209059233
+Queries updated: 9200
+Size of evaluation set: 1111
+0.991834043239, 9250 queries, P;R;F: 0.679389312977;0.563291139241;0.615916955017
+Queries updated: 9250
+Size of evaluation set: 1111
+0.992251609322, 9300 queries, P;R;F: 0.679104477612;0.575949367089;0.623287671233
+Queries updated: 9300
+Size of evaluation set: 1111
+0.992693173198, 9350 queries, P;R;F: 0.679104477612;0.575949367089;0.623287671233
+Queries updated: 9350
+Size of evaluation set: 1111
+0.993098584772, 9400 queries, P;R;F: 0.674074074074;0.575949367089;0.621160409556
+Queries updated: 9400
+Size of evaluation set: 1111
+0.99353501791, 9450 queries, P;R;F: 0.674074074074;0.575949367089;0.621160409556
+Queries updated: 9450
+Size of evaluation set: 1111
+0.993877097679, 9500 queries, P;R;F: 0.676470588235;0.582278481013;0.625850340136
+Queries updated: 9500
+Size of evaluation set: 1111
+0.994249282124, 9550 queries, P;R;F: 0.678832116788;0.588607594937;0.630508474576
+Queries updated: 9550
+Size of evaluation set: 1111
+0.994561347481, 9600 queries, P;R;F: 0.671532846715;0.582278481013;0.623728813559
+Queries updated: 9600
+Size of evaluation set: 1111
+0.994805516302, 9650 queries, P;R;F: 0.673758865248;0.601265822785;0.635451505017
+Queries updated: 9650
+Size of evaluation set: 1111
+0.995111419294, 9700 queries, P;R;F: 0.664335664336;0.601265822785;0.63122923588
+Queries updated: 9700
+Size of evaluation set: 1111
+0.99542946775, 9750 queries, P;R;F: 0.666666666667;0.607594936709;0.635761589404
+Queries updated: 9750
+Size of evaluation set: 1111
+0.995671654323, 9800 queries, P;R;F: 0.657534246575;0.607594936709;0.631578947368
+Queries updated: 9800
+Size of evaluation set: 1111
+0.996023992483, 9850 queries, P;R;F: 0.657534246575;0.607594936709;0.631578947368
+Queries updated: 9850
+Size of evaluation set: 1111
+0.997269865778, 9900 queries, P;R;F: 0.655172413793;0.601265822785;0.627062706271
+Queries updated: 9900
+Size of evaluation set: 1111
+0.998335843822, 9950 queries, P;R;F: 0.657342657343;0.594936708861;0.624584717608
+Queries updated: 9950
+Size of evaluation set: 1111
+0.999853893824, 10000 queries, P;R;F: 0.652777777778;0.594936708861;0.622516556291
+Queries updated: 10000
+Ok.
+Evaluating classifier...
+Size of evaluation set: 9634
+PRINTING RESULT
+---------------------------------------------------------------------------
+   Total examples: 9634
+Positive examples: 2234
+Negative examples: 7400
+---------------------------------------------------------------------------
+   True positives: 917
+  False positives: 413
+   True negatives: 6987
+  False negatives: 1317
+---------------------------------------------------------------------------
+Measures
+        Precision: 0.689473684211
+           Recall: 0.410474485228
+        F-Measure: 0.514590347924
+---------------------------------------------------------------------------
+Bye!
